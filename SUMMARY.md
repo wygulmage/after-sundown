@@ -4,7 +4,7 @@
 * [Introduction](introduction.md)
 * [Terrible Places and People](terrible_places_and_people.md)
    * [Maya](terrible_places_and_people/maya.md)
-   * Limbo
+   * [Limbo](terrible_places_and_people/limbo.md)
    * Mictlan
    * Being In Between Worlds
    * Terrible People
