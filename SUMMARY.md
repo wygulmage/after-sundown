@@ -1,6 +1,6 @@
 # Summary
 
-* [Title Page](README.md)
+* [Readme](README.md)
 * Introduction
 * Terrible Places
 * Running The Game
