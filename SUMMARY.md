@@ -2,7 +2,12 @@
 
 * [Readme](README.md)
 * [Introduction](introduction.md)
-* [Terrible Places](terrible_places.md)
+* [Terrible Places and People](terrible_places_and_people.md)
+  * Maya
+  * Limbo
+  * Mictlan
+  * Being In Between Worlds
+  * Terrible People
 * Running The Game
 * Monstrous Society
 * Skills
