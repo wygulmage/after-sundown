@@ -174,55 +174,75 @@ _Bubble Bubble._
 
 Witches are people who have learned Magic. In a horror setting, magic is in almost all cases bad. The genre is pretty light on Glinda the Goods and Merlins. Magicians are generally vindictive cackling gypsies, satanic sorcerers, mysterious strangers, and a myriad of other titles both hackneyed and terrifying. They spend a lot more time sacrificing people to gods ancient and evil and a lot less time preparing good children to go to the ball than magicians in other genres.
 
-Magic that humans can use comes from three sources in After Sundown. There is the magic of Death, which is evil. There is Devil magic, which is evil. And finally there is the twisted sorceries of Nightmares, and that's evil as well. It's not that you can't do good as a magician, you totally can. It's just that the magic itself is evil and using it is dangerous even if you are the virtuous Chandu. The horror movies of the 30s didn't distinguish particularly between people from India and China (both were in "The East"), and we hearken to that slightly by leaving all traditions of magic as variations of the basic three. While a character may well be a voodoo death magician or an Aztec or Egyptian death magician, the magical set is all the same. Death magic is death magic whether you call upon bones with Chinese runes or African chants.
+Magic that humans can use comes from three sources in After Sundown. There is the magic of Death, which is evil. There is Devil magic, which is evil. And finally there is the twisted sorceries of Nightmares, and that's evil as well. It's not that you can't do good as a magician, you totally can. It's just that the magic itself is evil and using it is dangerous even if you are the virtuous [Chandu](http://www.imdb.com/title/tt0022753/). The horror movies of the 30s didn't distinguish particularly between people from India and China (both were in "The East"), and we hearken to that slightly by leaving all traditions of magic as variations of the basic three. While a character may well be a voodoo death magician or an Aztec or Egyptian death magician, the magical set is all the same. Death magic is death magic whether you call upon bones with Chinese runes or African chants.
 
-An important thing to realize is that The Mummy is actually a Witch.  That's just how they do immortality. Sometimes it's an immortality where you do evil magic and you look like a normal person (see the 1933 [i]or[/i] 1999 [u]The Mummy[/u]) and sometimes you look like a crazy corpse in special bandages (like in [u]Bubba Hotep[/u]). It really depends. Either way, if you want to be a leftover from Egypt or Aztlan you are a Witch (or a Vampire of course). However, and this is important, the Mummies from the middle Mummy movies such as [u]The Mummy's Ghost[/u] and... sigh... [u]The Mummy's Curse[/u] where the Mummy lurches around and smashes things - that Mummy is an Animate instead, so pick a schtick and go with it.
-[b]Exemplars:[/b] Imhotep, Roxor, Hjalmar Poelzig, Chandu[/list][list][b][size=18]Transhuman[/size][/b]
-[i]Just a scientific experiment. To do something no other man in the world had done.[/i]
-Humans do not, in general, have supernatural powers. However, in the horror genre there are a number of people who experience an event which changes them irrevocably into something different. Something [i]more[/i]. These people generally go stark raving mad, and in not very long. The certainty that they are no longer human causes them to lose sight of human priorities, human morality. While they have become something more, they are also something [i]less[/i].
+An important thing to realize is that The Mummy is actually a Witch.  That's just how they do immortality. Sometimes it's an immortality where you do evil magic and you look like a normal person (see the [1933](http://www.imdb.com/title/tt0023245/) _or_ [1999](http://www.imdb.com/title/tt0120616/) The Mummy) and sometimes you look like a crazy corpse in special bandages (like in [Bubba Ho-Tep](http://www.imdb.com/title/tt0281686/)). It really depends. Either way, if you want to be a leftover from Egypt or Aztlan you are a Witch (or a Vampire of course). However, and this is important, the Mummies from the middle Mummy movies such as [The Mummy's Ghost](http://www.imdb.com/title/tt0037099/) and... sigh... [The Mummy's Curse](http://www.imdb.com/title/tt0037098/), where the Mummy lurches around and smashes things, that Mummy is an Animate instead. So pick a schtick and go with it.
 
-The transformational event can be scientific or magical. Or a bit of both. A Transhuman always has an "origin story" which is to some degree unique. The Invisible Man took scientific chemicals. Anck Su Namun simply woke up one day and realized that she is the reincarnation of an Egyptian princess. Ayesha stepped into the mystical [i]flame of life[/i] and stepped out an inhuman thing. Whatever the event was, it was the last thing that he or she did as a human, and the reality of that fact is as destructive to the self as the subsequent  revelations of the magical world and the horrors which inhabit it.
-[b]Exemplars:[/b] The Invisible Man, Mr. Hyde, Anck Su Namun, Ayesha[/list][list][b][size=18]Leviathan[/size][/b]
-[i]His face was fish-like. [/i]
-Supposedly in pre-Sumerian times there was a great mother of monsters. Her name was Tiamat. Or Vritra. It's not really that important what her name was, because she was killed by a powerful human sorcerer about 4000 BCE. And most of her monstrous brood is gone as well, but not all of it. Some of them interbred with humans and hid their lineage in the darkest corners of the world. They hid from the world of men for millennia, some lurking in darkness and plotting revenge and others merely living their own lives - the ancient conflict long forgotten.
+**Exemplars:** [Imhotep](http://www.imdb.com/title/tt0023245/), [Roxor](http://www.imdb.com/character/ch0047508/), [Hjalmar Poelzig](http://www.imdb.com/character/ch0049196/), [Chandu](http://www.imdb.com/title/tt0022753/)
+
+#### Transhuman
+_Just a scientific experiment. To do something no other man in the world had done._
+
+Humans do not, in general, have supernatural powers. However, in the horror genre there are a number of people who experience an event which changes them irrevocably into something different. Something _more_. These people generally go stark raving mad, and in not very long. The certainty that they are no longer human causes them to lose sight of human priorities, human morality. While they have become something more, they are also something _less_.
+
+The transformational event can be scientific or magical. Or a bit of both. A Transhuman always has an "origin story" which is to some degree unique. [The Invisible Man](http://www.imdb.com/title/tt0024184/) took scientific chemicals. [Anck Su Namun](http://www.imdb.com/character/ch0046350/) simply woke up one day and realized that she is the reincarnation of an Egyptian princess. [Ayesha](https://en.wikipedia.org/wiki/Ayesha_%28novel%29) stepped into the mystical _flame of life_ and stepped out an inhuman thing. Whatever the event was, it was the last thing that he or she did as a human, and the reality of that fact is as destructive to the self as the subsequent revelations of the magical world and the horrors which inhabit it.
+
+**Exemplars:** [The Invisible Man](http://www.imdb.com/title/tt0024184/), [Mr. Hyde](http://www.imdb.com/title/tt0022835/), [Anck Su Namun](http://www.imdb.com/character/ch0046350/), [Ayesha](https://en.wikipedia.org/wiki/Ayesha_%28novel%29)
+
+#### Leviathan
+_His face was fish-like._
+
+Supposedly in pre-Sumerian times there was a great mother of monsters. Her name was Tiamat. Or Vritra. It's not really that important what her name was, because she was killed by a powerful human sorcerer around 4000 BCE, and most of her monstrous brood is gone as well. But not all of it. Some of them interbred with humans and hid their lineage in the darkest corners of the world. They hid from the world of men for millennia, some lurking in darkness and plotting revenge and others merely living their own lives - the ancient conflict long forgotten.
 
 But that's not really possible now. Things are modern, and there is nowhere to hide. Those who carry the taint of Tiamat's spawn in their ancestry or are cursed with the taint during their lives are both hunted and feared. They are destructive, and eating their flesh can make you live forever. Of course, eating their flesh makes you like them, and puts you into the same danger. But hey, immortality.
 
-In After Sundown, these creatures often hang out at the edges of society - places which while nominally explored aren't actually [i]watched[/i] very carefully. 
-[b]Exemplars:[/b] Gillman, Mole Man, Robert Olmstead, Moth Man[/list]
+In After Sundown, these creatures often hang out at the edges of society - places which while nominally explored aren't actually _watched_ very carefully.
 
-[b][size=20]The Non-Playable Types[/b][/size]
+**Exemplars:** [Gillman](http://www.imdb.com/title/tt0046876/), [Mole Man](http://www.imdb.com/title/tt0049516/), Robert Olmstead, [Moth Man](http://www.imdb.com/title/tt1514425/)
 
-Not only must we make explicit what appears on the player's side, we also need to decide ahead of time what is around, supernaturally speaking [i]in the world[/i]. Many people protest this. If they want to have unicorns show up for a storyline, why shouldn't they, as the MC, just do that? The answer is that in a cooperative storytelling game, the players need some sort of ground state to tell their own back stories and to make plans for future intrigue. Whether or not the [i]character[/i] knows that such and such a creature exists or such and such a world spanning organization is up to its evil schemes, the [i]player[/i] needs to at the very least have access to that information. And while it may seem like that would spoil surprises - and it does sometimes - in a much more important way it prevents [i]narrative dissonance[/i]. Narrative dissonance appears in cooperative storytelling games much the way continuity errors appear in horror films. And while it is certainly jarring to watch the part in [u]Leprechaun[/u] where they drive off in the second car despite the fact that they had earlier lamented being stranded when the first car wouldn't start - it is still a movie and thus the plot (such as it is) just keeps rolling along whether you notice the discrepancy or not. In a cooperative storytelling game however, such an event would just crash everything to a halt. The players and the MC would have to sit down and work something out, because they are all imagining the world together and there is no "next scene" until everyone gets their imaginations working together.
+### The Non-Playable Types
 
-[list][b][size=18]Zombies[/size][/b]
-[i]Brains![/i]
+Not only must we make explicit what appears on the player's side, we also need to decide ahead of time what is around, supernaturally speaking _in the world_. Many people protest this. If they want to have unicorns show up for a storyline, why shouldn't they, as the MC, just do that? The answer is that in a cooperative storytelling game, the players need some sort of ground state to tell their own back stories and to make plans for future intrigue. Whether or not the _character_ knows that such and such a creature exists or such and such a world spanning organization is up to its evil schemes, the _player_ needs to at the very least have access to that information. And while it may seem like that would spoil surprises - and it does sometimes - in a much more important way it prevents _narrative dissonance_. Narrative dissonance appears in cooperative storytelling games much the way continuity errors appear in horror films. And while it is certainly jarring to watch the part in [Leprechaun](http://www.imdb.com/title/tt0107387/) where they drive off in the second car despite the fact that they had earlier lamented being stranded when the first car wouldn't start - it is still a movie and thus the plot (such as it is) just keeps rolling along whether you notice the discrepancy or not. In a cooperative storytelling game however, such an event would just crash everything to a halt. The players and the MC would have to sit down and work something out, because they are all imagining the world together and there is no "next scene" until everyone gets their imaginations working together.
+
+#### Zombies
+_Brains!_
+
 Zombies are the result of evil magic, ghastly diseases, or super science which transforms dead bodies into lurching, brain eating monsters. Zombies hunger for the living and have a tendency to rampage constantly. Some zombies are fast, some are slow. Some can figure out doorknobs and others can't. But they all hunger for the living. Zombie spawn can create new zombie spawn just by killing extras, so zombie outbreaks can get really big, really fast.
-[b]Exemplars:[/b] Shelly Winters, Sheila, Ed
-[/list]
-[list][b][size=18]Fey[/size][/b]
-[i]Ha! Ha![/i]
-Fairies in horror movies come from the same ghastly hell dimension that the demons do. These are [i]not[/i] the shimmering pixies from Neverland, these are the hideous flesh eating goblins from the Goblin Market. They come in small and extra large sizes, and are generally easy to confuse.
-[b]Exemplars:[/b] The Leprechaun, Rumplestiltskin, Pan, Pyramidhead
-[/list]
-[list][b][size=18]Demons[/size][/b]
-[i]My God![/i]
-[i]Not yet, human. Soon... very soon I will be. [/i]
+
+**Exemplars:** Shelly Winters, Sheila, [Ed](http://www.imdb.com/title/tt1478478/)
+
+#### Fey
+_Ha! Ha!_
+
+Fairies in horror movies come from the same ghastly hell dimension that the demons do. These are _not_ the shimmering pixies from Neverland, these are the hideous flesh eating goblins from the Goblin Market. They come in small and extra large sizes, and are generally easy to confuse.
+
+**Exemplars:** [The Leprechaun](http://www.imdb.com/title/tt0107387/), [Rumplestiltskin](http://www.imdb.com/title/tt0114306/), [Pan](http://www.imdb.com/title/tt0457430/), [Pyramidhead](https://en.wikipedia.org/wiki/Pyramid_Head)
+
+#### Demons
+_"My God!"<br />
+"Not yet, human. Soon... very soon I will be."_
+
 Made entirely of evil magic, the demons are a strange force that seeks to hurt humans and steal souls. Some appear as beautiful humans with or without horns and wings, and others look like the most nightmarish beasts the special effects budget could afford.
-[b]Exemplars:[/b] Wishmaster, Azazel, Buju, The Lady in Red
-[/list]
-[list][b][size=18]Ghosts[/size][/b]
-[i]Boo![/i]
-When humans die and they are [i]super pissed[/i] about something, they will occasionally linger on after death and become a ghost. Ghosts don't interact properly with physical objects and other people, and in any case are fed only by strong human emotions. So they gradually lose themselves and go batshit crazy, becoming a force that is more and more destructive.
-[b]Exemplars:[/b] Slimer, Patrick Swayze, The Mist
-[/list]
-[list][b][size=18]Giant Animals[/size][/b]
-[i]Rar![/i]
-The wilderness of horror is a dangerous place with a spectacularly large array of things that can kill you. Man eating beasts of tremendous size roam the woods, the lakes, the swamps, and probably the mountains. Being eaten by sharks, crocodiles, tigers, or [i]whatever[/i] is a severe threat. And yes, these super charged zoo rejects have magic powers sometimes.
-[b]Exemplars:[/b] Jaws, Joe Young, Boa, Python
-[/list]
-[list][b][size=18]Evil Plants[/size][/b]
-[i]From now on, I'm shooting my salad [/i]before[i] I eat it.[/i]
-The evil plants grow out of the ground in weird pods that make the soundtrack want to bust out theremin tracks.  They grow out of humans and often have mind control and other weird powers. These things might actually [i]be[/i] from Space. But since they don't have a civilization or space ships (that we know of), it's not super important. 
-[b]Exemplars:[/b] Body Snatchers, The Thing, Swamp Thing
-[/list][/quote]
+
+**Exemplars:** [Wishmaster](http://www.imdb.com/title/tt0120524/), [Azazel](https://en.wikipedia.org/wiki/Azazel_%28Marvel_Comics%29), Buju, The Lady in Red
+
+#### Ghosts
+_Boo!_
+
+When humans die and they are _super pissed_ about something, they will occasionally linger on after death and become a ghost. Ghosts don't interact properly with physical objects and other people, and in any case are fed only by strong human emotions. So they gradually lose themselves and go batshit crazy, becoming a force that is more and more destructive.
+
+**Exemplars:** [Slimer](http://www.imdb.com/title/tt0097428/), [Patrick Swayze](http://www.imdb.com/title/tt0099653/), [The Mist](http://www.imdb.com/title/tt0884328/)
+
+#### Giant Animals
+_Rar!_
+
+The wilderness of horror is a dangerous place with a spectacularly large array of things that can kill you. Man eating beasts of tremendous size roam the woods, the lakes, the swamps, and probably the mountains. Being eaten by sharks, crocodiles, tigers, or _whatever_ is a severe threat. And yes, these super charged zoo rejects have magic powers sometimes.
+
+**Exemplars:** [Jaws](http://www.imdb.com/title/tt0073195/), [Joe Young](http://www.imdb.com/title/tt0041650/), [Boa](http://www.imdb.com/title/tt0412523/), [Python](http://www.imdb.com/title/tt0412523/)
+
+#### Evil Plants
+_From now on, I'm shooting my salad **before** I eat it._
+
+The evil plants grow out of the ground in weird pods that make the soundtrack want to bust out theremin tracks.  They grow out of humans and often have mind control and other weird powers. These things might actually _be_ from Space. But since they don't have a civilization or space ships (that we know of), it's not super important.
+
+**Exemplars:** [Body Snatchers](http://www.imdb.com/title/tt0106452/), [The Thing](http://www.imdb.com/title/tt0084787/), [Swamp Thing](http://www.imdb.com/title/tt0084745/)
