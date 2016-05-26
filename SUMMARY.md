@@ -6,7 +6,7 @@
    * [Maya](terrible_places_and_people/maya.md)
    * [Limbo](terrible_places_and_people/limbo.md)
    * [Mictlan](terrible_places_and_people/mictlan.md)
-   * Being In Between Worlds
+   * [Being In Between Worlds](terrible_places_and_people/being_in_between_worlds.md)
    * Terrible People
 * Running The Game
 * Monstrous Society
