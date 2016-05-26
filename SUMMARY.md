@@ -1,7 +1,7 @@
 # Summary
 
 * [Readme](README.md)
-* Introduction
+* [Introduction](introduction.md)
 * Terrible Places
 * Running The Game
 * Monstrous Society
@@ -14,3 +14,4 @@
 * The World at Night
 * Persona non Grata
 * Points of View
+
