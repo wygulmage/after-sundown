@@ -5,7 +5,7 @@
 * [Terrible Places and People](terrible_places_and_people.md)
    * [Maya](terrible_places_and_people/maya.md)
    * [Limbo](terrible_places_and_people/limbo.md)
-   * Mictlan
+   * [Mictlan](terrible_places_and_people/mictlan.md)
    * Being In Between Worlds
    * Terrible People
 * Running The Game
