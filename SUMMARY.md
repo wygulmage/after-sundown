@@ -2,7 +2,7 @@
 
 * [Readme](README.md)
 * [Introduction](introduction.md)
-* Terrible Places
+* [Terrible Places](terrible_places.md)
 * Running The Game
 * Monstrous Society
 * Skills
