@@ -8,7 +8,7 @@
    * [Mictlan](terrible_places_and_people/mictlan.md)
    * [Being In Between Worlds](terrible_places_and_people/being_in_between_worlds.md)
    * [Terrible People](terrible_places_and_people/terrible_people.md)
-* Running The Game
+* [Running The Game](running_the_game.md)
 * Monstrous Society
 * Skills
 * Getting What You Need
