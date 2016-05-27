@@ -299,7 +299,6 @@ Characters in a Power Fantasy game have the strength to throw their weight aroun
 The important consideration is that characters in a Power Fantasy game should have roughly _equal_ bonuses. Although it is important to note that characters in such a game will be expected to be more divergent in capabilities. The nature of the dicepool system means that specialists in any field will roll more extra dice in their specialty than the other characters do than in an Origin Story or In Medias Res game. It can lend the air of a game of rocket launcher tag in Doom or Unreal. Which for a game where things are supposed to feel powerful is fine.
 
 ## Placing Opposition
-
 _In the third series, one of the main antagonists is her own daughter from an alternate timeline where she has become evil and resentful. There weren't a lot of things left in the current world that could challenge her after the shenanigans of the second series._
 
 The key thing to remember as an MC is that you don't _get_ anything for thwarting the protagonists. While it is generally a good idea to make the progression of the chronicle feel somewhat challenging, there is no special benefit to be had by terminating the chronicle early due to failure or character death. When designing opposition for the player characters, the goal should be to maintain the verisimilitude of the world first, and to provide interesting and exciting challenges to the players second. "Defeating" the players is not a meaningful or acceptable goal for the MC to have.
