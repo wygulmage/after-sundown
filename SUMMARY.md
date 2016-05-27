@@ -19,7 +19,7 @@
    * [Syndicates](monstrous_society/syndicates.md)
    * [Cults](monstrous_society/cults.md)
    * [Antagonistic Organizations](monstrous_society/antagonistic_organizations.md)
-   * Political Aspirations
+   * [Political Aspirations](monstrous_society/political_aspirations.md)
 * Skills
 * Getting What You Need
 * Danger
