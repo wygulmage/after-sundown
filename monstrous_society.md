@@ -19,7 +19,7 @@ Most bands are generally 3-8 supernatural people with possibly some trusted reta
 Bands are thus structurally a very important part of the story arc for any group playing After Sundown, because they provide a _reason_ for the players to be telling the same story instead of having their characters drift apart and do their own thing. It is also important to note that many of the famous bands from genre television shows like X Files, American Gothic, and Supernatural only have two characters in them much of the time. Since After Sundown _is_ a cooperative storytelling game, that is an unreasonable expectation to have. A better template would usually be the bands from more ensemble cast shows like Angel or even Scooby Doo.
 
 ## Syndicates
-_"New plan: we _don't_ cut each other's head off in an attempt to gain asymmetric power."_
+_"New plan: we **don't** cut each other's head off in an attempt to gain asymmetric power."_
 
 Whether they like it or not, supernatural characters in After Sundown are subject to the rules and judgments of one or more of the Syndicates. Acting as defacto nation states, Syndicates provide a Hobbesian mandate of behavior that is difficult to ignore. Characters may indeed be a member of one of them, which provides benefits comparable to those of being the citizen of an archaic empire. However, breaking the edicts of any Syndicate is punishable by that Syndicate if it catches you (subject to possible negotiations if you are a well placed member of another).
 
