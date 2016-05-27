@@ -17,7 +17,7 @@
 * [Monstrous Society](monstrous_society.md)
    * [Bands](monstrous_society/bands.md)
    * [Syndicates](monstrous_society/syndicates.md)
-   * Cults
+   * [Cults](monstrous_society/cults.md)
    * Antagonistic Organizations
    * Political Aspirations
 * Skills
