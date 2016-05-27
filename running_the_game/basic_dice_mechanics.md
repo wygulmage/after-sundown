@@ -41,7 +41,7 @@ The primary purpose of basic attributes is to set the dicepools for actions. A c
 **Edge** is a measure of narrative importance that Luminaries have. Extras have an Edge of zero. You can "spend" it in a few ways
 
 * You can reroll all the dice on a test that didn't get a hit.
-* You can add a number of extra dice to a test equal to your Edge score. This is done after all other modifiers, so if your dice pool would be reduced to zero or less by penalties, you can still spend a point of Edge to try anyway.
+* You can add a number of extra dice to a test equal to your Edge score. If penalties would reduce your normal dice pool to zero or less then you can spend an Edge to try anyway with dice equal to your Edge score.
 * You can take an extra Initiative Pass. You should announce that you're going to do this after the last Initiative Pass that you'd normally take in a round. No matter what, you still can't take more than 4 Initiative Passes total within a round.
 * You can "escape" an otherwise lethal situation in a narratively appropriate way. At this point you are having fate intervene to save you in a narratively plausible fashion. This will require a negotiation of some kind with the MC to determine what is plausible under the circumstances. Maybe it's the police showing up before the Trolls have the opportunity to put the boot in, maybe it's the floor collapsing and dumping your comatose character into the basement before the flames have an opportunity to burn them to death. It is advisable that a character being saved in such a manner be inconvenienced in some fashion. It's intended as a last ditch save-your-ass moment, not something to be smugly relied upon.
 
