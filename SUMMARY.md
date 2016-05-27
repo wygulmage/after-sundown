@@ -16,7 +16,7 @@
    * [Placing Opposition](running_the_game/placing_opposition.md)
 * [Monstrous Society](monstrous_society.md)
    * [Bands](monstrous_society/bands.md)
-   * Syndicates
+   * [Syndicates](monstrous_society/syndicates.md)
    * Cults
    * Antagonistic Organizations
    * Political Aspirations
