@@ -15,11 +15,11 @@
    * [Character Generation](running_the_game/character_generation.md)
    * [Placing Opposition](running_the_game/placing_opposition.md)
 * [Monstrous Society](monstrous_society.md)
-  * Bands
-  * Syndicates
-  * Cults
-  * Antagonistic Organizations
-  * Political Aspirations
+   * [Bands](monstrous_society/bands.md)
+   * Syndicates
+   * Cults
+   * Antagonistic Organizations
+   * Political Aspirations
 * Skills
 * Getting What You Need
 * Danger
