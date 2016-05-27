@@ -10,7 +10,7 @@
    * [Terrible People](terrible_places_and_people/terrible_people.md)
 * [Running The Game](running_the_game.md)
    * [Basic Dice Mechanics](running_the_game/basic_dice_mechanics.md)
-   * Advancing Goals
+   * [Advancing Goals](running_the_game/advancing_goals.md)
    * Jobs, Missions, and Quests
    * Character Generation
    * Placing Opposition
