@@ -13,7 +13,7 @@
    * [Advancing Goals](running_the_game/advancing_goals.md)
    * [Jobs, Missions, and Quests](running_the_game/jobs,_missions,_and_quests.md)
    * [Character Generation](running_the_game/character_generation.md)
-   * Placing Opposition
+   * [Placing Opposition](running_the_game/placing_opposition.md)
 * Monstrous Society
 * Skills
 * Getting What You Need
