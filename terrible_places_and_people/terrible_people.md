@@ -69,7 +69,7 @@ But that's not really possible now. Things are modern, and there is nowhere to h
 
 In After Sundown, these creatures often hang out at the edges of society - places which while nominally explored aren't actually _watched_ very carefully.
 
-**Exemplars:** [Gillman](http://www.imdb.com/title/tt0046876/), [Mole Man](http://www.imdb.com/title/tt0049516/), Robert Olmstead, [Moth Man](http://www.imdb.com/title/tt1514425/)
+**Exemplars:** [Gillman](http://www.imdb.com/title/tt0046876/), [Mole Man](http://www.imdb.com/title/tt0049516/), [Robert Olmstead](https://en.wikipedia.org/wiki/The_Shadow_over_Innsmouth), [Moth Man](http://www.imdb.com/title/tt1514425/)
 
 ### The Non-Playable Types
 
