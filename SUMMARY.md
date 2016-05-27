@@ -9,11 +9,11 @@
    * [Being In Between Worlds](terrible_places_and_people/being_in_between_worlds.md)
    * [Terrible People](terrible_places_and_people/terrible_people.md)
 * [Running The Game](running_the_game.md)
-  * Basic Dice Mechanics
-  * Advancing Goals
-  * Jobs, Missions, and Quests
-  * Character Generation
-  * Placing Opposition
+   * [Basic Dice Mechanics](running_the_game/basic_dice_mechanics.md)
+   * Advancing Goals
+   * Jobs, Missions, and Quests
+   * Character Generation
+   * Placing Opposition
 * Monstrous Society
 * Skills
 * Getting What You Need
