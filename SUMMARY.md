@@ -14,7 +14,7 @@
    * [Jobs, Missions, and Quests](running_the_game/jobs,_missions,_and_quests.md)
    * [Character Generation](running_the_game/character_generation.md)
    * [Placing Opposition](running_the_game/placing_opposition.md)
-* Monstrous Society
+* [Monstrous Society](monstrous_society.md)
 * Skills
 * Getting What You Need
 * Danger
