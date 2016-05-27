@@ -11,7 +11,7 @@
 * [Running The Game](running_the_game.md)
    * [Basic Dice Mechanics](running_the_game/basic_dice_mechanics.md)
    * [Advancing Goals](running_the_game/advancing_goals.md)
-   * Jobs, Missions, and Quests
+   * [Jobs, Missions, and Quests](running_the_game/jobs,_missions,_and_quests.md)
    * Character Generation
    * Placing Opposition
 * Monstrous Society
