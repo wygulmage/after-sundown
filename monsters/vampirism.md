@@ -82,7 +82,7 @@ Advanced Powers
 * Indomitability (Advanced Fortitude)
 
 **Distinctive Flaw:** Compulsive Behavior
-**Story Inspiration:** Lair of the White Worm, Dracula, Ultraviolet
+**Story Inspiration:** [Lair of the White Worm](http://www.imdb.com/title/tt0095488/), [Dracula](http://www.imdb.com/title/tt0021814/), [Ultraviolet](http://www.imdb.com/title/tt0370032/)
 
 ### The Daeva
 _"It turns out that humans **in general** are a superstitious and cowardly lot. How marvelous."_
@@ -120,4 +120,4 @@ Advanced Powers
 * Flight (Clout / Magnetism Devotion)
 
 **Distinctive Flaw:** Blatantly Magical
-**Story Inspiration:** Lost Boys, Dark Stalkers, Underworld
+**Story Inspiration:** [Lost Boys](http://www.imdb.com/title/tt0093437/), [Dark Stalkers](https://en.wikipedia.org/wiki/Darkstalkers), [Underworld](http://www.imdb.com/title/tt0320691/)
