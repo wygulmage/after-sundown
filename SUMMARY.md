@@ -55,7 +55,7 @@
    * [Giant Animals](monsters/giant_animals.md)
    * [Ghosts](monsters/ghosts.md)
    * [Demons](monsters/demons.md)
-   * Evil Plants
+   * [Evil Plants](monsters/evil_plants.md)
    * Spawn Monsters
 * Magic
 * Character Options and Motivation
