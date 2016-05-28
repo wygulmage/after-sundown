@@ -23,14 +23,14 @@ An attack is usually resolved by spending a Simple Action to make the Attack. Th
 
 When a character wants to attack something it is more difficult if the target is farther away. The _range_ between the target and the attacking character determines the base threshold. However, just because a character has the _accuracy_ to strike an opponent out to a specific range does not mean that their weapon is physically capable of reaching that far, or of reaching a target at that range with any accuracy. Most weapons have a maximum range beyond which they cannot be expected to work, and most weapons have a range beyond which they become inaccurate (given in parentheses). Melee attacks of course simply have an absolute limit of their reach. If you want them to go any farther than your arm will take them you have to throw them.
 
-| Range | Meters | Threshold |
-|:------|:-------|:---------:|
-| **A**djacent | 0-2m | Special |
-| **N**ear | 2-5m | **1** |
-| **S**hort | 5-20m | **2** |
-| **W**ay out | 21-100m | **3** |
-| **E**xtreme | 101-1000m | **4** |
-| **R**emote | 1,001+ | **5** |
+| Range | Meters | Feet | Threshold |
+|:------|-------:|-----:|:---------:|
+| **A**djacent | 2m | 6ft | Special |
+| **N**ear | 5m | 16ft | **1** |
+| **S**hort | 20m | 65ft | **2** |
+| **W**ay out | 100m | 330ft | **3** |
+| **E**xtreme | 1000m | 3,280ft | **4** |
+| **R**emote | 1,001m+ | 3,281ft+ | **5** |
 
 The Threshold to hit something that is Adjacent to you is _zero_. Seriously, it's right next to you. However, if the target is a resisting creature that is aware of the impending attack, the threshold is increased to half the target's Agility + Combat (if any). Yes, against skilled opposition it is _much_ easier to shoot an opponent from 3 meters away where they can't interfere with the shot than it is to shoot them from within arm's reach where they can.
 
@@ -61,14 +61,14 @@ _There are places I want to be, places I want to see, far away from here, nowher
 
 The second most defining action in combat (after attacking) is people endeavoring to not be part of the combat. And while that often involves _hiding_ the other possibility is _running_. 12 seconds is actually kind of a long time, and characters can move quite substantial distances in those periods. It's long enough for someone who is very good at that sort of thing to run a hundred meters and then change the magazine on an M-16 (seriously). But if you actually watch horror movies (or even documentaries, not that they are better source material for After Sundown), you'll note that people actually spend many 12 second periods without covering that much ground. In part, this is because the high end of speeds that people are capable of frequently take a fair amount of time to get started, and partly this is because running off at full speed without knowing where you are going is often suicidal.
 
-| Movement Type | Speed (in meters) |
-|:--------------|:-----------------:|
-| **S**low Search | 4 |
-| **C**areful Walk | 10 |
-| **O**rdinary Walk | 18 |
-| **R**apid Jog | 27 |
-| **E**xhausting Run | 60 |
-| **D**raining Sprint | 100 |
+| Movement Type | Meters/round | Feet/round |
+|:--------------|:------------:|:----------:|
+| **S**low Search | 4m | 15ft |
+| **C**areful Walk | 10m | 30ft |
+| **O**rdinary Walk | 18m | 60ft |
+| **R**apid Jog | 27m | 90ft |
+| **E**xhausting Run | 60m | 200ft |
+| **D**raining Sprint | 100m | 330ft |
 
 In general, a character declares their intention to move before any actions are taken, and characters can take their actions as if they or their targets were where they were at any point during the turn. 12 seconds is a long time, so if someone is moving around a corner or into view it is reasonable that some number of bullets went towards them while they were in the open. For exceptions to this, see Taking One For the Team and Diving For Cover. Often it won't really matter, but characters with the lowest Initiative Score declare their movement first.
 
@@ -76,7 +76,7 @@ In general, a character declares their intention to move before any actions are 
 
 **Going Faster:** If a character is just concentrating on moving, which is to say that they spend a Complex Action on moving fast, they may make a Strength + Agility test to increase their speed by 10% per hit. And yes, this means that a character who gets 6 hits can sprint at nearly 50 KPH (30MPH). That's very fast, but it's also a lot of hits.
 
-**[size=15]Escaping from Harm[/size]**
+### Escaping from Harm
 _Slashers know shortcuts._
 
 **Disengaging:** A character can move out of close combat just as they can move into close combat. However, turning your back on a lunatic with a meat cleaver is _dangerous_. To represent this, a character moving out of Adjacent range with an opponent is not only treated as being adjacent with that opponent for the rest of the round, they are no longer actively resisting, so the threshold to hit them is just _zero_ (modified of course by circumstances such as visibility and dodging).
@@ -89,7 +89,7 @@ _Slashers know shortcuts._
 
 **Untangling:** If a character is trapped in a net, a set of handcuffs, or the grip of a monster they can attempt to escape by untangling themselves. This is generally a Complex Action. The character makes a Strength + Larceny or Agility + Larceny test, and if they succeed they have escaped. Untangling can't be tried an unlimited number of times. If the character tries and fails to escape, they are stuck until they get help or the next longer timeframe passes. The threshold to escape a net is generally 2, the threshold to escape a set of handcuffs is generally 3. The threshold to escape a character having abducted them is equal to the number of hits the abductor achieved when grabbing them in the first place.
 
-**[size=15]Chases**[/size]
+### Chases
 _Man vs. horse races are interesting. The man wins the six second sprint and the three day ultramarathon and loses everything in between._
 
 Normally in After Sundown we don't keep track of where each character exactly is at any precise point in a 12 second period. Twelve seconds is not long enough to decide that someone isn't going to answer the phone or go to the bathroom or anything, but in terms of climbing stairs or running around a room in a house it's a fairly long time, and we can assume that people are getting shots off opportunistically. However, it is also true that it is very frequently desirable to model one character running _away_ from another. In that case the simultaneity of the two characters moving makes the granularity of the turn sequence really problematic.
@@ -99,24 +99,27 @@ Normally in After Sundown we don't keep track of where each character exactly is
 **Long Chases:** When characters are performing parkour across the city or driving across town the chase can drag on for quite a while. There are concrete examples of chases that have gone on for hours or days. Even a relatively fast paced and action packed like the pulse pounding muscle car expo up and down the hills of San Francisco in [u]Bullit[/u] takes ten minutes or so and is actually quite tedious to attempt to replicate in 12 second combat rounds (48 die rolls _each_? No thanks). So a Long Chase is conducted in rounds of arbitrary length. That is to say, the game absolutely does not specify how long it is between stunts as cars continue to roll down the street or people race across rooftops. Honestly, it's hard to even tell, because most of this will get edited out of the movie anyway. What happens is that each round the chased character has the option of performing a Stunt. If they do so, the pursuer must attempt a stunt of equal craziness or the fleeing character escapes. If the retreating character declines to do a stunt to try to get away, the pursuing character can perform a stunt to catch up. If the stunt succeeds, the chased character has to match the stunt or be caught.
 
 When a character in a long chase performs a Stunt, they can choose any level of awesomeness they want from the Pedestrian "weaving through traffic" (threshold 1) to the Extreme "pulling a U turn through the grass to run the other way on a frontage road" (threshold 4) all the way to the Super Human "flipping the car over the median and driving off the onramp through oncoming traffic" (threshold 6). If they fail their stunt, then they wipe out and are no longer involved in the chase. If both characters succeed at the stunt, then the lead grows if the quarry got more net hits, and it shrinks if the pursuer gets more net hits. If neither character gets more hits, the chase continues. If neither character commits to a stunt, then the lead grows if the quarry is physically moving faster and shrinks if the chasing character is.
-[list]* **Caught:** If the chasing character narrows the lead below a narrow lead they have caught up to the chased character. This may not be the end of the chase, as it merely means that the chasing and chased characters are close enough to effect each other directly. The pursuing character may have limited options if they are both in vehicles (though they take the opportunity to perform a PIT maneuver if they were confident in their driving skills and didn't mind replacing the front end of their car). Once the quarry has been caught there is at least one round to perform close range maneuvers, but if they take their action to attempt to escape again it can go directly back to a Long Chase.
+
+* **Caught:** If the chasing character narrows the lead below a narrow lead they have caught up to the chased character. This may not be the end of the chase, as it merely means that the chasing and chased characters are close enough to effect each other directly. The pursuing character may have limited options if they are both in vehicles (though they take the opportunity to perform a PIT maneuver if they were confident in their driving skills and didn't mind replacing the front end of their car). Once the quarry has been caught there is at least one round to perform close range maneuvers, but if they take their action to attempt to escape again it can go directly back to a Long Chase.
 * **Narrow Lead:** Most Chases begin at a narrow lead. The pursuing character can perceive the chased character or vehicle with ease. If the target turns or performs a stunt, the pursuing character can see that happen. At this range the stunts are normally Strength or Agility + Athletics on foot or Intuition + Driving in a car.
 * **Wide Lead:** If the chased character widens their lead then their path is not always visible to their pursuer, and they can plausibly make an unwitnessed turn and throw their pursuer entirely. At this range, stunts are usually performed with Intuition + Stealth, but may be done with other attribute/skill combinations if the circumstances warrant.
-* **Escaped:** A chased character who pushes their lead past a wide lead has escaped altogether. They aren't even in a chase scene any more, and if the pursuer wants to catch up to them they'll have to scout them out anew.[/list]
+* **Escaped:** A chased character who pushes their lead past a wide lead has escaped altogether. They aren't even in a chase scene any more, and if the pursuer wants to catch up to them they'll have to scout them out anew.
 
 **Hide and Seek:** People cower under stairs and hide in closets from approaching slashers in horror movies all the time, and sometimes this even works. When you grab yourself a hiding place, you are putting yourself in a position where anyone who looks hard enough for you _will_ find you. There are only so many places for a person to be hiding in the basement, so if the man in the hockey mask or the reanimated Nazis spend long enough searching that basement, they _will_ find any person hiding there, and it will go poorly for someone. The gamble with hiding is that in fact, ax wielding psychopaths are busy people and they have shit to do. So if they search the basement for some amount of time without finding anyone, they'll give up and try the garage. The way this works is that the seeker announces how long they are going to look in an area and makes an Intuition + Perception test. The hider makes an Intuition + Stealth test to determine how long the base time to find them would be, and that time is divided by the hits on the Seeker's Perception test to determine how long it would actually take them to find the hiding character. If they actually spend enough time looking, the hiding place is uncovered, and if they don't, they don't.
 
 The base amount of time needed to search an area depends on how large it is and how much crap there is in it. It is important to note that it is entirely intentional that people who are more with-it and stealthy are harder to find even if they are huddling in the same place. That is how it works in the horror genre. Note also that if more than one character is hiding together, that the character with the _best_ Stealth check gets to set the threshold to find them. In the horror genre it is importantly true that masked men find you _faster_ when you split up and hide separately than when you stay together. The hide and seek table assumes that the seeker is looking in the right place. If the hider is in the closet but the seeker doesn't know that, they may be searching the whole house.
-[table][mrow]Base Time[mcol]Seeker is looking for a person in....
-[row] 3 Days[col]The Woods
-[row] 1 Day[col]The Mountain
-[row] 5 Hours[col]The Mall
-[row] 1 Hour[col]The Library
-[row] 20 minutes[col]The House
-[row] 5 Minutes[col]The Basement
-[row] 1 Minute[col]The Bedroom
-[row] 1 Round[col]The Closet
-[/table]
+
+| Base Time | Seeker is looking for a person in.... |
+|:----------|:--------------------------------------|
+| 3 Days | The Woods |
+| 1 Day | The Mountain |
+| 5 Hours | The Mall |
+| 1 Hour | The Library |
+| 20 minutes | The House |
+| 5 Minutes | The Basement |
+| 1 Minute | The Bedroom |
+| 1 Round | The Closet |
+
 The table assumes that the seeker is looking for something human sized. Very small things can be very difficult to find and can have longer base hide-and-seek times with similar hiding places. Finding an unsorted book in a library or a literal needle in a haystack could easily take all day. Characters who are hiding can also panic and run (or sneak) from cover if they think that the seeker is dedicated enough. This goes to Chases, though the option often exists to make a Stealth stunt to sneak out while the seeker has their attention elsewhere.
 
 **[size=15]Driving like a Maniac**[/size]
