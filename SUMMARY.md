@@ -29,11 +29,11 @@
    * [Using Skills](skills/using_skills.md)
    * [Using Attributes Without Skills](skills/using_attributes_without_skills.md)
 * [Getting What You Need](getting_what_you_need.md)
-  * Keeping Things Quiet
-  * Asking Around: Montages
-  * Interviewing People
-  * Persuasive Argumentation
-  * Arguments From Rhetoric
+   * [Keeping Things Quiet](getting_what_you_need/keeping_things_quiet.md)
+   * Asking Around: Montages
+   * Interviewing People
+   * Persuasive Argumentation
+   * Arguments From Rhetoric
 * Danger
 * Monsters
 * Magic
