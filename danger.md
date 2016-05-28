@@ -223,27 +223,28 @@ _"Holy crap, that looks dangerous."_
 
 Most ranged weapons do an amount of damage that is fixed regardless of how strong the user is. The strength listing on the ranged weaponry table indicates the strength required to use the weapon without penalty in two hands. If the character's actual Strength exceeds that, they may use it without difficulty in one hand, unless it is Large in which case their strength must exceed that by 2 in order to use it successfully in one hand. If the strength value of the weapon exceeds the character's Strength, the threshold to strike a target is increased by the difference, in addition to needing two hands.
 
-[table][row]**Ranged Weaponry Table**
-[row]**Weapon**[col]**Damage**[col]**Range**[col]**Strength**[col]**size**
-[row]Pistol, Lt. [col] 2[col] (N)S[col] 1[col] S
-[row]Pistol, Hvy. [col] 3[col] (N)W[col] 2[col] S
-[row]Rifle [col] 4[col] (W)E[col] 3[col] L
-[row]Machine Pistol [col] 2˟ [col] (N)S[col] 2[col] S 
-[row]Assault Rifle [col] 3˟ [col] (S)E[col] 3[col] L
-[row]Submachine Gun [col] 2˟[col] (S)W[col] 2[col] M
-[row]Shotgun [col] 4[col](N)S [col] 3[col] M
-[row]Crossbow [col] 2[col] (S)W[col] 2[col] L
-[row]Auto-Shotgun [col] 4˟[col](N)S [col] 4[col] L
-[row]Machinegun[col] 6˟[col](W)R [col] 5[col] L
-[row]Sniper Rifle[col] 6[col](E)R [col] 5[col] L
-[row]Flame Thrower [col] 3F˟[col]Wˠ [col] 5[col] L
-[row]Flare Gun[col] 1F[col](N)W [col] 2[col] S
-[row]Cannon[col] 7[col](W)R [col] 8[col] H
-[/table]
-[list]˟: Weapon fires in automatic mode. 
-F: Weapon does fire damage.
-N: Weapon does Normal Damage.
-ˠ: Weapon ignores cover.
+| Weapon | Damage | Range | Strength | Size |
+|:-------|:------:|:-----:|:--------:|:----:|
+| Pistol, Lt. | 2 | (N)S | 1 | S |
+| Pistol, Hvy. | 3 | (N)W | 2 | S |
+| Rifle | 4 | (W)E | 3 | L |
+| Machine Pistol | 2<sup>A</sup> | (N)S | 2 | S |
+| Assault Rifle | 3<sup>A</sup> | (S)E | 3 | L |
+| Submachine Gun | 2<sup>A</sup>| (S)W | 2 | M |
+| Shotgun | 4 | (N)S | 3 | M |
+| Crossbow | 2 | (S)W | 2 | L |
+| Auto-Shotgun | 4<sup>A</sup> | (N)S | 4 | L |
+| Machinegun| 6<sup>A</sup> | (W)R | 5 | L |
+| Sniper Rifle| 6 | (E)R | 5 | L |
+| Flame Thrower | 3F<sup>A</sup> | W<sup>C</sup> | 5 | L |
+| Flare Gun| 1F | (N)W | 2 | S |
+| Cannon| 7 | (W)R | 8 | H |
+
+<sup>A</sup>: Weapon fires in automatic mode.<br />
+<sup>C</sup>: Weapon ignores cover.<br />
+F: Weapon does fire damage.<br />
+N: Weapon does Normal Damage.<br />
+
 Size: **S**mall weapons can be concealed in a pocket; **M**edium weapons can be concealed under a coat; **L**arge weapons can be concealed in a car; **H**uge weapons do not really fit into cars.[/list]
 **Automatic Weapons:** A weapon firing on automatic throws out many bullets in a short period of time. This allows it to be used for suppressive fire, to be fired at multiple enemies who are close together, and makes it more likely to hit something. A weapon fired on automatic gains 3 dice on the attack roll, but the spread of bullets makes fine aiming more difficult - the increase in threshold for firing at enemies with cover is doubled (basic cover increases threshold by 2, heavy cover increases threshold by _4_). Also the character can't take the Aim action with an automatic weapon, but they can take the Spray-n-Pray action.
 
