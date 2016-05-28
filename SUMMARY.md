@@ -53,7 +53,7 @@
    * [Zombies](monsters/zombies.md)
    * [Fey](monsters/fey.md)
    * [Giant Animals](monsters/giant_animals.md)
-   * Ghosts
+   * [Ghosts](monsters/ghosts.md)
    * Demons
    * Evil Plants
    * Spawn Monsters
