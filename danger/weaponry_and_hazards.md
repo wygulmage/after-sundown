@@ -110,61 +110,72 @@ Damage inflicted by thrown weapons is usually pretty disappointing. Unless it's 
 ### Damage Over Time
 _Are you still on fire? You should stop that eventually._
 
-When a character is soaked in acid, freezing to death, on fire, or otherwise subjected to a damaging situation that is ongoing, we call this DOT or Damage Over Time. While it _could_ be modeled as a series of tiny attacks that had a remote chance of doing damage each second, that is far fiddlier than the people actually playing the game need to deal with. DOT damage is added one wound box at a time. A DOT effect has a "delay" number, and that number determines how much time passes between filling in one wound box and the next. When a DOT is introduced to a character, they may make a Resistance Test against it, and the hits on that test are _added_ to the Delay Number rather than _subtracting_ from the actual damage done. Being covered in acid for long enough is liable to be a problem for anyone. DOT's will continue filling in a wound box on schedule until they end. For external sources of damage, that generally means removing the noxious stimulus, while something like an injected poison usually has an amount of time it will persist based on how much was injected (this time could be cut shorter with things like antidotes or diuretics).[table][mrow]Delay Number[mcol]Time Between Damage Boxes[mcol]Example DOT Source
-[mrow]0 | 3 seconds (Each Initiative Pass) | Falling into hissing green goo
-[mrow]1 | 1 Round | Engulfed in billowing flames
-[mrow]2 | 2 Rounds | Unable to breathe
-[mrow]3 | 5 Rounds
-1 Minute | Bitten by deadly serpent
-[mrow]4 | 2 Minutes | Exposed to killer frost
-[mrow]5 | 5 Minutes | Inhaling noxious smoke
-[mrow]6 | 15 Minutes | Watching an M. Night Shyamalan movie
-[mrow]7 | 30 Minutes | Staring at a glowing radioactive rock
-[mrow]8 | 1 Hour | Inadequate protection from brutal cold
-[mrow]9+ | Double Time Each Additional Delay Number
-(4 Hours, 8 hours, 16 Hours, etc...) | 
-[/table]
+When a character is soaked in acid, freezing to death, on fire, or otherwise subjected to a damaging situation that is ongoing, we call this DOT or Damage Over Time. While it _could_ be modeled as a series of tiny attacks that had a remote chance of doing damage each second, that is far fiddlier than the people actually playing the game need to deal with. DOT damage is added one wound box at a time. A DOT effect has a "delay" number, and that number determines how much time passes between filling in one wound box and the next. When a DOT is introduced to a character, they may make a Resistance Test against it, and the hits on that test are _added_ to the Delay Number rather than _subtracting_ from the actual damage done. Being covered in acid for long enough is liable to be a problem for anyone. DOT's will continue filling in a wound box on schedule until they end. For external sources of damage, that generally means removing the noxious stimulus, while something like an injected poison usually has an amount of time it will persist based on how much was injected (this time could be cut shorter with things like antidotes or diuretics).
+
+| Delay Number | Time Between Damage Boxes | Example DOT Source |
+|:------------:|:--------------------------|:-------------------|
+| 0 | 3 seconds (Each Initiative Pass) | Falling into hissing green goo |
+| 1 | 1 Round | Engulfed in billowing flames |
+| 2 | 2 Rounds | Unable to breathe |
+| 3 | 5 Rounds / 1 Minute | Bitten by deadly serpent |
+| 4 | 2 Minutes | Exposed to killer frost |
+| 5 | 5 Minutes | Inhaling noxious smoke |
+| 6 | 15 Minutes | Watching an M. Night Shyamalan movie |
+| 7 | 30 Minutes | Staring at a glowing radioactive rock |
+| 8 | 1 Hour | Inadequate protection from brutal cold |
+| 9+ | Double Time Each Additional Delay Number (4 Hours, 8 hours, 16 Hours, etc...) |
 
 ### Other Hazards
 _Don't touch that. Or that either._
 
-**Falling:** Characters will fall from time to time. And falling substantial distances actually can take quite an amount of time. However, in a 12 second combat round a character could fall over 600 meters - so for practical purposes it's usually best to simply have characters hit the ground after having just one Simple Action to try to do something about their situation. It is also true that "The bigger they are, the harder they fall." That's not just a trite saying that He Man gives before tripping giant robots, it's physical reality. Larger creatures have more mass proportional to their surface area and accelerate at the same speed, truly mice and ants can survive being dropped from any height and elephants can't even jump without breaking their bones on the way down. Game mechanically this truth is handled by preventing characters from using Strength or Armor to soak falling damage, and by having larger creatures take additional damage from falls. Characters can soak damage from falls by performing Agility + Athletics stunts with a threshold of 1 (net hits soak damage, but the first hit does not). Magical benefits for soaking damage do apply (as they make the character tougher relative to their mass rather than adding additional mass), so a character gains the benefits of Fortitude.
+#### Falling
+
+Characters will fall from time to time. And falling substantial distances actually can take quite an amount of time. However, in a 12 second combat round a character could fall over 600 meters - so for practical purposes it's usually best to simply have characters hit the ground after having just one Simple Action to try to do something about their situation. It is also true that "The bigger they are, the harder they fall." That's not just a trite saying that He Man gives before tripping giant robots, it's physical reality. Larger creatures have more mass proportional to their surface area and accelerate at the same speed, truly mice and ants can survive being dropped from any height and elephants can't even jump without breaking their bones on the way down. Game mechanically this truth is handled by preventing characters from using Strength or Armor to soak falling damage, and by having larger creatures take additional damage from falls. Characters can soak damage from falls by performing Agility + Athletics stunts with a threshold of 1 (net hits soak damage, but the first hit does not). Magical benefits for soaking damage do apply (as they make the character tougher relative to their mass rather than adding additional mass), so a character gains the benefits of Fortitude.
 
 If the character falls onto a hard or sharp surface, increase damage by 1 or more. If the falling creature is large, increase the damage by 1 or more. If the falling creature is small, reduce the damage by 1 or more.
-[table]| **Distance** | **Damage**
-| Petty (0-2m) | 1N
-| Ordinary (3-4m | 2N
-| Serious (5-6m) | 3
-| Incapacitating (7-10m) | 4
-| Terminal (11+ m) | 5[/table]
 
-**Electrocution:** Electricity damage is something of a paradox. Electricity flows through the path of least resistance, and it inflicts damage based on the resistance of the path it flows through. Thus, you can defend yourself from electricity by covering yourself in high resistance insulation (because it will redirect electricity away from your body to another path) _or_ by covering yourself with low resistance conductive mesh (because it will _create_ a preferred path through the mesh and away from your organs). From the standpoint of the game, a character who is protected by especially conductive or non-conductive material is _immune_ to electrical shocks. Electricity is inherently unpredictable, whenever someone is electrocuted, roll a die - if it comes up a hit, increase the Damage by 1. Net hits on attacks with electrical outputs are not added to the damage of an electric shock.
-[table]| **Shock** | **Damage**
-| Ordinary (Wall Socket)  | 2N
-| Serious (Electric Fence) | 3N
-| Incapacitating (High Powered Taser) | 4N
-| Terminal (Lightning Strike)  | 5[/table]
+| Distance | Damage |
+|:---------|:------:|
+| Petty (0-2m) | 1N |
+| Ordinary (3-4m) | 2N |
+| Serious (5-6m) | 3 |
+| Incapacitating (7-10m) | 4 |
+| Terminal (11+m) | 5 |
 
-**Poison:** Poison has a progressive effect that affects the target more as time goes on. Functionally this means that poison is _much slower_ than bullets or chainsaws. The way this is handled is as a DOT. However, not all poisons inflict actual damage, many come with special effects in addition to or instead of filling in wound boxes. Poisons normally only accumulate effects for a certain amount of time based on the original dose. When a victim is exposed to additional doses before the first has run its course, use the current timer for how long the poison will last and reduce the Delay by 1 if the timer is less than half over, or leave the Delay number alone and reset the termination timer if it has run more than half of its course. Characters with Patience of the Mountains or Tongue of the Serpent are immune to poisons. If a character is given anti-venom or some similar treatment, the character gains additional resistance dice to increase the Delay and/or the termination counter is reduced in length (depending on whether it works by clearing the chemical from the victim's system or neutralizing the effects). Note that the dosages are all the "normal" dosages, which for "recreational" poisons (like street drugs) are actually very small. Poisons my be more or less effective if administered by another route (injecting pepper spray would be all kinds of fatal). The assumption is that street drugs are being snorted unless otherwise indicated. The secondary effects of a poison kick in as soon as one damage box is filled in (or would be filled in for non damaging poisons), and end when the Timer runs out. Damage, whether Normal or Lethal, remains until healed.
+#### Electrocution
 
-[table][mrow]Poison[mcol]Delay[mcol]Timer[mcol]Notes
-| Tear Gas | 2N | 5 rounds | Provides a "dose" for each round of exposure.
-| Pepper Spray | 0N | 2 rounds | 
-| Tranq Dart | 0N | 3 rounds | Fatigue
-| Rat Poison | 5 | 1 hour | Ingested.
-| Uranium | 18 | 3 Months | Provides a "dose" for each five minutes of exposure.
-| "Euphoric" | 2º | 1 Hour | Amnesia and Overstimulation
-| "Hallucinogenic" | 2º | 6 Hours | Amnesia and Delusion
-| "Paralytic" | 0º | 10 Minutes | Paralysis
-| "Soporific" | 1º | 1 Hour | Sleep
-| "Toxic" | 0 | 10 Rounds | Agony
-| Meth | 3º | 4 Hours | Stimulation and Overstimulation
-| Opium | 7N | 3 Hours | Anesthetic and Fatigue
-| Cocaine | 5º | 20 Minutes | Anesthetic and Delusion
-| Alcohol | 9N | 1 Hour | Ingested. Repeated dosing can cause 
-Amnesia, Anesthetic, or Delusion
-[/table]
+Electricity damage is something of a paradox. Electricity flows through the path of least resistance, and it inflicts damage based on the resistance of the path it flows through. Thus, you can defend yourself from electricity by covering yourself in high resistance insulation (because it will redirect electricity away from your body to another path) _or_ by covering yourself with low resistance conductive mesh (because it will _create_ a preferred path through the mesh and away from your organs). From the standpoint of the game, a character who is protected by especially conductive or non-conductive material is _immune_ to electrical shocks. Electricity is inherently unpredictable, whenever someone is electrocuted, roll a die - if it comes up a hit, increase the Damage by 1. Net hits on attacks with electrical outputs are not added to the damage of an electric shock.
 
-[list]Poisons in Quotes are the magical poisons available with Tongue of the Serpent. The damage level may at the character's option be increased by the character's Potency.
+| Shock | Damage |
+|:------|:------:|
+| Ordinary (Wall Socket) | 2N |
+| Serious (Electric Fence) | 3N |
+| Incapacitating (High Powered Taser) | 4N |
+| Terminal (Lightning Strike) | 5 |
+
+### Poison
+
+Poison has a progressive effect that affects the target more as time goes on. Functionally this means that poison is _much slower_ than bullets or chainsaws. The way this is handled is as a DOT. However, not all poisons inflict actual damage, many come with special effects in addition to or instead of filling in wound boxes. Poisons normally only accumulate effects for a certain amount of time based on the original dose. When a victim is exposed to additional doses before the first has run its course, use the current timer for how long the poison will last and reduce the Delay by 1 if the timer is less than half over, or leave the Delay number alone and reset the termination timer if it has run more than half of its course. Characters with Patience of the Mountains or Tongue of the Serpent are immune to poisons. If a character is given anti-venom or some similar treatment, the character gains additional resistance dice to increase the Delay and/or the termination counter is reduced in length (depending on whether it works by clearing the chemical from the victim's system or neutralizing the effects). Note that the dosages are all the "normal" dosages, which for "recreational" poisons (like street drugs) are actually very small. Poisons my be more or less effective if administered by another route (injecting pepper spray would be all kinds of fatal). The assumption is that street drugs are being snorted unless otherwise indicated. The secondary effects of a poison kick in as soon as one damage box is filled in (or would be filled in for non damaging poisons), and end when the Timer runs out. Damage, whether Normal or Lethal, remains until healed.
+
+| Poison | Delay | Timer | Notes |
+|:-------|:-----:|:------|:------|
+| Tear Gas | 2N | 5 rounds | Provides a "dose" for each round of exposure. |
+| Pepper Spray | 0N | 2 rounds |  |
+| Tranq Dart | 0N | 3 rounds | Fatigue |
+| Rat Poison | 5 | 1 hour | Ingested. |
+| Uranium | 18 | 3 Months | Provides a "dose" for each five minutes of exposure. |
+| "Euphoric" | 2\* | 1 Hour | Amnesia and Overstimulation |
+| "Hallucinogenic" | 2\* | 6 Hours | Amnesia and Delusion |
+| "Paralytic" | 0\* | 10 Minutes | Paralysis |
+| "Soporific" | 1\* | 1 Hour | Sleep |
+| "Toxic" | 0 | 10 Rounds | Agony |
+| Meth | 3\* | 4 Hours | Stimulation and Overstimulation |
+| Opium | 7N | 3 Hours | Anesthetic and Fatigue |
+| Cocaine | 5\* | 20 Minutes | Anesthetic and Delusion |
+| Alcohol | 9N | 1 Hour | Ingested. Repeated dosing can cause Amnesia, Anesthetic, or Delusion |
+
+\* This Poison doesn't actually do any damage, the damage level is just there so that secondary effects occur. At the MC's option, overdoses may still be fatal if the virtual damage level rises to Terminal.
+
+Poisons in Quotes are the magical poisons available with Tongue of the Serpent. The damage level may at the character's option be increased by the character's Potency.
+
 When a Poison has a secondary effect, that effect generally lasts for 10 minutes to an hour.
-º: This Poison doesn't actually do any damage, the damage level is just there so that secondary effects occur. At the MC's option, overdoses may still be fatal if the virtual damage level rises to Terminal.
