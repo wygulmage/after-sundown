@@ -238,20 +238,20 @@ Most ranged weapons do an amount of damage that is fixed regardless of how stron
 
 | Weapon | Damage | Range | Strength | Size |
 |:-------|:------:|:-----:|:--------:|:----:|
-| Pistol, Lt. | 2 | (N)S | 1 | S |
-| Pistol, Hvy. | 3 | (N)W | 2 | S |
-| Rifle | 4 | (W)E | 3 | L |
+| Light Pistol | 2 | (N)S | 1 | S |
+| Heavy Pistol | 3 | (N)W | 2 | S |
 | Machine Pistol | 2<sup>A</sup> | (N)S | 2 | S |
-| Assault Rifle | 3<sup>A</sup> | (S)E | 3 | L |
+| Flare Gun | 1F | (N)W | 2 | S |
 | Submachine Gun | 2<sup>A</sup>| (S)W | 2 | M |
 | Shotgun | 4 | (N)S | 3 | M |
+| Rifle | 4 | (W)E | 3 | L |
+| Assault Rifle | 3<sup>A</sup> | (S)E | 3 | L |
 | Crossbow | 2 | (S)W | 2 | L |
 | Auto-Shotgun | 4<sup>A</sup> | (N)S | 4 | L |
-| Machinegun| 6<sup>A</sup> | (W)R | 5 | L |
-| Sniper Rifle| 6 | (E)R | 5 | L |
+| Machinegun | 6<sup>A</sup> | (W)R | 5 | L |
+| Sniper Rifle | 6 | (E)R | 5 | L |
 | Flame Thrower | 3F<sup>A</sup> | W<sup>C</sup> | 5 | L |
-| Flare Gun| 1F | (N)W | 2 | S |
-| Cannon| 7 | (W)R | 8 | H |
+| Cannon | 7 | (W)R | 8 | H |
 
 <sup>A</sup>: Weapon fires in automatic mode.<br />
 <sup>C</sup>: Weapon ignores most cover.<br />
