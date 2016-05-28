@@ -26,7 +26,7 @@
    * [Technical Skills](skills/technical_skills.md)
    * [Specializations](skills/specializations.md)
    * [Backgrounds](skills/backgrounds.md)
-   * Using Skills
+   * [Using Skills](skills/using_skills.md)
    * Using Attributes Without Skills
 * Getting What You Need
 * Danger
