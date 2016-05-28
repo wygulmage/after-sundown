@@ -205,17 +205,19 @@ A Terminal Wound is much like an Incapacitating Wound in that it fills up all of
 
 \* Also, you are probably going to die.
 
-**Damage Penalties:** When a character has been _recently_ damaged, their ability to act is extremely impaired. The character's actions take a penalty equal to the number of boxes on their condition monitor that have a line running through them from the lower left to the upper right ([**/**]). This includes any Normal ([**/**]), Lethal ([**X**]) or Aggravated ([**[s]X[/s]**] wound boxes. Characters with a Willpower in excess of 2 reduce wound penalties (to a minimum of zero) by the amount their Willpower exceeds 2. So for example, a character with a Willpower of 4 can ignore the wound penalties imposed by 2 of their boxes. A character with Indomitability ignores wound penalties completely. 
+* **Petty Wounds:** A scratch. Will stop bleeding in a minute, and heal completely in a day. May still get infected/transmit poison
+* **Ordinary Wounds:** These are painful and physically debilitating, but they generally heal up without much more than a discoloration at the spot, though they will take many days to do so.
+* **Serious Wounds:** People who see a serious wound inflicted generally wince, and the agony and pure physical hampering it causes will generally strike mortal terror into the sane.
+* **Incapacitating Wounds:** An incapacitating wound is called that because it incapacitates the victim. They may or may not lose consciousness, but they will be unable to stand even if they are able to keep their eyes open. If a character receives medical care or rest, an Incapacitating Wound can be reduced to a Serious Wound.
+* **Terminal Wounds:** Your ass is dying. Not dead, but nothing short of a miracle and a pair of lightning paddles is going to save you now. If you are saved, you still have an Incapacitating Wound.
+* **Death:** A character who receives 7 unsoaked damage from a single attack simply dies outright. Feel free to describe graphic injuries such as exploding heads and bodies torn in half.
 
-**Petty Wounds:** A scratch. Will stop bleeding in a minute, heal completely in a day. May still get infected/transmit poison
-**Ordinary Wounds:** These are painful and physically debilitating, but they generally heal up without much more than a discoloration at the spot, though they will take many days to do so.
-**Serious Wounds:** People who see a serious wound inflicted generally wince, and the agony and pure physical hampering it causes will generally strike mortal terror into the sane.
-**Incapacitating Wounds:** An incapacitating wound is called that because it incapacitates the victim. They may or may not lose consciousness, but they will be unable to stand even if they are able to keep their eyes open. If a character receives medical care or rest, an Incapacitating Wound can be reduced to a Serious Wound.
-**Terminal Wounds:** Your ass is dying. Not dead, but nothing short of a miracle and a pair of lightning paddles is going to save you now. If you are saved, you still have an Incapacitating Wound.
-**Death:** A character who receives 7 unsoaked damage from a single attack simply dies outright. Feel free to describe graphic injuries such as exploding heads and bodies torn in half.
+### Damage Penalties
+
+When a character has been _recently_ damaged, their ability to act is extremely impaired. The character's actions take a penalty equal to the number of boxes on their condition monitor that have a line running through them from the lower left to the upper right (<tt>[/]</tt>). This includes any Normal (<tt>[/]</tt>), Lethal (<tt>[X]</tt>) or Aggravated (<tt>[<s>X</s>]</tt>) wound boxes. Characters with a Willpower in excess of 2 reduce wound penalties (to a minimum of zero) by the amount their Willpower exceeds 2. So for example, a character with a Willpower of 4 can ignore the wound penalties imposed by 2 of their boxes. A character with Indomitability ignores wound penalties completely. 
 
 ## Weaponry and Hazards
-_Holy crap, that looks dangerous._
+_"Holy crap, that looks dangerous."_
 
 ### Ranged Weapons
 
