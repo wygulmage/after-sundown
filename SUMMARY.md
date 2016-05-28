@@ -52,7 +52,7 @@
    * [Transhumans](monsters/transhumans.md)
    * [Zombies](monsters/zombies.md)
    * [Fey](monsters/fey.md)
-   * Giant Animals
+   * [Giant Animals](monsters/giant_animals.md)
    * Ghosts
    * Demons
    * Evil Plants
