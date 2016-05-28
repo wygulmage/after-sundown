@@ -123,7 +123,7 @@ When a character is soaked in acid, freezing to death, on fire, or otherwise sub
 | 6 | 15 Minutes | Watching an M. Night Shyamalan movie |
 | 7 | 30 Minutes | Staring at a glowing radioactive rock |
 | 8 | 1 Hour | Inadequate protection from brutal cold |
-| 9+ | Double Time Each Additional Delay Number (4 Hours, 8 hours, 16 Hours, etc...) |
+| 9+ | Double Time | Each Additional Delay Number (4 Hours, 8 hours, 16 Hours, etc...) |
 
 ### Other Hazards
 _Don't touch that. Or that either._
