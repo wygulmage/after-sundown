@@ -205,82 +205,81 @@ The next thing you do is roll your dice, counting every 5 or 6 as a 'Hit'. The n
 
 **Buying Hits:** When a character is not under any particular threat or pressure, they may elect to forgo the process of actually rolling dice and simply get one hit for every 4 full dice in their dice pool. This process of "phoning it in" gets a character less awesomeness than had they legitimately tried, but it has a strong tendency to work if that's all that is required.
 
-[table]
-[mrow]Hits:[mcol]Awesomeness
-[mrow]0: [col] Not Awesome. Tying shoes, climbing stairs.
-[mrow]1: [col] Completely Pedestrian. Driving a car, cooking a meal.
-[mrow]2: [col] Professional. Don't try this at home.
-[mrow]3:[col] Hard.
-[mrow]4:[col] Extreme. Don't try this at all.
-[mrow]5:[col] Crazy Extreme.
-[mrow]6:[col] Super Human. Does not need disclaimers because it is clearly impossible.
-[/table]
+| Hits | Awesomeness |
+|:----:|:------------|
+| 0 | Not Awesome. Tying shoes, climbing stairs. |
+| 1 | Completely Pedestrian. Driving a car, Throwing Darts. |
+| 2 | Professional. Don't try this at home. |
+| 3 | Hard. Don't try this at all. |
+| 4 | Extreme. |
+| 5 | Crazy Extreme. |
+| 6 | Super Human. Does not need disclaimers because it is clearly impossible. |
+
 It is important to note that normal humans often have dice pools of 4 dice or less on tasks they do frequently. So when a supernatural critter throws down on a task with 12 dice or more that really is an incredible thing to watch. Such characters can literally phone in a TV quality performance and the like. MCs should not become jaded and allow success inflation to cheapen the actions of characters with super human dice pools. Characters who can lift and throw motorcycles genuinely can expect to casually kick in locked doors. The fact that success is practically automatic for these tasks should not be resisted, but rather embraced as a fact that is itself impressive and magical.
 
 **Predictable Failure:** Sometimes a character will be struggling under enough penalties that they don't have a dice pool at all. In these instances, the character is going to get zero hits, which means that absolutely nothing they do will be awesome. They can still stagger down the corridor or open a door, but as soon as a stunt requires even one hit they are _going_ to fail unless they are a Luminary who can spend Edge on the problem to get some dice and a chance.
 
 **Extended Tests:** Some actions take an expected amount of time. If a character gets the requisite number of hits, they succeed in the expected amount of time. If they get more than the requisite number of hits, they may complete the task well ahead of schedule. For every hit made in excess of the minimum, move to the next lower amount of time on the time chart. If a character fails to succeed, they may retry, but only after having put in the normal time into the first shot. So for example: Mina is attempting to paint a house (Strength + Artisan, 1, 2 days) and gets 3 hits. Since she got 2 more hits than she needed, she can go to the next lower time period twice, bringing the time frame down to five hours.
 
-[table][mrow]Timeframe Chart
-[row] Century
-[row] Decade
-[row] Year
-[row] Season
-[row] Month
-[row] Week
-[row] 3 Days
-[row] 1 Day
-[row] 5 Hours
-[row] 1 Hour
-[row] 20 minutes
-[row] 5 Minutes
-[row] 1 Minute
-[row] 1 Round
-[row] Simple Action
-[row] Free Action[/table]
+* Century
+* Decade
+* Year
+* Season
+* Month
+* Week
+* 3 Days
+* 1 Day
+* 5 Hours
+* 1 Hour
+* 20 minutes
+* 5 Minutes
+* 1 Minute
+* 1 Round
+* Simple Action
+* Free Action
 
-**[size=15]Team Work**[/size]
+### Team Work
 _If you're about to launch a friendship speech, please don't._
 
 When more than one character throws their weight into a project they can achieve results that are more awesome and in less time than what either character could achieve alone. However, the game mechanics completely break down if you just add the dicepool of one character to another. What is done instead is that whichever character has the best dicepool is considered the main acting character, and the other characters are considered the assisting characters. Each assisting character makes their check, and each hit is added as a bonus die on the main character's test. Since characters get about 1 hit per three dice, on average improving the awesomeness of a task is "hard" (threshold 3). In many cases an MC will allow a character to assist with a tangential but vaguely related skill (and in such cases it is entirely possible for one of the assisting characters to roll more dice than the main acting character).
 
 **Maximum Characters:** Too many cooks spoil the broth. How many characters qualify as "too many" is unfortunately a very fluid concept that depends a lot on what you're doing. Sometimes there are real physical limits to how many people can literally fit around a project, and other times it's procedural. In general, most teamwork projects should be handled with five or less people. A project larger than that should probably be split into multiple tests, although at the MC's discretion there may be exceptions. A good set of management protocols is essential for most group projects to move forward. Most of the time, no more assisting characters can work on a project than the highest Tactics skill of the characters. The character providing the tactics skill allowing multiple characters to work on the project need not be the main acting character and often will not be.
 
-**[size=20]Using Attributes Without Skills[/size]**
-"_Granted, but I'm still huge._"
+## Using Attributes Without Skills
+_"Granted, but I'm still huge."_
 
 Characters in After Sundown may be called upon to use skills when they don't actually have training in that area. In this case, the character is called upon to _default_ on the skill. This allows the character to roll a dicepool of their appropriate Attribute (plus zero dice for not having the skill). When defaulting on a Social or Technical Skill, the character suffers an additional -1die  penalty for being untrained. When using Technical Skills, that same -1 die penalty applies whenever the character doesn't have an appropriate specialization (even if they _do_ have the appropriate skill). But there are a number of times when you will want to do something for which _no_ skill applies. In that case a mere attribute roll may suffice (obviously with no -1 die penalty). But remember that dice pools without skills are substantially _smaller_ than dicepools with skills attached - so in most cases the MC should try to figure out a way to fit a skill in.
 
-**[size=16]Resistance Rolls[/size]**
-"_No one could have survived that._"
+### Resistance Rolls
+_"No one could have survived that."_
 
 Characters who are attacked or endangered are often entitled to a Resistance Roll to soak the effects of whatever they are threatened with, whether its the power of a magical assault or a bullet to the stomach. In general, a Physical Resistance roll will usually be just Strength (no skill), a Mental Resistance roll will usually be just Intuition (again, no skill), and a Social Resistance roll will be just Willpower (likewise). Luminaries get a special bonus, where they can add their Edge to Resistance rolls, almost like Edge was the "take less damage from bullets" skill, if that makes things any easier to conceptualize.
 
-**[size=16]Sure Things: Heavy Lifting[/size]**
-"_Sure, sometimes you can do all kinds of stuff. But I can _always_ lift a car._"
+### Sure Things: Heavy Lifting
+_"Sure, sometimes you can do all kinds of stuff. But I can **always** lift a car."_
 
 There are things you don't have to roll because they simply _are_. A character with a high Charisma _is_ charming, a character with a high Logic _is_ smart. Even if they offend someone or fail to solve a problem, they will do so in a charming or intelligent fashion. But probably the thing you will run into most frequently as far as automatic uses of Attributes is Strength. People who have a high Strength _are strong_, and they can lift heavy things. So to help out with that, here's a table of how much a character might be able to push themselves to lift up, and how much they might be able to carry home without hurting themselves.
 
-[table][mrow]Strength[mcol]Maximum Lift (Kg)[mcol]Carry Home
-[mrow]1[col]30 kilos[col]10 kilos
-[mrow]2[col]50 kilos[col]20 kilos
-[mrow]3[col]100 kilos[col]30 kilos
-[mrow]4[col]150 kilos[col]50 kilos
-[mrow]5[col]250 kilos[col]70 kilos (average human)
-[mrow]6[col]450 kilos[col]100 kilos
-[mrow]7[col]750 kilos[col]200 kilos
-[mrow]8[col]1.25 tonnes[col]500 kilos
-[mrow]9[col]2.5 tonnes[col]1 tonne
-[mrow]10[col]5 tonnes[col]2 tonnes
-[mrow]11[col]7 tonnes[col]3 tonnes
-[mrow]12[col]10 tonnes[col]4.5 tonnes
-[mrow]13[col]14 tonnes[col]6 tonnes
-[mrow]14[col]20 tonnes[col]8 tonnes
-[mrow]15[col]28 tonnes[col]10 tonnes
-[mrow]20[col]60 tonnes[col]24 tonnes
-[mrow]25[col]100 tonnes[col]40 tonnes
-[mrow]30[col]150 tonnes[col]60 tonnes
-[mrow]35[col]200 tonnes[col]80 tonnes
-[/table]
+| Strength | Max Lift (Kg) | Carry (Kg) | Max Lift (Lb) | Carry (Lb) |
+|:--------:|--------------:|-----------:|--------------:|-----------:|
+| 1 | 30 | 10 | 66 | 22 |
+| 2 | 50 | 20 | 110 | 44 |
+| 3 | 100 | 30 | 210 | 66 |
+| 4 | 150 | 50 | 330 | 110 |
+| 5 | 250 | 70 | 550 | 155 |
+| 6 | 450 | 100 | 990 | 220 |
+| 7 | 750 | 200 | 1,650 | 440 |
+| 8 | 1,250 | 500 | 2,750 | 1,100 |
+| 9 | 2,500 | 1,000 | 5,500 | 2,200 |
+| 10 | 5,000 | 2,000 | 11,000 | 4,400 |
+| 11 | 7,000 | 3,000 | 15,400 | 6,600 |
+| 12 | 10,000 | 4,500 | 22,000 | 10,000 |
+| 13 | 14,000 | 6,000 | 31,000 | 13,000 |
+| 14 | 20,000 | 8,000 | 44,000 | 17,500 |
+| 15 | 28,000 | 10,000 | 62,000 | 22,000 |
+| 20 | 60,000 | 24,000 | 132,000 | 53,000 |
+| 25 | 100,000 | 40,000 | 220,000 | 88,000 |
+| 30 | 150,000 | 60,000 | 330,000 | 132,000 |
+| 35 | 200,000 | 80,000 | 441,000 | 176,000 |
 
-And yes, things that are really strong are _really strong_. A creature with a strength of 35 can lift a _train_ right off the track. Although they can only do this by lifting one car at a time and can't really walk off with it. Consider the scene in [u]King Kong[/u] where the giant ape (who in After Sundown would be a Kaiju) pulls a train off the tracks by lifting a car and dropping the whole thing. That's not an exaggeration, in After Sundown the giant apes can actually do those things.[/quote]
+And yes, things that are really strong are _really strong_. A creature with a strength of 35 can lift a _train_ right off the track. Although they can only do this by lifting one car at a time and can't really walk off with it. Consider the scene in [King Kong](http://www.imdb.com/title/tt0024216/) where the giant ape (who in After Sundown would be a Kaiju) pulls a train off the tracks by lifting a car and dropping the whole thing. That's not an exaggeration, in After Sundown the giant apes can actually do those things.
