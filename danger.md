@@ -14,7 +14,7 @@ _"Then I attack, then you attack twice, then I attack, then you attack once?"_
 
 At the beginning of a Combat Round, every player rolls a number of dice equal to their Intuition + their Agility. The number of hits is their Initiative Score. Characters act in order of Initiative Scores, and characters whose scores are the same act simultaneously. A character who gets a higher Initiative Score may choose to act _after_ characters with a lower Initiative Score if they want. Each character gets one turn. Characters who are entitled to extra Initiative Passes (either because they have activated Celerity or because they bought them with Edge) get an additional turn after everyone else has moved. The most number of turns you can have in a round is 4.
 
-**[size=20]Attacking**[/size]
+## Attacking
 _This is going to hurt you more than me._
 
 The most common actions in combat are attacking and running away. After all, if _someone_ isn't doing one of those things, it can hardly even be considered a combat.
@@ -22,13 +22,16 @@ The most common actions in combat are attacking and running away. After all, if 
 An attack is usually resolved by spending a Simple Action to make the Attack. The character makes a test against the threshold. If the requisite number of hits are achieved, the attack hits and the target must soak the amount of damage that the attack inflicts. If the attacking character gets more hits than necessary, the net hits are added to the damage of the attack before the target gets to soak. In most cases, a character's dice pool will be their Strength + Combat when making a melee attack and Agility + Combat when making a ranged attack. In the cases when an attack is being made with some kind of sorcery, the dicepool may well be something else entirely and is described in the Power description.
 
 When a character wants to attack something it is more difficult if the target is farther away. The _range_ between the target and the attacking character determines the base threshold. However, just because a character has the _accuracy_ to strike an opponent out to a specific range does not mean that their weapon is physically capable of reaching that far, or of reaching a target at that range with any accuracy. Most weapons have a maximum range beyond which they cannot be expected to work, and most weapons have a range beyond which they become inaccurate (given in parentheses). Melee attacks of course simply have an absolute limit of their reach. If you want them to go any farther than your arm will take them you have to throw them.
-[table][row]**Range** [col] **meters** [col] **Threshold**
-[row]**A**djacent [col]0-2m [col] Special
-[row]**N**ear [col]2-5m [col] **1**
-[row]**S**hort [col]5-20m [col] **2**
-[row]**W**ay out [col]21-100m [col] **3**
-[row]**E**xtreme [col]101-1000m [col] **4**
-[row]**R**emote [col]1001+ [col] **5**[/table]
+
+| Range | Meters | Threshold |
+|:------|:-------|:---------:|
+| **A**djacent | 0-2m | Special |
+| **N**ear | 2-5m | **1** |
+| **S**hort | 5-20m | **2** |
+| **W**ay out | 21-100m | **3** |
+| **E**xtreme | 101-1000m | **4** |
+| **R**emote | 1,001+ | **5** |
+
 The Threshold to hit something that is Adjacent to you is _zero_. Seriously, it's right next to you. However, if the target is a resisting creature that is aware of the impending attack, the threshold is increased to half the target's Agility + Combat (if any). Yes, against skilled opposition it is _much_ easier to shoot an opponent from 3 meters away where they can't interfere with the shot than it is to shoot them from within arm's reach where they can.
 
 The Threshold can be further modified by circumstances. If the target has cover or its location is suspect (as in the case of illusions or intervening shower curtains), the threshold is increased by 1 or 2. If you're operating beyond the accurate range of your weapon (but still within the maximum range), increase the threshold by 1. If the target is moving quickly, increase the threshold by 1. If the attacking character is moving faster than a careful walk, increase the threshold of a ranged attack (but not a melee attack) by 1.
