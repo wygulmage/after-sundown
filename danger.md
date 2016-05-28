@@ -41,7 +41,7 @@ When a character wants to attack something it is more difficult if the target is
 
 The Threshold to hit something that is Adjacent to you is _zero_. Seriously, it's right next to you. However, if the target is a resisting creature that is aware of the impending attack, the threshold is increased to half the target's Agility + Combat (if any, round up). Yes, against skilled opposition it is _much_ easier to shoot an opponent from 3 meters away where they can't interfere with the shot than it is to shoot them from within arm's reach where they can.
 
-The Threshold can be further modified by circumstances. If the target has cover or its location is suspect (as in the case of illusions or intervening shower curtains), the threshold is increased by 1 or 2. If you're operating beyond the accurate range of your weapon (but still within the maximum range), increase the threshold by 1. If the target is moving quickly, increase the threshold by 1. If the attacking character is moving faster than a careful walk, increase the threshold of a ranged attack (but not a melee attack) by 1.
+The Threshold can be further modified by circumstances. If the target has cover or its location is suspect (as in the case of illusions or intervening shower curtains), the threshold is increased by 1 or 2. If you're operating beyond the accurate range of your weapon (but still within the maximum range), increase the threshold by 1. If the target is moving quickly, increase the threshold by 1. If the attacking character is moving faster than a **C**areful Walk, increase the threshold of a ranged attack (but not a melee attack) by 1.
 
 #### Multiple Attackers
 
