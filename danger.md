@@ -122,7 +122,7 @@ The base amount of time needed to search an area depends on how large it is and 
 
 The table assumes that the seeker is looking for something human sized. Very small things can be very difficult to find and can have longer base hide-and-seek times with similar hiding places. Finding an unsorted book in a library or a literal needle in a haystack could easily take all day. Characters who are hiding can also panic and run (or sneak) from cover if they think that the seeker is dedicated enough. This goes to Chases, though the option often exists to make a Stealth stunt to sneak out while the seeker has their attention elsewhere.
 
-**[size=15]Driving like a Maniac**[/size]
+### Driving like a Maniac
 
 Even if you're driving a clunker of a VW Bus from the 1960s that goes 0-60 in 12 seconds, you _still_ hit 60 inside of a round. During that round, your clunky car will have cleared more than 160 meters, and next round it will go more than twice that distance. Any car that is already moving is basically unreachable by pedestrians unless they have super speed or are already ahead of the vehicle and willing to do an extreme (or even crazy extreme) stunt to get one chance at jumping on like an action cop. Cars start up in a variable amount of time, but you may have to turn the key several times to start even a well oiled machine if you're panicking or the plot requires it. What this means is that if a vehicle hasn't started already at the beginning of the round, it won't start until every character who is moving to the car's location has done so and been given the opportunity to act.
 
@@ -130,29 +130,31 @@ Vehicles have a convenient system on them called a speedometer which tells you h
 
 As a general rule of thumb, driving over 10 KPH faster than the safe speed is has a threshold of 1, 20 KPH faster has a threshold of 2, 40 KPH faster has a threshold of 3, 80 KPH faster has a threshold of 4, and so on. Safe speeds are generally marked on roads. Poor visibility and hazardous driving conditions reduce the safe speed, as mentioned in the driver's manual you theoretically had to read to get a driver's license. Really terrible conditions may reduce the safe speed all the way to zero. A character needs to make one driving test between each "place" which is a rather fluid concept of topology. Routes that have more important locations on them to potentially crash or break down at require more rolls. Because it's narrative driving, and that's seriously how it works. People sometimes blow a tire in the middle of nowhere, but noone ever loses a tire in the east of nowhere.
 
-**[size=20]Wounds[/size]**
-_OK, that hurt._
+## Wounds
+_"Okay, that hurt."_
 
 When a character takes damage, they are usually allowed to Soak that damage. This involves rolling a Soak Test (normally Strength), with the hits subtracted from incoming damage. If the damage is soaked to less than zero, the character takes no perceptible damage. If after the damage is soaked it is still some non-negative number, the character suffers a wound. Some number of boxes will be filled up. All characters and objects have 10 boxes on their condition monitor. And when those boxes are filled in, they are marked depending on the type of damage it is:
 **Normal:** If the wound is a Normal Wound, draw a single diagonal line between the lower left of the box and the upper right of the box. Like this: [**/**]
 **Lethal:** If the wound is a Lethal Wound, draw two diagonal lines that cross in the box. Like this: [**X**]
-**Aggravated:** If the wound is an Aggravated Wound, draw two diagonal lines that cross in the box and run a horizontal line through that. Like this: [**[s]X[/s]**]
+**Aggravated:** If the wound is an Aggravated Wound, draw two diagonal lines that cross in the box and run a horizontal line through that. Like this: [**~~X~~**]
 
 When all 10 of a character's boxes fill up with any kind of mark they are incapacitated, but they do not necessarily die. If more Lethal _or_ Normal wounds are inflicted when all the boxes are filled in and there are any boxes only filled in as Normal, draw an extra diagonal line through an appropriate number of them to make them Lethal wound boxes. Similarly, Aggravated wounds displace lesser wounds if the track is already full. For ease of accounting, the game arranges all wounds in the order of Aggravated, Lethal, Normal in the character's wound boxes. This can be achieved with simplicity by treating the forward and backward slash of the Lethal wound as separate and placing each one on the first line it fits. You can do the same with the horizontal mark on the Aggravated Wound.
 
-In the case that a character is Incapacitated and at least one of the boxes filled in only with Normal damage, they are in no immediate danger (from their wounds, being incapacitated in a place where you just _took_ a wound implies a certain level of urgency in most cases). If however every box is filled in with a line that goes from the lower right to the upper left ([**\**]), the character's condition has a chance of degrading - sending them spiraling into death, especially if they do not receive medical care. In general, intervention can stabilize such a character if administered within an hour of the injury, and sometimes characters will stabilize anyway. Note that in most cases, when a box gains the downward sloping slash it will gain it as part of a Lethal or Aggravated wound and actually look this [**X**] or this [**[s]X[/s]**]. The different lines also heal separately, so it is entirely possible to be left with just a line from the upper left to the lower right ([**\**]) even though no wound actually makes a mark that looks like that when it is inflicted.
+In the case that a character is Incapacitated and at least one of the boxes filled in only with Normal damage, they are in no immediate danger (from their wounds, being incapacitated in a place where you just _took_ a wound implies a certain level of urgency in most cases). If however every box is filled in with a line that goes from the lower right to the upper left ([**\**]), the character's condition has a chance of degrading - sending them spiraling into death, especially if they do not receive medical care. In general, intervention can stabilize such a character if administered within an hour of the injury, and sometimes characters will stabilize anyway. Note that in most cases, when a box gains the downward sloping slash it will gain it as part of a Lethal or Aggravated wound and actually look this [**X**] or this [**~~X~~**]. The different lines also heal separately, so it is entirely possible to be left with just a line from the upper left to the lower right ([**\**]) even though no wound actually makes a mark that looks like that when it is inflicted.
 
 A Terminal Wound is much like an Incapacitating Wound in that it fills up all of the character's wound boxes. The difference is that it is also an emergent threat to the character's life. A character who suffers a Terminal Wound will need to be stabilized within about five minutes or - barring a miracle - they will die. And yes, that includes Normal Wounds. A rubber bullet or a boxer's punch is entirely capable of stopping a heart, and then someone had better be on hand with CPR or the curtain is coming down.
 
-[table][row] **Net Damage** [col] **Wound Name** [col] **Wound Boxes**
-[row] 0 [col]**P**etty Wounds[col] 1 Box
-[row] 1 [col]**O**rdinary Wounds [col] 3 Boxes
-[row] 2 [col]**S**erious Wounds [col] 6 Boxes
-[row] 3 [col]**I**ncapacitating Wounds [col] All 10 Boxes
-[row] 4 [col]**T**erminal Wounds [col] All 10 Boxes*
-[row] 5 [col]**T**erminal Wounds [col] All 10 Boxes*
-[row] 7+ [col]**D**eath[col] NA[/table]
-*: [size=8]Also, you are probably going to die.[/size]
+| Net Damage | Wound Name | Wound Boxes |
+|:----------:|:-----------|:------------|
+| 0 | **P**etty Wounds | 1 Box |
+| 1 | **O**rdinary Wounds | 3 Boxes |
+| 2 | **S**erious Wounds | 6 Boxes |
+| 3 | **I**ncapacitating Wounds | All 10 Boxes |
+| 4 | **T**erminal Wounds | All 10 Boxes\* |
+| 5 | **T**erminal Wounds | All 10 Boxes\* |
+| 7+ | **D**eath | NA |
+
+\* Also, you are probably going to die.
 
 **Damage Penalties:** When a character has been _recently_ damaged, their ability to act is extremely impaired. The character's actions take a penalty equal to the number of boxes on their condition monitor that have a line running through them from the lower left to the upper right ([**/**]). This includes any Normal ([**/**]), Lethal ([**X**]) or Aggravated ([**[s]X[/s]**] wound boxes. Characters with a Willpower in excess of 2 reduce wound penalties (to a minimum of zero) by the amount their Willpower exceeds 2. So for example, a character with a Willpower of 4 can ignore the wound penalties imposed by 2 of their boxes. A character with Indomitability ignores wound penalties completely. 
 
@@ -163,10 +165,10 @@ A Terminal Wound is much like an Incapacitating Wound in that it fills up all of
 **Terminal Wounds:** Your ass is dying. Not dead, but nothing short of a miracle and a pair of lightning paddles is going to save you now. If you are saved, you still have an Incapacitating Wound.
 **Death:** A character who receives 7 unsoaked damage from a single attack simply dies outright. Feel free to describe graphic injuries such as exploding heads and bodies torn in half.
 
-**[size=18]Weaponry and Hazards[/size]**
+## Weaponry and Hazards
 _Holy crap, that looks dangerous._
 
-**[size=15]Ranged Weapons**[/size]
+### Ranged Weapons
 
 Most ranged weapons do an amount of damage that is fixed regardless of how strong the user is. The strength listing on the ranged weaponry table indicates the strength required to use the weapon without penalty in two hands. If the character's actual Strength exceeds that, they may use it without difficulty in one hand, unless it is Large in which case their strength must exceed that by 2 in order to use it successfully in one hand. If the strength value of the weapon exceeds the character's Strength, the threshold to strike a target is increased by the difference, in addition to needing two hands.
 
