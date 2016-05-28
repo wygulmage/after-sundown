@@ -39,7 +39,7 @@
    * [Attacking](danger/attacking.md)
    * Weaponry and Hazards
    * Armor
-   * Wounds
+   * [Wounds](danger/wounds.md)
    * Healing and Death
    * Temporary Conditions
    * Wind and Water
