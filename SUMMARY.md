@@ -49,7 +49,7 @@
    * [Witchcraft](monsters/witchcraft.md)
    * [Animates](monsters/animates.md)
    * [Leviathans](monsters/leviathans.md)
-   * Transhumans
+   * [Transhumans](monsters/transhumans.md)
    * Zombies
    * Fey
    * Giant Animals
