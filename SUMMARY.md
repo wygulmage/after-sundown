@@ -36,7 +36,7 @@
    * [Arguments From Rhetoric](getting_what_you_need/arguments_from_rhetoric.md)
 * [Danger](danger.md)
    * [Moving, Evading, and Escaping](danger/moving,_evading,_and_escaping.md)
-   * Attacking
+   * [Attacking](danger/attacking.md)
    * Weaponry and Hazards
    * Armor
    * Wounds
