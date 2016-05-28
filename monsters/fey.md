@@ -89,4 +89,4 @@ Advanced Powers
 * Devastation (Advanced Clout)
 * Restoration (Advanced Fortitude)
 
-**Story Inspiration:** Silent Hill, Billy Goats Gruff, Jack and the Giant
+**Story Inspiration:** [Silent Hill](http://www.imdb.com/title/tt0384537/), [Billy Goats Gruff](https://en.wikipedia.org/wiki/Three_Billy_Goats_Gruff), [Jack and the Giant](https://en.wikipedia.org/wiki/Jack_and_the_Beanstalk)
