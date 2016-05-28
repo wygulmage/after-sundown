@@ -37,7 +37,7 @@
 * [Danger](danger.md)
    * [Moving, Evading, and Escaping](danger/moving,_evading,_and_escaping.md)
    * [Attacking](danger/attacking.md)
-   * Weaponry and Hazards
+   * [Weaponry and Hazards](danger/weaponry_and_hazards.md)
    * Armor
    * [Wounds](danger/wounds.md)
    * Healing and Death
