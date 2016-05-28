@@ -49,7 +49,7 @@ Advanced Powers
 * The Beckoning (Advanced Call of the Wild)
 
 **Distinctive Flaw:** Temperamental
-**Story Inspiration:** Larry Talbot, Ginger Snaps, Dog Soldiers
+**Story Inspiration:** [Larry Talbot](http://www.imdb.com/title/tt0034398/), [Ginger Snaps](http://www.imdb.com/title/tt0210070/), [Dog Soldiers](http://www.imdb.com/title/tt0280609/)
 
 ### The Nezumi: Plague on the world of Men
 _"Tear him up."_
@@ -86,7 +86,7 @@ Advanced Powers
 * The Beckoning (Advanced Call of the Wild)
 
 **Distinctive Flaw:** Red Taped
-**Story Inspiration:** Willard, Torment, Fruits Basket
+**Story Inspiration:** [Willard](http://www.imdb.com/title/tt0310357/), Torment, [Fruits Basket](https://en.wikipedia.org/wiki/Fruits_Basket)
 
 ### The Bagheera: The Lady or the Tiger
 _"You can fool everybody, but landie, dearie me, you can't fool a cat. They seem to know who's not right."_
@@ -120,4 +120,4 @@ Advanced Powers
 * Alacrity (Advanced Celerity)
 
 **Distinctive Flaw:** Offensive to Animals
-**Story Inspiration:** Cat People, The Cat and the Canary, Geobreeders
+**Story Inspiration:** [Cat People](http://www.imdb.com/title/tt0034587/), [The Cat and the Canary](http://www.imdb.com/title/tt0031143/), [Geobreeders](https://en.wikipedia.org/wiki/Geobreeders)
