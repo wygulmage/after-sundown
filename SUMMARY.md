@@ -34,7 +34,7 @@
    * [Interviewing People](getting_what_you_need/interviewing_people.md)
    * [Persuasive Argumentation](getting_what_you_need/persuasive_argumentation.md)
    * [Arguments From Rhetoric](getting_what_you_need/arguments_from_rhetoric.md)
-* Danger
+* [Danger](danger.md)
 * Monsters
 * Magic
 * Character Options and Motivation
