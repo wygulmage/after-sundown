@@ -44,19 +44,19 @@
    * [Temporary Conditions](danger/temporary_conditions.md)
    * [Wind and Water](danger/wind_and_water.md)
 * [Monsters](monsters.md)
-  * Lycanthropy
-  * Vampirism
-  * Witchcraft
-  * Animates
-  * Leviathans
-  * Transhumans
-  * Zombies
-  * Fey
-  * Giant Animals
-  * Ghosts
-  * Demons
-  * Evil Plants
-  * Spawn Monsters
+   * [Lycanthropy](monsters/lycanthropy.md)
+   * Vampirism
+   * Witchcraft
+   * Animates
+   * Leviathans
+   * Transhumans
+   * Zombies
+   * Fey
+   * Giant Animals
+   * Ghosts
+   * Demons
+   * Evil Plants
+   * Spawn Monsters
 * Magic
 * Character Options and Motivation
 * The World at Night
