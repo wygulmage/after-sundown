@@ -20,7 +20,7 @@
    * [Cults](monstrous_society/cults.md)
    * [Antagonistic Organizations](monstrous_society/antagonistic_organizations.md)
    * [Political Aspirations](monstrous_society/political_aspirations.md)
-* Skills
+* [Skills](skills.md)
 * Getting What You Need
 * Danger
 * Monsters
