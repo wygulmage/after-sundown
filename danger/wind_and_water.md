@@ -33,7 +33,7 @@ Thick and Pea Soup fog effectively block out the sun.
 
 ### Wind
 
-Air blows around. It carries one's words away before they have had a chance to impart their intended convictions, ruining apologies and love confessions both. As in the real world, the relative strength of wind in After Sundown is represented on the Beaufort Windforce Scale. However, the bottom end of that scale doesn't make any difference (whether the "leaves are in motion" in a gentle breeze or "not" in an actual dead calm, characters can leave books on park benches without fear that they will fly open). As such, the minimum value of wind strength in the game is 3 - even when the story is taking place inside and such. That's a little awkward, but it beats the alternative of not being able to use genuine meteorological data in the game.
+Air blows around. It carries one's words away before they have had a chance to impart their intended convictions, ruining apologies and love confessions both. As in the real world, the relative strength of wind in After Sundown is represented on the [Beaufort Windforce Scale](https://en.wikipedia.org/wiki/Beaufort_scale). However, the bottom end of that scale doesn't make any difference (whether the "leaves are in motion" in a gentle breeze or "not" in an actual dead calm, characters can leave books on park benches without fear that they will fly open). As such, the minimum value of wind strength in the game is 3 - even when the story is taking place inside and such. That's a little awkward, but it beats the alternative of not being able to use genuine meteorological data in the game.
 
 | Wind Strength | It's Called... | You see... | Game Effects |
 |:-------------:|:---------------|:-----------|:-------------|
