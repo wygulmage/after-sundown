@@ -108,4 +108,4 @@ Advanced Powers
 * Contradiction (Advanced Descent of Entropy)
 
 **Distinctive Flaw:** Doomed Romance
-**Story Inspiration:** Pygmalion, Metropolis, RUR, Weird Science, Ifurita, Do Androids Dream of Electric Sheep?
+**Story Inspiration:** [Pygmalion](https://en.wikipedia.org/wiki/Pygmalion_%28mythology%29), [Metropolis](http://www.imdb.com/title/tt0017136/), [R.U.R.](https://en.wikipedia.org/wiki/R.U.R.), [Weird Science](http://www.imdb.com/title/tt0090305/), [Ifurita](http://myanimelist.net/character/6504/Ifurita), [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
