@@ -38,7 +38,7 @@
    * [Moving, Evading, and Escaping](danger/moving,_evading,_and_escaping.md)
    * [Attacking](danger/attacking.md)
    * [Weaponry and Hazards](danger/weaponry_and_hazards.md)
-   * Armor
+   * [Armor](danger/armor.md)
    * [Wounds](danger/wounds.md)
    * Healing and Death
    * [Temporary Conditions](danger/temporary_conditions.md)
