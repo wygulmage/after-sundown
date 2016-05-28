@@ -1,7 +1,7 @@
 ## Evil Plants
 _"There's no sense in getting killed by a plant."_
 
-The lands of Maya are filled with strange foliage. But strangest of all is the foliage that harbors a deep hatred for people and animals. Possessed of an intelligence that is so wholly unlike those of humanity’s that they are difficult to measure, these plants are condemned universally as being "Evil" even by the jaded standards of supernatural society. Completely emotionless, Evil Plants are not motivated by passions and cannot be induced to frenzy nor convinced against a course of action with emotional argument of any kind.
+The lands of Maya are filled with strange foliage. But strangest of all is the foliage that harbors a deep hatred for people and animals. Possessed of an intelligence that is so wholly unlike those of humanity's that they are difficult to measure, these plants are condemned universally as being "Evil" even by the jaded standards of supernatural society. Completely emotionless, Evil Plants are not motivated by passions and cannot be induced to frenzy nor convinced against a course of action with emotional argument of any kind.
 
 ### Mantraps
 _"Feed Me!"_
@@ -26,7 +26,6 @@ Core Discipline: Clout
 - Basic Powers -
 * Revive the Flesh (Basic Fortitude)
 * Hide From Notice (Basic Veil)
-
 
 ### Triffids
 _"I dunno what the hell's in there, but it's weird and pissed off, whatever it is."_
@@ -57,7 +56,7 @@ Advanced Powers
 
 * Puppetry (Advanced Coil of Thorns)
 
-**Story Inspiration:** The Thing, Night of the Triffids, Dryad, The Creeping Terror
+**Story Inspiration:** [The Thing](http://www.imdb.com/title/tt0084787/), [The Night of the Triffids](https://en.wikipedia.org/wiki/The_Night_of_the_Triffids), [Dryad](https://en.wikipedia.org/wiki/Dryad), [The Creeping Terror](http://www.imdb.com/title/tt0057970/)
 
 ### Pods
 _"There are others... they'll stop you!"<br >
