@@ -120,4 +120,4 @@ Advanced Powers
 * Magnify the Swarm (Advanced Swarm Song)
 
 **Distinctive Flaw:** Flake
-**Story Inspiration:** Vampire Hunter D, Wrath of Khan, Starship Troopers, Whisperer in Darkness
+**Story Inspiration:** [Vampire Hunter D](http://www.imdb.com/title/tt0090248/), [Wrath of Khan](http://www.imdb.com/title/tt0084726/), [Starship Troopers](http://www.imdb.com/title/tt0120201/), [Whisperer in Darkness](http://www.imdb.com/title/tt1498878/)
