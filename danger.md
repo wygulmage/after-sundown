@@ -40,7 +40,7 @@ The Threshold can be further modified by circumstances. If the target has cover 
 
 **Supine and Prone Enemies:** When a target maintains a low profile by getting on the ground, it is hard to hit them with ranged weaponry - increasing the threshold to hit them by 1 if they are at any range beyond **N**ear. On the other hand, hitting actually adjacent enemies who are on the ground is easy, and characters get an extra 2 dice to do that.
 
-**[size=15]Special Attack Actions[/size]**
+### Special Attack Actions
 
 **Aim:** Aiming is the act of taking extra time with a shot in order to make it more accurate. Each Aiming action reduces the effective range between the character and the target by one range category for the next shot. The actual distance does not change, and the threshold is still modified upward if the character is firing from beyond the weapon's accurate range. If the weapon is sufficiently braced that recoil is completely negated and the target does not move substantially from its original position, the character's Aiming can continue to apply on future shots. The first Aim action takes a Simple Action, and each further Aim action takes a progressively longer time frame (1 Round, 1 Minute, 5 Minutes, and finally 20 minutes of preparation to reduce a Remote target to be effectively Adjacent). These subsequent Aim actions all apply to the same attack, but a character can't actually benefit from more subsequent Aim actions than they have actual skill rating in Combat or Rigging. Aiming at targets beyond **S**hort range requires a scope.
 
@@ -56,19 +56,19 @@ The Threshold can be further modified by circumstances. If the target has cover 
 
 **Feint:** A character can attempt to distract or confuse an opponent, making an opening in a battle. Feinting is a Simple Action, and if it succeeds the target loses any "Lock On" they have and does not have the benefit of their Agility or Combat skill for purposes of setting thresholds on the character's attack against them if they follow it up with an attack of some kind (meaning the base threshold to strike them is likely zero). The character makes a Charisma + Expression or Agility + Tactics test and the target makes an Intuition + Empathy test. If the character gets _more_ hits, the feint succeeds. While normally a character who has Locked On can use their attack reactively if the target (or anyone else) attempts any "funny stuff" - in the case of a Feint they have to wait to see if the Feint is successful in making them lose the Lock before taking their free shot. If the Feint fails, they can immediately use their attack in revenge however.
 
-**[size=20]Moving, Evading, and Escaping[/size]**
+## Moving, Evading, and Escaping
 _There are places I want to be, places I want to see, far away from here, nowhere that is near._
 
 The second most defining action in combat (after attacking) is people endeavoring to not be part of the combat. And while that often involves _hiding_ the other possibility is _running_. 12 seconds is actually kind of a long time, and characters can move quite substantial distances in those periods. It's long enough for someone who is very good at that sort of thing to run a hundred meters and then change the magazine on an M-16 (seriously). But if you actually watch horror movies (or even documentaries, not that they are better source material for After Sundown), you'll note that people actually spend many 12 second periods without covering that much ground. In part, this is because the high end of speeds that people are capable of frequently take a fair amount of time to get started, and partly this is because running off at full speed without knowing where you are going is often suicidal.
 
-[table][mrow]Movement Type[mcol]Speed (in meters)
-[row] **S**low Search [col] 4
-[row] **C**areful Walk [col] 10
-[row] **O**rdinary Walk[col] 18
-[row] **R**apid Jog [col] 27
-[row] **E**xhausting Run [col] 60
-[row] **D**raining Sprint [col] 100
-[/table]
+| Movement Type | Speed (in meters) |
+|:--------------|:-----------------:|
+| **S**low Search | 4 |
+| **C**areful Walk | 10 |
+| **O**rdinary Walk | 18 |
+| **R**apid Jog | 27 |
+| **E**xhausting Run | 60 |
+| **D**raining Sprint | 100 |
 
 In general, a character declares their intention to move before any actions are taken, and characters can take their actions as if they or their targets were where they were at any point during the turn. 12 seconds is a long time, so if someone is moving around a corner or into view it is reasonable that some number of bullets went towards them while they were in the open. For exceptions to this, see Taking One For the Team and Diving For Cover. Often it won't really matter, but characters with the lowest Initiative Score declare their movement first.
 
