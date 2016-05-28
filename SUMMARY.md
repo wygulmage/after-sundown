@@ -45,7 +45,7 @@
    * [Wind and Water](danger/wind_and_water.md)
 * [Monsters](monsters.md)
    * [Lycanthropy](monsters/lycanthropy.md)
-   * Vampirism
+   * [Vampirism](monsters/vampirism.md)
    * Witchcraft
    * Animates
    * Leviathans
