@@ -41,7 +41,7 @@
    * Armor
    * [Wounds](danger/wounds.md)
    * Healing and Death
-   * Temporary Conditions
+   * [Temporary Conditions](danger/temporary_conditions.md)
    * Wind and Water
 * Monsters
 * Magic
