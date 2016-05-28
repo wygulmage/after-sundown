@@ -397,7 +397,7 @@ Advanced Powers
 **Distinctive Flaw:** Aimless
 **Story Inspiration:** The Craft, Kotetsu, Poison Ivy
 
-## The Khaibit Tradition
+### The Khaibit Tradition
 _"There are far worse things awaiting man than death."_
 
 Fear of darkness and death leads men to do strange things. Perhaps the strangest of them is to murder one's self and then use sorcery or advanced medical techniques to make one's foray into the land of the dead a temporary one. This does not inherently prevent a person from dying in the future, indeed quite the opposite. Many who gain the intimate secrets of death in this manner are chased by the shadow of doom for the remainder of their existence.
