@@ -971,88 +971,107 @@ The wilderness of Maya gives birth to nightmarish and titanic beasts beyond numb
 
 Giant Animals are vulnerable to silver.
 
-**[size=20]Behemoths[/size]**
-"_Let's not overlook the fact that he didn't eat me._"
+### Behemoths
+_"Let's not overlook the fact that he didn't eat me."_
 
 Magically enhanced monstrous beasts prowl the wilds of the astral plane, and sometimes their rampages take them through holes in reality to invade the mortal world. In areas unseen by man, animals will sometimes spontaneously grow to magically augmented size and then rampage from there. Behemoths look pretty much like mortal animals save that they are substantially larger than their natural kin and _substantially_ more aggressive and dangerous to humans.
 
 A Behemoth's Giant Size is always on, and it is important to note that sometimes they are of a type of creature which is itself _normally_ 3.5 meters or more such as giant anacondas and the like. Giant Size in this case represents a proportional increase for such creatures, meaning a rough doubling in all dimensions and an increase in mass by approximately 10 times. A Behemoth was never human, but it is a real creature, and before considering its Giant Size and Potency, it uses the normal stats of an animal of its type.
 
-A Behemoth has an Astral power source and a Continuous power schedule.**Behemoth Starting Powers**
+A Behemoth has an Astral power source and a Continuous power schedule.
 
-- Basic Powers -
+#### Behemoth Starting Powers
+
+Basic Powers
+
 * Touch of Darkness (Basic Lure of Destruction)
 * Vigor (Basic Clout)
 
--Advanced Powers -
+Advanced Powers
+
 * Giant Size (Advanced Clout)
+
 **Story Inspiration:** Mighty Joe Young, Lake Placid, Boa vs. Python, Le Pacte de Loups, Them
 
-**[size=20]Swarms[/size]**
-"_Do you happen to have a pair of birds that are... just friendly?_"
+### Swarms
+_"Do you happen to have a pair of birds that are... just friendly?"_
 
-Whether it's the birds in [u]The Birds[/u] or a horde of rats in [u]Willard[/u], life in horror has a propensity for having large groups of individually innocuous beasts get together in a big group and go on a rampage. It may seem like they can't possibly be fought with weapons, since there's about a fantastillion of them in each swarm. But the reality is that the Swarm itself is completely meaningless. They "are" an intangible energy field that whips mundane beasts into a frenzy of violence. As such, one simply has to hit the intangible force between the controlled beasts with silver until it stops moving.
+Whether it's the birds in [The Birds](http://www.imdb.com/title/tt0056869/) or a horde of rats in [Willard](http://www.imdb.com/title/tt0067991/), life in horror has a propensity for having large groups of individually innocuous beasts get together in a big group and go on a rampage. It may seem like they can't possibly be fought with weapons, since there's about a fantastillion of them in each swarm. But the reality is that the Swarm itself is completely meaningless. They "are" an intangible energy field that whips mundane beasts into a frenzy of violence. As such, one simply has to hit the intangible force between the controlled beasts with silver until it stops moving.
 
 Unfortunately, Swarms have a tendency to respawn within a few days unless something drastic is done.
 
-A Swarm has an Astral power source and a Lunar power schedule.**Swarm Starting Powers**
+A Swarm has an Astral power source and a Lunar power schedule.
 
-- Basic Powers -
+#### Swarm Starting Powers
+
+Basic Powers
+
 * Revive the Flesh (Basic Fortitude)
 * Supernatural Senses (Basic Discernment)
 * Tongue of Beasts (Basic Call of the Wild)
 * Hide From Notice (Basic Veil)
 
--Advanced Powers -
+Advanced Powers
+
 * Empty Body (Discernment / Fortitude Devotion)
 * Restoration (Advanced Fortitude)
 * The Beckoning (Advanced Call of the Wild)
+
 **Story Inspiration:** The Birds, The Swarm, Willard
 
-**[size=20]Chimera[/size]**
-"_That is simply unnatural._"
+### Chimera
+_"That is simply unnatural."_
 
 In the heart of Maya there are animals that don't really look like Earthly animals at all. Sometimes they look like two or more creatures melded together awkwardly, and sometimes they just look like something drawn up for [u]Heavy Metal[/u]. These are the Chimera, and some of them look like mythic beasts such as unicorns and basilisks. And it is important to note that they actually _behave_ like those legendary monsters do _in horror movies_. Which means that mostly what they do is wander around and use their powers to murder people. Chimeras are about the size of a horse and are not cuddly at all.
 
 A Chimera has the mind of an animal, and the physique of a horrible man-eating monster. Since they aren't even reasonable facsimiles of humans, they not only have a non-standard attribute array but indeed fairly fixed attributes and skills. They _do_ have a Potency rating, and sometimes these values increase. Whether they have a spiral horn or a scorpion's tail, a Chimera has natural weaponry that inflict 3 Lethal damage.
+
 S: 8 A: 3 I: 3 L: 1 W: 5 C: 1
+
 Skills: Artisan 1; Athletics 5; Combat 3; Perception 2; Rigging 3 (Water); Stealth 2; Survival 4
 
-A Chimera has an Astral power source and a Continuous power schedule.**Chimera Starting Powers**
+A Chimera has an Astral power source and a Continuous power schedule.
 
-- Core Discipline: Trail of Tears -
+#### Chimera Starting Powers
+
+Core Discipline: Trail of Tears
+
 * Curse of Failure (Trail of Tears)
 * Pain Drops (Trail of Tears)
 
-- Basic Powers -
+Basic Powers
+
 * Light of Ennui (Basic Descent of Entropy)
 * Revive the Flesh (Basic Fortitude)
 * Hide from Notice (Basic Veil)
 * Tongue of Beasts (Basic Call of the Wild)
 
--Advanced Powers -
+Advanced Powers
+
 * Water Prison (Advanced Trail of Tears)
 * Aura of Decay (Advanced Descent of Entropy)
 * Hide in Plain Sight (Advanced Veil)
+
 **Story Inspiration:** Basilisk, Orangopoid, Xenomorph, Spidron
 
-**[size=20]Kaiju[/size]**
-"_What the hell is that?_"
-"_We need bigger guns._"
+### Kaiju
+_"What the hell is that?"<br />
+"We need bigger guns."_
 
 There are things in the wilderness of horror that defy ready analysis. Some are really, _really_ big. And they stomp out of nightmares and crush everything beneath their feet. They are the Kaiju, and they have no place in the modern world. Standing at something over 15 meters tall, these prehistoric beasts are awe inspiringly terrifying. It's not even _entirely_ clear that these titanic monstrosities are even magical in nature, and indeed most of them don't seem to use any magical powers save for being really big.
 
 A Kaiju is not a normal animal that uses magic to grow really big, it's just a magically spawned entity that is much larger than a land-bound mortal animal could possibly be without suffering from cube square law insufficiencies. They aren't using Clout effects, that's _just how big they are_. Whether they are giant lizards or giant apes, their stats are pretty much the same. And yes, some of them are also magical and have magical disciplines like Fire Starter that allows them to breathe gouts of flame. But mostly they just rely on their size. They don't even have something that counts as special natural weaponry, their normal attack is a base zero normal damage fist - and they are so big that attacking a human-sized target suffers a -5 penalty to the attack roll - and they _still_ normally flatten things in one pound - because that's how a creature with a 35 strength _rolls_.
 
 Kaiju can work as "boss monsters" in that they are so out of scale with even large and in-charge characters that finding something that can hurt them _at all_ can be an adventure in itself.
+
 S: 35 A: 2 I: 4 L: 1 W: 6 C: 1
+
 Skills: Animal Ken 3; Athletics 4; Combat 5; Perception 4; Stealth 2; Survival 4
 
 **Story Inspiration:** King Kong, T. Rex.
 
-**[size=25]Ghosts**[/size]
-
-"_What we have here is what we call a non-repeating phantasm._"
+## Ghosts
+_"What we have here is what we call a non-repeating phantasm."_
 
 The most numerous of supernatural creatures is the Ghost. One of them could be created every time someone dies, there are over seven billion people, and the number of deaths is one per person.
 
@@ -1060,25 +1079,30 @@ Every Ghost has tremendous difficulty interacting with the material world. They 
 
 Because of their extreme difficulty in interacting with things, Ghosts often make rather limited actors in a story, and are thus ill suited to be main characters.
 
-**[size=20]Wisps[/size]**
-"_Oooh...._"
+### Wisps
+_"Oooh..."_
 
 Wisps are little shadows or colored glows that flit about and scarcely remember that they used to be humans. Individual Wisps are everywhere, and usually fairly inconsequential. Some Wisps make their way to the material world and scare people or try to interact with the world as they remember it being - it's a pretty frustrating experience because they can't actually touch anything.
 
 Wisps primarily interact with an After Sundown chronicle by being utilized by necromancers as spies. Even without being compelled into service, Wisps are often quite willing to be helpful to physical beings that can interact with them. Wisps have a Strength score of 1, regardless of what they had in life.
 
-A Wisp has an Orphic power source and a Lunar power schedule.**Wisp Starting Powers**
+A Wisp has an Orphic power source and a Lunar power schedule.
 
-- Basic Powers -
+#### Wisp Starting Powers
+
+Basic Powers
+
 * Aura Perception (Basic Discernment)
 * Patience of the Mountains (Basic Fortitude)
 
--Advanced Powers -
+Advanced Powers
+
 * Empty Body (Discernment / Fortitude Devotion)
+
 **Story Inspiration:** All the spooky background ghostly stuff in movies like Sleepy Hollow.
 
-**[size=20]Wraiths[/size]**
-"_You know, the best way to get rid of ghosts is to clean house._"
+### Wraiths
+_"You know, the best way to get rid of ghosts is to clean house."_
 
 Wraiths appear as they did in life save with photographic filters applied to make them look washed out and see-through. Each Wraith is a specific person that died, and they tend to have goals that tie into their time while alive or the circumstances of their death. A Wraith that accomplishes its driving goal often dissolves into a Nirvanaish happy ending. But sometimes a Luminary Wraith will simply go on and make an unlife for themselves in supernatural society.
 
@@ -1086,70 +1110,86 @@ Like all Ghosts, a Wraith is only corporeal while within the Gloom, and can only
 
 Some Luminary Wraiths come into being with a lot of extra disciplines, putting them on close to the same footing as a normal player character. Some people might even be tempted to run Wraith chronicles, but that's really very difficult role playing.
 
-A Wraith has an Orphic power source and a Ritual power schedule.**Wraith Starting Powers**
+A Wraith has an Orphic power source and a Ritual power schedule.
 
-- Basic Powers -
+#### Wraith Starting Powers
+
+Basic Powers
+
 * Aura Perception (Basic Discernment)
 * Patience of the Mountains (Basic Fortitude)
 * Vigor (Basic Clout)
 
--Advanced Powers -
+Advanced Powers
+
 * Empty Body (Discernment / Fortitude Devotion)
+
 **Story Inspiration:** Ghost, Stir of Echoes, Sixth Sense, most ghost stories honestly.
 
-**[size=20]Poltergeists[/size]**
-"_They're here..._"
+### Poltergeists
+_"They're here..."_
 
 Poltergeists are accumulations of untold numbers of wisps that have lost their individuality and become spiritual storms. Ruled by rage and quite destructive, Poltergeists can't even speak save to wail and scream. Sometimes they are tied to a location, sometimes they travel around Mictlan like thunderheads. In either case, they usually have some relation to a specific atrocity or another, and will calm down and disperse if someone can figure out how to appease them despite their inarticulate destruction.
 
 Like all Ghosts, a Poltergeist has an Empty Body unless they are in Mictlan. They also have a Charisma and Logic of zero. They have no specific limits for other attributes, larger storms have more Strength and more Willpower...
 
-A Poltergeist has an Orphic power source and a Lunar power schedule.**Poltergeist Starting Powers**
+A Poltergeist has an Orphic power source and a Lunar power schedule.
 
-- Basic Powers -
+#### Poltergeist Starting Powers
+
+Basic Powers
+
 * Aura Perception (Basic Discernment)
 * Patience of the Mountains (Basic Fortitude)
 * Vigor (Basic Clout)
 
--Advanced Powers -
+Advanced Powers
+
 * Empty Body (Discernment / Fortitude Devotion)
 * Telekinesis (Discernment / Clout Devotion)
 * Devastation (Advanced Clout)
+
 **Story Inspiration:** Poltergeist, It
 
-**[size=25]Demons**[/size]
-
-"_Match wits with a creature older than time? Match wits with a prince of the dark dominions?_"
+## Demons
+_"Match wits with a creature older than time? Match wits with a prince of the dark dominions?"_
 
 The Demons were seemingly around a lot longer than other supernatural creatures: the oldest records left by vampires or the recollections of the Returned allow for the civilization of the Demons as having been around for unfathomable years even then. This makes their predicament something of a puzzle, because every Demon is imprisoned in Limbo to a greater degree than any of its other inhabitants. Who or _what_ imprisoned the Demons there is not particularly clear, and individual Demons advance distinct theories when asked. All Demons live forever, and many of them _are_ frightfully old. Many of them claim to have been around during "The Great Banishment" - but in almost all cases this is certainly a lie. It's not even clear where the banishment was _from_. Some claim that it was the Material World, while others claim that the original Demonic home world was Maya. Still others claim that it was some as yet unnamed world that they cannot return to. What is clear is that Demons have a tremendous difficulty leaving the Dark Reflection: their Potencies are considered four higher for purposes of overcoming the Gauntlet.
 
-**[size=20]Akuma[/size]**
-"_I always get what I want because I take it._"
+### Akuma
+_"I always get what I want because I take it."_
 
 The Akuma were never human and this fact cannot easily escape onlookers. Standing about a meter taller than a man, Akuma are also blessed with extra... parts. Rows of teeth, third eyes, sometimes even extra arms or mouths. Many come equipped with extra parts that are not analogous to any found in normal people such as horns, pincers, and tentacles. They come in colors like red and blue rather than the tan and slightly darker tan that humans are familiar with. Even the white ones are _white_, rather than merely a slightly paler shade of tan. These are the demons you imagine when your imagination has a bottomless budget for costuming. 
 
 Akuma need to feed on sapients in order to restore their powers. Left on their own in the Dark Reflection they foist mirror goblins into their maws with wild abandon, but they prefer the flesh of humans. While Akuma do not strictly speaking _need_ to eat, they love doing so and their gluttonous appetites cannot be sated easily or long. Akuma are a huge social problem for mortals and supernaturals alike when they appear in the material world, for they lack subtlety in any of their dealings. Akuma are lazy bullies whose only redeeming feature is that at least their short sighted avarice makes them easy to manipulate by those with sufficient power to not be devoured right off. An Akuma has no driving passions, and is dominated by Master Passions of Rage, Hunger, and Fear.
 
 While it is _possible_ for an Akuma to gain power nonfatally from a victim, their love of livers and poor discipline ensure that this almost never happens. An Akuma cannot turn their Giant Size off. An Akuma's claws, horns, teeth, or whatever constitute a damage 3 weapon (including their monstrous size). Akuma have a nonstandard attribute array because they were never humans. Before their Potency modifier and their constant Giant Size, their attribute ranges are:
+
 S: 6/11 A: 1/5 I: 1/3 L: 1/3 W: 2/7 C: 1/4
 
-An Akuma has an Infernal power source and a Feeding power schedule.**Akuma Starting Powers**
+An Akuma has an Infernal power source and a Feeding power schedule.
 
-- Core Discipline: Clout -
+#### Akuma Starting Powers
+
+Core Discipline: Clout
+
 * Vigor (Basic Clout)
 * Clinging (Basic Clout)
 
-- Basic Powers -
+Basic Powers
+
 * Command (Basic Authority)
 * Patience of the Mountains (Basic Fortitude)
 
--Advanced Powers -
+Advanced Powers
+
 * Giant Size (Advanced Clout)
 * Devastation (Advanced Clout)
+
 **Story Inspiration:** Where the Wild Things Are, Legend, Urotsukidoji, Aka Oni
 
-**[size=20]Asura[/size]**
-"_And for revenge thou hast created this demon. Her domain is darkness - her purpose is wickedness_"
+### Asura
+_"And for revenge thou hast created this demon. Her domain is darkness - her purpose is wickedness."_
 
 The Asura appear as relatively attractive, if distant and cruel humans. As the only type of Demon that is not constitutively required to eat or torture people to death, they are the most likely to have neutral or positive relations with residents of the mortal world. Nevertheless, Asura very rarely behave in any manner that could be even generously described as less than unnecessarily dickish. While they gain no literal sustenance from harming people, they are often pressed into the service of powerful Ifrit to do so and just plain seem to like doing it.
 
@@ -1161,25 +1201,31 @@ Asura easily insinuate themselves in leadership positions in the mortal world be
 
 Some Asura have enough extra disciplines to put them on a roughly equal footing with starting player characters of other supernatural types. While still being totally inhuman, Asura are _by far_ the most player-friendly of the extra-terrestrials. It is still rather difficult roleplaying, because they were never humans, have no aspirations to ever _be_ humans, and were at no points in their un-Earthly lives ever confused on any of those points. But still, with some work, it can be done.
 
-An Asura has an Infernal power source and a Ritual power schedule.**Asura Starting Powers**
+An Asura has an Infernal power source and a Ritual power schedule.
 
-- Core Discipline: Magnetism -
+#### Asura Starting Powers
+
+Core Discipline: Magnetism
+
 * Attract (Basic Magnetism)
 * Repel (Basic Magnetism)
 
-- Basic Powers -
+Basic Powers
+
 * Supernatural Senses (Basic Discernment)
 * Patience of the Mountains (Basic Fortitude)
 * Clinging (Basic Clout)
 
-- Advanced Powers -
+Advanced Powers
+
 * Flight (Clout / Magnetism Devotion)
 * Dismissal (Advanced Magnetism)
 * Summons (Advanced Magnetism)
+
 **Story Inspiration:** Succubus, Disgaea, Hell Bent
 
-**[size=20]Ifrit[/size]**
-"_I don't need you dead, just for you to wish you were._"
+### Ifrit
+_"I don't need you dead, just for you to wish you were."_
 
 By far the rarest and most terrifying denizens of Limbo are the Ifrit. They are not especially powerful physically, and indeed they are normally intangible when encountered. But they have incredible mystical powers, almost unmatched amongst supernatural creatures. Not a few of them have taken to passing themselves off as gods when they reach the material world, and yet they have never achieved much status within any of the major Earthly Syndicates. This is primarily because as a group they do not normally join supernatural Syndicates - even the King with Three Shadows counts few Ifrit under his dominion. 
 
@@ -1187,15 +1233,19 @@ An Ifrit can look like anything and they do. But in their truest form they seem 
 
 In order to feed, an Ifrit must be within a meter of someone in wracking agony. They do not have to actually consume any blood or viscera and indeed they generally cannot because they are incorporeal anywhere but the Depths of Limbo. While Ifrit were probably never living mortals, their attributes are normal for their Potency.  It's not entirely clear if Ifrit ever _were_ anything before being magical beings, no one knows of any of them coming into being, and the lowest Potency of any Ifrit seems to be 4.
 
-An Ifrit has an Infernal power source and a Feeding power schedule.**Ifrit Starting Powers**
+An Ifrit has an Infernal power source and a Feeding power schedule.
 
-- Core Powers: Progress of Glass and Trail of Tears -
+#### Ifrit Starting Powers
+
+Core Powers: Progress of Glass and Trail of Tears
+
 * Distant Reflection (Basic Progress of Glass)
 * Deny the Gauntlet (Basic Progress of Glass)
 * Curse of Failure (Basic Trail of Tears)
 * Pain Drops (Basic Trail of Tears)
 
-- Basic Powers -
+Basic Powers
+
 * Aura Perception (Basic Discernment)
 * Patience of the Mountains (Basic Fortitude)
 * Clinging (Basic Clout)
@@ -1203,37 +1253,43 @@ An Ifrit has an Infernal power source and a Feeding power schedule.**Ifrit Start
 * Mesmerism (Basic Authority)
 * Mask of a Thousand Faces (Basic Veil)
 
-- Advanced Powers -
+Advanced Powers
+
 * Empty Body (Discernment / Fortitude Devotion)
 * Telekinesis (Discernment / Clout Devotion)
 * Mirror Pocket (Advanced Progress of Glass)
 * Dark Night of the Soul (Advanced Trail of Tears)
 * Conditioning (Advanced Authority)
 
-- Elder Powers -
+Elder Powers
+
 * The Smoking Mirror (Elder Progress of Glass)
 * Object of Envy (Elder Trail of Tears)
+
 **Story Inspiration:** Wishmaster
 
-**[size=25]Evil Plants**[/size]
-
-"_There's no sense in getting killed by a plant._"
+## Evil Plants
+_"There's no sense in getting killed by a plant."_
 
 The lands of Maya are filled with strange foliage. But strangest of all is the foliage that harbors a deep hatred for people and animals. Possessed of an intelligence that is so wholly unlike those of humanity’s that they are difficult to measure, these plants are condemned universally as being "Evil" even by the jaded standards of supernatural society. Completely emotionless, Evil Plants are not motivated by passions and cannot be induced to frenzy nor convinced against a course of action with emotional argument of any kind.
 
-**[size=20]Mantraps[/size]**
-"_Feed Me!_"
+### Mantraps
+_"Feed Me!"_
 
 Mantraps are essentially Aubrey the monster from Little Shop of Horrors or the carnivorous plants from Mario Brothers. They are able to move their giant mouth quite quickly, but they are rooted to the ground and cannot effectively give chase. Brutally effective ambush hunters, Mantraps try to eat animals whenever the opportunities arise.
 
 Mantraps can't readily transport themselves across the land, let alone the borders between the dreamlands and the material world. Nevertheless, they do appear on Earth, because there are those who for whatever reason dig them up and transplant them. They often appear as guard plants in Marduk Society compounds. Mantraps can learn to speak, and their muppet like countenance creates alien voices.
 
 The huge woody maw of a Mantrap is a damage 3 weapon. Mantraps have a nonstandard attribute array because they were never humans. Before their Potency modifier their attribute ranges are:
+
 S: 3/8 A: 1/4 I: 1/6 L: 1/3 W: 2/7 C: 1/4
 
-A Mantrap has an Astral power source and a Feeding power schedule.**Mantrap Starting Powers**
+A Mantrap has an Astral power source and a Feeding power schedule.
 
-- Core Discipline: Clout -
+#### Mantrap Starting Powers
+
+Core Discipline: Clout
+
 * Vigor (Basic Clout)
 * Clinging (Basic Clout)
 
