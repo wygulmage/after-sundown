@@ -867,9 +867,8 @@ Advanced Powers
 
 * Indomitability (Advanced Fortitude)
 
-## The Fey
-
-"_I'll not rest till I have me gold. Curse this well that me soul shall dwell, till I find me magic that breaks me spell._"
+## Fey
+_"I'll not rest till I have me gold. Curse this well that me soul shall dwell, till I find me magic that breaks me spell."_
 
 Covetous and frightening, the Fey of After Sundown are a lot more like the Svartalfs of bloodthirsty Norse myth than the pixies of a Disney cartoon. If they _were_ from a Disney cartoon, it would probably be the Night on Bald Mountain segment from Fantasia. The hideous goblins and gnarled ogres that make Limbo their home are stupid and vile.
 
