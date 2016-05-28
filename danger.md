@@ -254,7 +254,7 @@ Most ranged weapons do an amount of damage that is fixed regardless of how stron
 | Cannon| 7 | (W)R | 8 | H |
 
 <sup>A</sup>: Weapon fires in automatic mode.<br />
-<sup>C</sup>: Weapon ignores any soft or partial cover.<br />
+<sup>C</sup>: Weapon ignores most cover.<br />
 F: Weapon does fire damage.<br />
 N: Weapon does Normal Damage.<br />
 
