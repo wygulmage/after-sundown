@@ -10,22 +10,23 @@ When characters are injured, there are two possibilities: they can either get be
 | Lethal | <tt>[\\]</tt> | 1 day |
 | Aggravated | <tt>[<s> </s>]</tt> | 3 Days |
 
-**Sample Healing:**
-**[/] [/] [/] [/] [/] [/] [/] [/] [ ] [ ]**
-20 minutes later:
-**[X] [/] [/] [/] [/] [/] [ ] [ ] [ ] [ ]**
-40 minutes later:
-**[X] [X] [/] [/] [ ] [ ] [ ] [ ] [ ] [ ]**
-60 minutes later:
-**[X] [X] [\] [ ] [ ] [ ] [ ] [ ] [ ] [ ]**
-80 minutes later:
-**[\] [\] [\] [ ] [ ] [ ] [ ] [ ] [ ] [ ]**
-1 day later:
-**[s][\][/s] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]**
-2 days later:
-**[s][ ][/s] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]**
-4 days later:
-**[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]**
+#### Sample Healing
+
+Starting: <tt>[/][/][/][/][/][/][/][/][ ][ ]</tt>
+
+20 minutes later: <tt>[X][/][/][/][/][/][ ][ ][ ][ ]</tt>
+
+40 minutes later: <tt>[X][X][/][/][ ][ ][ ][ ][ ][ ]</tt>
+
+60 minutes later: <tt>[X][X][\][ ][ ][ ][ ][ ][ ][ ]</tt>
+
+80 minutes later: <tt>[\\][\\][\\][ ][ ][ ][ ][ ][ ][ ]</tt>
+
+1 day later: <tt>[<s>\\</s>][ ][ ][ ][ ][ ][ ][ ][ ][ ]</tt>
+
+2 days later: <tt>[<s> </s>][ ][ ][ ][ ][ ][ ][ ][ ][ ]</tt>
+
+4 days later: <tt>[ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]</tt>
 
 ### Incapacitating and Terminal Wounds
 
@@ -39,13 +40,13 @@ A character who is incapacitated or terminally wounded can also have their death
 
 When a character is healing, they are entitled to a healing test to prevent lethal or aggravated damage from accumulating. The healing test is Edge + Survival, and is modified by the conditions the character is in while they are healing. If the character gets a hit, the round of healing goes by without generating any extra wounds. If another character is on hand to provide medical care, that character's Logic + Medicine test works together with the injured character's Edge + Survival test as a Teamwork test. Which counts as the main and which counts as the assistant depends on who has the bigger dice pool.
 
-**Healing Conditions Table:**
-[table]| **Conditions are...** | **Healing Modifier**
-| Dangerous | -2
-| Distressing | +0
-| Restful | +1
-| Sanitary | +2
-| Awesome | +4[/table]
+| Conditions are... | Healing Modifier |
+|:------------------|:----------------:|
+| Dangerous | -2 |
+| Distressing | +0 |
+| Restful | +1 |
+| Sanitary | +2 |
+| Awesome | +4 |
 
 The healing test is especially important for characters who suffer Incapacitating Lethal or Aggravated injuries, because the first time normal wounds heal and generate a Lethal slash when the track is already full will push them into a terminal wound. Note that this really means that if an Extra takes an Incapacitating Wound from a knife or a bullet that they will always go Terminal in an hour unless medical personnel come and save them (they will also be able to crawl around at that point, perhaps able to give some dramatic piece of information before they die).
 
