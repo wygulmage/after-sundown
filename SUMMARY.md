@@ -35,14 +35,14 @@
    * [Persuasive Argumentation](getting_what_you_need/persuasive_argumentation.md)
    * [Arguments From Rhetoric](getting_what_you_need/arguments_from_rhetoric.md)
 * [Danger](danger.md)
-  * Moving, Evading, and Escaping
-  * Attacking
-  * Weaponry and Hazards
-  * Armor
-  * Wounds
-  * Healing and Death
-  * Temporary Conditions
-  * Wind and Water
+   * [Moving, Evading, and Escaping](danger/moving,_evading,_and_escaping.md)
+   * Attacking
+   * Weaponry and Hazards
+   * Armor
+   * Wounds
+   * Healing and Death
+   * Temporary Conditions
+   * Wind and Water
 * Monsters
 * Magic
 * Character Options and Motivation
