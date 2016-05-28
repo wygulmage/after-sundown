@@ -88,6 +88,7 @@ Weaponry enthusiasts will get mad at you for calling them "silencers" because th
 Melee weaponry differs from ranged weaponry primarily in that it simply goes as far as it will reach and therefore doesn't have a "range" value on the table. Many melee weapons inherently do Normal rather than Lethal damage, and their damage values are followed by an "N". Unlike Ranged Weaponry, which is mostly designed for the purpose, a majority of things that people beat on each other with in hand to hand conflicts are actually improvised weapons - tools and household items that happen to be at hand when a fight breaks out.
 
 | Weapon | Damage | Strength | Size |
+|:-------|:------:|:--------:|:----:|
 | Fist | 0N | 0 | X |
 | Bottle | 1N | 1 | S |
 | Chair | 1N | 3 | L |
