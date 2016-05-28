@@ -77,7 +77,7 @@ Advanced Powers
 * Lost and Found (Advanced Veil)
 
 **Distinctive Flaw:** Either Anachronism _or_ Naive
-**Story Inspiration:** Rabbi Loew, R.U.R., Short Circuit, Talos
+**Story Inspiration:** [Rabbi Loew](https://en.wikipedia.org/wiki/Golem#The_classic_narrative:_The_Golem_of_Prague), [R.U.R.](https://en.wikipedia.org/wiki/R.U.R.), [Short Circuit](http://www.imdb.com/title/tt0091949/), [Talos](https://en.wikipedia.org/wiki/Talos)
 
 ### Androids: The Lover
 _"How fully functional are you?"_
