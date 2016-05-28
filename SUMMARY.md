@@ -27,7 +27,7 @@
    * [Specializations](skills/specializations.md)
    * [Backgrounds](skills/backgrounds.md)
    * [Using Skills](skills/using_skills.md)
-   * Using Attributes Without Skills
+   * [Using Attributes Without Skills](skills/using_attributes_without_skills.md)
 * Getting What You Need
 * Danger
 * Monsters
