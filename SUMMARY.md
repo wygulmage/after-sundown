@@ -56,7 +56,7 @@
    * [Ghosts](monsters/ghosts.md)
    * [Demons](monsters/demons.md)
    * [Evil Plants](monsters/evil_plants.md)
-   * Spawn Monsters
+   * [Spawn Monsters](monsters/spawn_monsters.md)
 * Magic
 * Character Options and Motivation
 * The World at Night
