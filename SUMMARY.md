@@ -31,7 +31,7 @@
 * [Getting What You Need](getting_what_you_need.md)
    * [Keeping Things Quiet](getting_what_you_need/keeping_things_quiet.md)
    * [Asking Around: Montages](getting_what_you_need/asking_around_montages.md)
-   * Interviewing People
+   * [Interviewing People](getting_what_you_need/interviewing_people.md)
    * Persuasive Argumentation
    * Arguments From Rhetoric
 * Danger
