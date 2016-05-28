@@ -47,7 +47,7 @@
    * [Lycanthropy](monsters/lycanthropy.md)
    * [Vampirism](monsters/vampirism.md)
    * [Witchcraft](monsters/witchcraft.md)
-   * Animates
+   * [Animates](monsters/animates.md)
    * Leviathans
    * Transhumans
    * Zombies
