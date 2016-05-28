@@ -5,15 +5,7 @@ Society does all kinds of things. It guarantees revenge against those who threat
 
 Very often players will be in situations where the information, goods, or services they want are not available on e-Bay (at least, not in any recognizable form). And in such cases it often falls to going and getting it out of society yourself. Depending on the needs of the story, this is either done through a _montage_ scene or through an _interview_ scene. In an interview, the character speaks directly to an NPC and tries to get something they want (for example: consider the scene where Rorschach is interrogating Moloch or the scene where Indiana Jones is asking for help from his friend Sallah). The interview format is appropriate when you want to do sentence by sentence roleplay and/or when there is a single pivotal NPC who is the source of the needed information or goods. On the flip side, the montage is a scene made up of several short linked scenes where the characters are talking to different people or doing different things. It is the equivalent of the Training Sequence for getting a character access to new knowledge or equipment.
 
-## Keeping Things Quiet
-_What happens in Vegas, Stays in Vegas.<br />
-Welcome to Compton. No Snitches._
 
-It is entirely reasonable that one might want to suppress information about something. Maybe pass around some hush money or threats, or simply hunt down the relevant information and delete it from archives. This makes things more difficult for people trying to find the information that you are trying to conceal - at least, it does if you do it right. The number of ways one could potentially go about suppressing things is innumerate, and from the standpoint of investigators it often doesn't _really_ matter that much. As soon as you mention _Mr. Jones_, the bar tender just clams up, and you don't really _care_ whether the head of the criminal organization threatened peoples' families or offered a standing bounty on "not snitching" or whatever.
-
-From a practical standpoint, suppressing information is a threshold 2 check. Net hits increase the threshold to find things out about the suppressed topic. What test is actually made to do that varies based on what is being suppressed and how one is going about doing it. Logic + Bureaucracy might be used to forge civic records, while Willpower + Expression might be used to propagandize people to not talk about something with outsiders. A character can even psyche themselves up to resist an interrogation, generally with a Willpower + Intimidate check.
-
-These sorts of things can backfire spectacularly. If the character fails to get 2 hits, their shortfall is actually applied as a _reduction_ in the threshold of future investigators. If you just yoink the tax records of the people you are trying to make vanish, it actually makes them stick out like a sore thumb because they have obvious shenanigans going on with their tax records.
 
 ## Asking Around: Montages
 _20 minutes later..._
