@@ -82,7 +82,7 @@ An exception to that generalization can be found in small family groups. Lycanth
 
 Lycanthropes take aggravated damage from silver weapons. Every type of Lycanthrope has a Lunar power source. Most Lycanthropes are dominated by Master Passion Rage, a fact that leads them to sometimes go berserk when the moon rises. Lycanthropes of all kinds are well advised to avoid fragile things and people.
 
-**[size=20]Werewolves[/size]**
+### Werewolves
 _The better to eat you with, my dear._
 
 Somewhere in the howling wilderness of Scandinavia a "wolf warrior" of the North became darkly fused with a wolf pelt he was wearing while fighting the Huns - an event which places the creation of the Werewolf at approximately 600 CE. Passed from warrior to enemy warrior and conquered victims, the curse spread throughout the lands of Europe and beyond along the warpaths of the Huns and later the Vikings. In later nights, it spread itself throughout the world on the backs of European conquistadors and imperial marines. By the twelve hundreds it had spread as far as Central Asia, and the Wolf Mother Asena led the Syndicate of the Bumin Horde of Ergenekon to rule much of Eurasia until her presumed death and the dissolution of the Syndicate in 1844.
@@ -92,29 +92,35 @@ Werewolves are instilled with a love of combat and destruction even in their hum
 Though they gain no magical power or sustenance from it, Werewolves are quite drawn to eating human flesh, and will often succumb to this temptation while in a frenzy. The curse of Lycanthropy comes with unusual and often unwanted hair growth on various parts of the body for Werewolves. In the era of waxing and depilatories, a Werewolf can keep this under control, but changing into the War Form causes hair to come back no matter what has been done. On the plus side: baldness is totally curable through infection with Lycanthropy.
 
 Werewolves have an Astral power source and a Lunar power schedule.
-[table][mrow]The First Werewolf?
-[row]The secret histories are fairly clear about the source of the canine form of Lycanthropy. There was a Norse warrior at the beginning of the 7th century who got cursed and every single Werewolf in the whole world traces their condition back to him. However, while this story is fairly well documented and has a lot of evidence behind it, there are still those who insist that there were earlier Werewolves or that canine Lycanthropy has occurred more than once. It is certainly true that the exact mechanics of the wolf pelt curse are unknown to modern sorcery, so it is within the realm of possibility that it could happen again. Or that it already has.[/table]
-[list]**Werewolf Starting Powers**
 
-- Core Discipline: Call of the Wild -
+#### The First Werewolf?
+
+The secret histories are fairly clear about the source of the canine form of Lycanthropy. There was a Norse warrior at the beginning of the 7th century who got cursed and every single Werewolf in the whole world traces their condition back to him. However, while this story is fairly well documented and has a lot of evidence behind it, there are still those who insist that there were earlier Werewolves or that canine Lycanthropy has occurred more than once. It is certainly true that the exact mechanics of the wolf pelt curse are unknown to modern sorcery, so it is within the realm of possibility that it could happen again. Or that it already has.
+
+#### Werewolf Starting Powers
+
+Core Discipline: Call of the Wild
+
 * Beast Form (Basic Call of the Wild)
 * Tongue of Beasts (Basic Call of the Wild)
 
-- Basic Powers -
+Basic Powers
+
 * Revive the Flesh (Basic Fortitude)
 * Vigor (Basic Clout)
 * Quickness (Basic Celerity)
 * Repel (Basic Magnetism)
 
--Advanced Powers -
+Advanced Powers
+
 * War Form (Celerity / Clout Devotion)
 * The Beckoning (Advanced Call of the Wild)
 
-**Distinctive Flaw:** Temperamental[/list]
+**Distinctive Flaw:** Temperamental
 **Story Inspiration:** Larry Talbot, Ginger Snaps, Dog Soldiers
 
-**[size=20]The Nezumi: Plague on the world of Men[/size]**
-"_Tear him up._"
+### The Nezumi: Plague on the world of Men
+_"Tear him up."_
 
 The most frequently told story of the origins of the plague of the Nezumi is that originally someone turned their back on the teachings of the Buddha and was cursed with reincarnating in a lower form during their own life. If even partially true, this would mean that the plague started no earlier than about 500 BCE. Once afflicted, a Nezumi Lycanthrope begins to twitch their nose like Elizabeth Montgomery and click their tongues nervously.
 
@@ -123,58 +129,68 @@ A Nezumi's animal form is that of a large rat. Nezumi are immune to the effects 
 Most Nezumi are mastered by the same all-consuming rage of the other Lycanthropes. However, they _don't_ normally possess any great strength, a fact which frequently causes them to become quite cowardly and fearful of authority. Many Nezumi become quite resigned from the world: hiding in sewers, jumping at sounds; knowing that the heat of battle runs in their veins and feeling dreadfully afraid that it will eventually drive them to a suicidal battle over nothing. Interacting with the world of men seems to be a never ending river of frustrations, and many choose to simply not do it. Those who master their rage usually do so only by trading it for Master Passion Fear.
 
 A Nezumi has an Infernal power source and a Lunar power schedule.
-[table][mrow]The First Nezumi?
-[row]Opinion is divided as to the historicity of the Buddha offending story in the secret histories. The oldest _living_ Nezumi is Hamamoto Yoshi, who was born in the 8th century CE in Nagaokyo, Japan and now lives in cryptic hermitude in Kyoto's sewers. Most Nezumi do in fact die of old age, and when Yoshi has deigned to answer such questions at all, he has denied being the first.[/table]
-[list]**Nezumi Starting Powers**
 
-- Core Discipline: Call of the Wild -
+#### The First Nezumi?
+
+Opinion is divided as to the historicity of the Buddha offending story in the secret histories. The oldest _living_ Nezumi is Hamamoto Yoshi, who was born in the 8th century CE in Nagaokyo, Japan and now lives in cryptic hermitude in Kyoto's sewers. Most Nezumi do in fact die of old age, and when Yoshi has deigned to answer such questions at all, he has denied being the first.[/table]
+
+#### Nezumi Starting Powers
+
+Core Discipline: Call of the Wild
+
 * Beast Form (Basic Call of the Wild)
 * Tongue of Beasts (Basic Call of the Wild)
 
-- Basic Powers -
+Basic Powers
+
 * Abyss of the Body (Basic Descent of Entropy)
 * Hide From Notice (Basic Veil)
 * Learn the Heart's Pain (Basic Names of the Blasphemies)
 * Revive the Flesh (Basic Fortitude)
 
--Advanced Powers -
+Advanced Powers
+
 * Hide in Plain Sight (Advanced Veil)
 * The Beckoning (Advanced Call of the Wild)
 
-**Distinctive Flaw:** Red Taped[/list]
+**Distinctive Flaw:** Red Taped
 **Story Inspiration:** Willard, Torment, Fruits Basket
 
-**[size=20]The Bagheera: The Lady or the Tiger**[/size]
-"_You can fool everybody, but landie. Dearie me, you can't fool a cat. They seem to know who's not right._"
+### The Bagheera: The Lady or the Tiger
+_"You can fool everybody, but landie, dearie me, you can't fool a cat. They seem to know who's not right."_
 
 The origins of the Bagheera are confused. The legends say that the Bagheera were formed when a Bengali priestess refused to abandon her gods and goddesses when the Mughals took control of the province and banned idolatry, calling upon Shiva for a mighty boon. And yet the legends _also_ say that the Bagheera were formed first by a jaguar warrior pledged to Huitzilopochtli fighting against Cortez, an event which would necessarily push the formation of the line over fifty years back. When consulted on the subject directly, the Stellar Oracles enigmatically state that both stories are true. Regardless, once infected a Bagheera is a creature of Death and finds that their mere presence alarms and angers animals of all types, especially cats.
 
 A Bagheera's War Form is that of a great and ghostly cat. Perhaps a tiger, jaguar, or leopard. Most Bagheera do not have the ability to transform into a remotely reasonably sized cat that can pass as something "not terrifying." It has been suggested that the beast inside a Bagheera isn't really an animal at all, since they seem to show less than no affinity for the mundane beasts they appear as - a marked departure from other Lycanthropes.
 
 A Bagheera has an Orphic power source and a Lunar power schedule.
-[table][mrow]The First Bagheera?
-[row]The origins of the Bagheera are clouded in mystery, but not in particularly _ancient_ mystery. Bagheera are not present in the secret histories before the 16th century, and they came on the scene quite rapidly with sightings all over the world in 1578 CE. Most stories appear to agree that the first Bagheera was female, but beyond that little is known for sure.[/table]
-[list]**Bagheera Starting Powers**
 
-- Core Discipline: Celerity -
+#### The First Bagheera?
+The origins of the Bagheera are clouded in mystery, but not in particularly _ancient_ mystery. Bagheera are not present in the secret histories before the 16th century, and they came on the scene quite rapidly with sightings all over the world in 1578 CE. Most stories appear to agree that the first Bagheera was female, but beyond that little is known for sure.
+
+#### Bagheera Starting Powers
+
+Core Discipline: Celerity
+
 * Quickness (Basic Celerity)
 * Nimble Feet (Basic Celerity)
 
-- Basic Powers -
+Basic Powers
+
 * Vigor (Basic Clout)
 * Hide From Notice (Basic Veil)
 * Touch of Darkness (Basic Lure of Destruction)
 * Revive the Flesh (Basic Fortitude)
 
--Advanced Powers -
+Advanced Powers
+
 * War Form (Celerity / Clout Devotion)
 * Alacrity (Advanced Celerity)
 
-**Distinctive Flaw:** Offensive to Animals[/list]
+**Distinctive Flaw:** Offensive to Animals
 **Story Inspiration:** Cat People, The Cat and the Canary, Geobreeders
 
-**[size=25]Vampirism**[/size]
-
+## Vampirism
 _Time is an abyss. Profound as a thousand nights... Centuries come and go... To be unable to grow old is terrible. Death is not the worst... There are things more horrible than death. Can you imagine... Enduring centuries... experiencing each day with the same futile things?_
 
 Vampirism is passed from one person to the next voluntarily on the part of the vampire passing on the trait. The vampire drinks the blood of the victim until it is gone and puts some of their own blood into the dying victim's mouth. Vampires drink the blood of the living in order to maintain their existence as the living dead night after night for as long as the Earth continues to turn.
@@ -185,8 +201,8 @@ All vampires drink blood to regain power points. And all vampires can at least p
 
 Vampires suffer aggravated damage from Wood, and most of them have Master Passion Hunger. Every subtype of Vampire has a Feeding Power Schedule. Vampires are created by another vampire draining the life out of a Luminary and then passing the corpse a power point with Gift of Health before the body has become cool. They can _attempt_ this process with Extras, but the result is always disappointment and the creation of a near mindless Vampire Spawn. A victim whose lifeblood is drained to the point of death and then allowed to cool _without_ being fed a power point is simply dead.
 
-[size=20]**The Nosferatu: Grotesques of the Imagination**[/size]
-_That fate which condemns me to wallow in blood has also denied me the joys of the flesh. This face - the infection which poisons our love. This face which earned a mother's fear and loathing, a mask: my first unfeeling scrap of clothing. Pity comes too late, turn around and face your fate, an eternity of _this_ before your eyes! _
+### The Nosferatu: Grotesques of the Imagination
+_That fate which condemns me to wallow in blood has also denied me the joys of the flesh. This face - the infection which poisons our love. This face which earned a mother's fear and loathing, a mask: my first unfeeling scrap of clothing. Pity comes too late, turn around and face your fate, an eternity of **this** before your eyes!_
 
 Nosferatu are social pariahs. Many of them look monstrous, animalistic, or deformed. While others look reasonably human, there is a certain otherworldly air about them which frightens small children. Any human who sees a Nosferatu's face will be instantly convinced that they are dealing with something monstrous. Young women will recoil, priests will present crosses, that kind of thing.
 
@@ -195,29 +211,34 @@ The Nosferatu are considered great information brokers by other supernaturals, a
 A Nosferatu's feeding maw is unique to themselves. One might protrude a mosquito's proboscis while another might extend a lamprey's wheel of teeth or a leech's beak. There is no guaranty that a newly created Nosferatu will have a method of feeding that is the same or in any way less disgusting than their sire's.
 
 A Nosferatu has an Astral power source and a Feeding power schedule.
-[table][mrow]The First Nosferatu?
-[row]The secret histories abound with unidentified bogie men and monsters of the night. Nosferatu are only first called out as such in the 6th century with Krampus the Child Eater of what is now Northern Austria. With their natural abilities to hide from notice and their proclivities for avoiding social situations, it is generally unknown how long Nosferatu have skulked in the night.[/table]
-[list]**Nosferatu Starting Powers**
 
-- Core Discipline: Fortitude -
+#### The First Nosferatu?
+The secret histories abound with unidentified bogie men and monsters of the night. Nosferatu are only first called out as such in the 6th century with Krampus the Child Eater of what is now Northern Austria. With their natural abilities to hide from notice and their proclivities for avoiding social situations, it is generally unknown how long Nosferatu have skulked in the night.
+
+#### Nosferatu Starting Powers
+
+Core Discipline: Fortitude
+
 * Patience of the Mountains (Basic Fortitude)
 * Revive the Flesh (Basic Fortitude)
 
-- Basic Powers -
+Basic Powers
+
 * Vigor (Basic Clout)
 * Tongue of Beasts (Basic Call of the Wild)
 * Gift of Health (Basic Path of Blood)
 * Hide From Notice (Basic Veil)
 
--Advanced Powers -
+Advanced Powers
+
 * Restoration (Advanced Fortitude)
 * Hide in Plain Sight (Advanced Veil)
 
-**Distinctive Flaw:** Eerie Presence[/list]
+**Distinctive Flaw:** Eerie Presence
 **Story Inspiration:** Shadow of the Vampire, Nosferatu, Buffy the Vampire Slayer
 
-**[size=20]The Strigoi: Serpents of Death[/size]**
-"_A weapon you don't have in your hand will not kill a snake._"
+### The Strigoi: Serpents of Death
+_"A weapon you don't have in your hand will not kill a snake."_
 
 Elegant and sophisticated or possibly simply old fashioned and resistant to change, the Strigoi are the aristocratic vampire of legend. The Strigoi have a long tradition of being in control in Eastern Europe. Traditionally, the Strigoi only transform people who are already rich, powerful, or socially connected. The transformation preserves the Strigoi's physical bodies against the ravages of sickness, hunger, and time and even enhances their physical power. But immortality and power do not come without cost, for the Strigoi must feed on the living. Strigoi regain power by drinking the blood of humans, and if they don't consume blood on a regular basis they are driven mad with hunger and pain.
 
@@ -226,30 +247,37 @@ While they present themselves as genteel, the Strigoi are serpents. Not just in 
 The Strigoi and Nosferatu have a checkered history, with the Strigoi usually holding the upper hand. Strigoi lands were usually farther to the South into what is now the Balkans, but in those areas where both existed the Strigoi recruited from the top of society and the Nosferatu from the bottom. These social class differences persisted in the night as they did in the day.
 
 A Strigoi has an Orphic power source and a Feeding power schedule.
-[table][mrow]The First Strigoi?
-[row]By far the most famous Strigoi was (is?) Dracula. He is actually rather hated by most Strigoi because his obsessive grandstanding over the years is basically a giant thumb in the eye of the Vow of Silence. He's been killed repeatedly, but various fanatics keep figuring out ways to bring him back from the dead. Which being a Strigoi mostly involves finding some significant portion of his corpse and pouring a bunch of fresh human blood on it.
-But Strigoi were running around being aristocratic blood drinkers for over two thousand years before Dracula was a major player in the Makhzen-Covenant wars of the 15th century. The first Strigoi in the secret histories is Zalmoxis, who was a god king of the Dacians in the 12th century BCE. He enslaved other supernatural creatures and taught humans about Orphic magic. The secret histories are a little unclear on what exactly he did, because shortly after he was defeated the Tradition of Misdirection was created to prevent as much actionable sorcerous knowledge from falling into the hands of mortal humans as Zalmoxis had allowed.[/table]
-[list]**Strigoi Starting Powers**
 
-- Core Discipline: Fortitude -
+#### The First Strigoi?
+
+By far the most famous Strigoi was (is?) Dracula. He is actually rather hated by most Strigoi because his obsessive grandstanding over the years is basically a giant thumb in the eye of the Vow of Silence. He's been killed repeatedly, but various fanatics keep figuring out ways to bring him back from the dead. Which being a Strigoi mostly involves finding some significant portion of his corpse and pouring a bunch of fresh human blood on it.
+
+But Strigoi were running around being aristocratic blood drinkers for over two thousand years before Dracula was a major player in the Makhzen-Covenant wars of the 15th century. The first Strigoi in the secret histories is Zalmoxis, who was a god king of the Dacians in the 12th century BCE. He enslaved other supernatural creatures and taught humans about Orphic magic. The secret histories are a little unclear on what exactly he did, because shortly after he was defeated the Tradition of Misdirection was created to prevent as much actionable sorcerous knowledge from falling into the hands of mortal humans as Zalmoxis had allowed.
+
+#### Strigoi Starting Powers
+
+Core Discipline: Fortitude
+
 * Patience of the Mountains (Basic Fortitude)
 * Revive the Flesh (Basic Fortitude)
 
-- Basic Powers -
+Basic Powers
+
 * Vigor (Basic Clout)
 * Bite of the Serpent (Basic Lure of Destruction)
 * Gift of Health (Basic Path of Blood)
 * Mesmerism (Basic Authority)
 
--Advanced Powers -
+Advanced Powers
+
 * Restoration (Advanced Fortitude)
 * Indomitability (Advanced Fortitude)
 
-**Distinctive Flaw:** Compulsive Behavior[/list]
+**Distinctive Flaw:** Compulsive Behavior
 **Story Inspiration:** Lair of the White Worm, Dracula, Ultraviolet
 
-**[size=20]The Daeva[/size]**
-"_It turns out that humans _in general_ are a superstitious and cowardly lot. How marvelous._"
+### The Daeva
+_"It turns out that humans **in general** are a superstitious and cowardly lot. How marvelous."_
 
 So thoroughly has the American vampire integrated itself into vampire lore that it is difficult for us to remember that before contact was established between the New World and the Old, that the bat vampire was a being only of the Americas (as indeed, Vampire Bats themselves are a New World creature). The Daeva were called Onaqui and Tlahuelpuchi by the Nahuatl speakers of Central America, but seemingly before 1492 not a single one of them set foot in Africa or Eurasia. And yet, in the most recent centuries they have spread throughout the world, and transformed Luminaries of every skin tone into more of themselves.
 
@@ -258,31 +286,36 @@ Daeva are vampires with an affinity for bats and fire. While the European name f
 The eldest of the Daeva represented much of the power behind The False Face when it considered itself a Syndicate, before the war with the Covenant. Tonight, Daeva are members of every Syndicate. Looking at the demographics of Daeva tonight, it would never occur to an observer that just five hundred years ago every Daeva on the planet was Native American.
 
 A Daeva has an Infernal power source and a Feeding power schedule.
-[table][mrow]The First Daeva?
-[row]The word "Daeva" is actually from South Asia, where it originally referred to those Asura who were not part of any infernal kingdoms. The term was applied to American Vampires by European conquistadors who at the time were still hoping against reason that Aztlan was a kingdom in Indochina. The first Daeva _called_ Daeva were thus the cannibalistic overlords of the Arawak people at the end of the 15th century CE.
-The mythical origins of the False Face and the bloodline of the Daeva were written in an Incan book called [u]Inti Jiwana[/u], which means "The Panther That Swallows The Sun". This "book" was actually a series of strings upon which multiple knots were made that imparted information digitally - like a stack of punch cards. As far as anyone knows, the last copy of [u]Inti Jiwana[/u] was burned by zealous and uncomprehending Spaniards. And it is also far from certain that anyone remains who knows how to read it anyway.[/table]
-[list]**Daeva Starting Powers**
 
-- Core Discipline: Fortitude -
+#### The First Daeva?
+The word "Daeva" is actually from South Asia, where it originally referred to those Asura who were not part of any infernal kingdoms. The term was applied to American Vampires by European conquistadors who at the time were still hoping against reason that Aztlan was a kingdom in Indochina. The first Daeva _called_ Daeva were thus the cannibalistic overlords of the Arawak people at the end of the 15th century CE.
+
+The mythical origins of the False Face and the bloodline of the Daeva were written in an Incan book called _Inti Jiwana_, which means "The Panther That Swallows The Sun". This "book" was actually a series of strings upon which multiple knots were made that imparted information digitally - like a stack of punch cards. As far as anyone knows, the last copy of _Inti Jiwana_ was burned by zealous and uncomprehending Spaniards. And it is also far from certain that anyone remains who knows how to read it anyway.
+
+#### Daeva Starting Powers
+
+Core Discipline: Fortitude
+
 * Patience of the Mountains (Basic Fortitude)
 * Revive the Flesh (Basic Fortitude)
 
-- Basic Powers -
+Basic Powers
+
 * Vigor (Basic Clout)
 * Fire Walking (Basic Walk of Flame)
 * Gift of Health (Basic Path of Blood)
 * Attract (Basic Magnetism)
 
--Advanced Powers -
+Advanced Powers
+
 * Restoration (Advanced Fortitude)
 * Flight (Clout / Magnetism Devotion)
 
-**Distinctive Flaw:** Blatantly Magical[/list]
+**Distinctive Flaw:** Blatantly Magical
 **Story Inspiration:** Lost Boys, Dark Stalkers, Underworld
 
-**[size=25]Witchcraft**[/size]
-
-"_It's not all hocus pocus and chicanery. There's also sleight of hand and deceit. And raw sorcerous power._"
+## Witchcraft
+_"It's not all hocus pocus and chicanery. There's also sleight of hand and deceit. And raw sorcerous power."_
 
 The core of sorcery in a horror setting is that it's a series of secrets that an individual learns that gives them great powers and is a really bad idea. When Extras attempt to learn Magic they don't turn into monsters or anything, they just end up as cultists. Think Cthulhu or Bible Black cultists. Better yet, don't. Extras who attempt to learn magic usually end up getting sacrificed one way or another, and it's really no better of a deal than being a Vampire Spawn. But for those lucky few who can master the dark arts without succumbing to the whispers or tentacles of demons, a lifetime of sorcerous power and intrigue awaits. 
 
@@ -290,8 +323,8 @@ Using magic is, for a mortal, a harrowing, draining, and indeed life and sanity 
 
 Witches are generally fairly vulnerable to normal physical attacks, but Silver actually causes them aggravated damage. Most Witches have Master Passion Greed. In After Sundown, men and women can both be "Witches", although some men prefer the epithet "Warlocks" and a considerable number prefer to call themselves by some more culturally specific term for a magician such as Houngan or Rishi.
 
-**[size=20]The Baali Tradition[/size]**
-"_You will not remember what I show you now, and yet I shall awaken memories of love... and crime... and death... _"
+### The Baali Tradition
+_"You will not remember what I show you now, and yet I shall awaken memories of love... and crime... and death..."_
 
 Perhaps the most expedient manner to make one's human soul stop reacting poorly to magic is to set it on fire and be done with it. A Baali is someone who did exactly that. Some sell their soul off to demons, while others burn out their souls quickly or slowly with their own dabbling in dark power.
 
@@ -300,87 +333,107 @@ Baali tend to be emotionally distant and enraged by pictures of themselves (such
 Baali refresh their powers by hurting people. This is functionally equivalent to vampiric blood drinking, but they don't specifically put any blood into their mouths. They still have to spend the same amount of time absorbing the proceeds of their wickedness. The actual distance they can be from the victim is about 1 meter per Potency each round after the wound is inflicted to draw a power point from the fresh injury.
 
 The Baali Witch has an Infernal power source and a Feeding power schedule.
-[table][mrow]The First Baali?
-[row]The word "Baali" is an old Mesopotamian word meaning someone worthy of respect or allegiance. It has been handed around the Middle East and North Africa for millennia, and even such famous figures as Hanni_bal_ have reference to precisely that in their names. But the title used to mean someone who used Sorcery. That changed with the reforms of Hammurabi in the 18th century BCE, where people who had no magic at all could be known as a Baal. The first person in the secret histories who used Infernal magic to burn out their soul to keep the use of magic from destroying them was Marduk. He slew Tiamat and began the Marduk Society in the 25th century BCE. It is interesting to note that in the nights since, the Marduk Society has moved to favoring Astral magic, and no longer has many Baali members.[/table]
-[list]**Baali Starting Powers**
- - Core Discipline: Authority -
+
+#### The First Baali?
+The word "Baali" is an old Mesopotamian word meaning someone worthy of respect or allegiance. It has been handed around the Middle East and North Africa for millennia, and even such famous figures as Hanni<i>bal</i> have reference to precisely that in their names. But the title used to mean someone who used Sorcery. That changed with the reforms of Hammurabi in the 18th century BCE, where people who had no magic at all could be known as a Baal. The first person in the secret histories who used Infernal magic to burn out their soul to keep the use of magic from destroying them was Marduk. He slew Tiamat and began the Marduk Society in the 25th century BCE. It is interesting to note that in the nights since, the Marduk Society has moved to favoring Astral magic, and no longer has many Baali members.
+
+#### Baali Starting Powers
+
+Core Discipline: Authority
+
 * Command (Basic Authority)
 * Mesmerism (Basic Authority)
 
-- Basic Powers -
+Basic Powers
+
 * Aura Perception (Basic Discernment)
 * Hand of Flame (Basic Walk of Flame)
 * Light of Ennui (Basic Descent of Entropy)
 * Learn the Heart's Pain (Basic Names of the Blasphemies)
 
-- Advanced Powers -
+Advanced Powers
+
 * Cloud Memory (Advanced Authority)
 * Fire Starter (Advanced Walk of Flame)
 
-**Distinctive Flaw:** Disloyal[/list]
+**Distinctive Flaw:** Disloyal
 **Story Inspiration:** The 1932 Mummy, Constantine, Bible Black, Devil's Advocate, Faust
 
-**[size=20]The Dryad Tradition[/size]**
-"_You seek for knowledge and wisdom, as I once did; and I ardently hope that the gratification of your wishes may not be a serpent to sting you, as mine has been._"
+### The Dryad Tradition
+_"You seek for knowledge and wisdom, as I once did; and I ardently hope that the gratification of your wishes may not be a serpent to sting you, as mine has been."_
 
 You know who doesn't have emotionally crippling experiences when exposed to the horrors of true magic? Plants. A person who replaces their heart with a seed can channel magic through themselves like water goes through roots. Sometimes this is a deliberate process, and other times it is the providence of an evil seed taking control of someone in their sleep. Regardless, once a person's blood runs with sap they are forever more a witch.
 
 Dryads do not remember their dreams, even when woken in the middle of them. Their sweat smells like flowering trees. And they become plantish in their demeanor. Regaining their power requires that they put parts of their body into the ground and water themselves. When they draw their hands or feet out of the soil, there will momentarily be white  rootlets that are rapidly drawn back into their pores with a sickening hiss.
 
 A Dryad has an Astral power source and a Ritual power schedule.
-[table][mrow]The First Dryad?
-[row]The Dryadic tradition of magic was probably codified in Greece, around the 3rd century BCE. Like the Maenads of the same period, Dryads were a conscious attempt by Greeks to emulate Egyptian cultic practices of the time. However, unlike the Chain of Coronis it is no longer part of the historical record what exactly they were emulating. In the early nights, Dryads were defined and divided by the type of seed used to anchor their heart. If an apple seed was used, the Witch was an Epimeliad; if a laurel seed was used, the Witch was an Oread; and so on. During the early centuries of the Common Era, Dryads were almost exterminated in Europe, but the tradition was picked up upon elsewhere in the world.
-These new Dryads used different seeds based on what was available in their climate, and the old clan distinctions are no longer used.[/table]
-[list]**Dryad Starting Powers**
- - Core Discipline: Coil of Thorns -
+
+#### The First Dryad?
+
+The Dryadic tradition of magic was probably codified in Greece, around the 3rd century BCE. Like the Maenads of the same period, Dryads were a conscious attempt by Greeks to emulate Egyptian cultic practices of the time. However, unlike the Chain of Coronis it is no longer part of the historical record what exactly they were emulating. In the early nights, Dryads were defined and divided by the type of seed used to anchor their heart. If an apple seed was used, the Witch was an Epimeliad; if a laurel seed was used, the Witch was an Oread; and so on. During the early centuries of the Common Era, Dryads were almost exterminated in Europe, but the tradition was picked up upon elsewhere in the world.
+
+These new Dryads used different seeds based on what was available in their climate, and the old clan distinctions are no longer used.
+
+#### Dryad Starting Powers
+
+Core Discipline: Coil of Thorns
+
 * Bitter Fruit (Basic Coil of Thorns)
 * Grass Rope (Basic Coil of Thorns)
 
-- Basic Powers -
+Basic Powers
+
 * Aura Perception (Basic Discernment)
 * Rising Mists (Basic Chasing the Storm)
 * Enchanted Slumber (Basic Veil of Morpheus)
 * Pain Drops (Basic Trail of Tears)
 
-- Advanced Powers -
+Advanced Powers
+
 * Puppetry (Advanced Coil of Thorns)
 * Telepathy (Advanced Discernment)
 
-**Distinctive Flaw:** Aimless[/list]
+**Distinctive Flaw:** Aimless
 **Story Inspiration:** The Craft, Kotetsu, Poison Ivy
 
-**[size=20]The Khaibit Tradition[/size]**
-"_There are far worse things awaiting man than death._"
+## The Khaibit Tradition
+_"There are far worse things awaiting man than death."_
 
 Fear of darkness and death leads men to do strange things. Perhaps the strangest of them is to murder one's self and then use sorcery or advanced medical techniques to make one's foray into the land of the dead a temporary one. This does not inherently prevent a person from dying in the future, indeed quite the opposite. Many who gain the intimate secrets of death in this manner are chased by the shadow of doom for the remainder of their existence.
 
 The Khaibit gain venomous saliva, a fact that they cannot choose to turn off under any circumstances. However, each Khaibit's kiss is dangerous in a different manner. The player of a Khaibit may choose their venom of choice.
 
 The Ritual to regain power requires _either_ a bunch of medical equipment _or_ a bunch of corpse pieces, depending upon whether they originally killed themselves with scientific equipment or ancient rituals. That declaration needs to be made right at the beginning of character creation. However, while the more mystical types need to have a skull to "Alas Poor Yorick" with, it doesn't need to be especially fresh and they don't need to have chopped it off themselves. Either way, Khaibit are incredibly bad tenants, as some sort of horrible luck rubs off onto any place they stay for long. Appliances break down, walls cave in, windows break. Many Khaibit become paranoid about these effects, and come to believe that a mysterious force is hunting them to take them back to The Gloom. They might even be right.
-[table][mrow]The First Khaibit?
-[row]Khaibit Sorcery is available throughout the night all over the world. But the earliest recorded books of power written for the subject were in Egypt around 1550 BCE. The "Book of the Dead" was itself based on earlier sorcerous investigations, but Khaibit Witches date back in a currently recognizable form to the beginnings of the Middle Kingdom in Egypt.[/table]
-The Khaibit Witch has an Orphic power source and a Ritual power schedule.
-[list]**Khaibit Starting Powers**
 
-- Core Discipline: Necromancy -
+The Khaibit Witch has an Orphic power source and a Ritual power schedule.
+
+#### The First Khaibit?
+
+Khaibit Sorcery is available throughout the night all over the world. But the earliest recorded books of power written for the subject were in Egypt around 1550 BCE. The "Book of the Dead" was itself based on earlier sorcerous investigations, but Khaibit Witches date back in a currently recognizable form to the beginnings of the Middle Kingdom in Egypt.
+
+#### Khaibit Starting Powers
+
+Core Discipline: Necromancy
+
 * Summon Spirit (Basic Necromancy)
 * Compel Spirits (Basic Necromancy)
 
-- Basic Powers -
+Basic Powers
+
 * Aura Perception (Basic Discernment)
 * Eyes of the Night (Basic Play of Shadows)
 * Bite of the Serpent (Basic Lure of Destruction)
 * Thaumaturgical Forensics (Basic Path of Blood)
 
--Advanced Powers -
+Advanced Powers
+
 * Solid Darkness (Advanced Play of Shadows)
 * Reanimate (Advanced Necromancy)
 
-**Distinctive Flaw:** Haunted[/list]
+**Distinctive Flaw:** Haunted
 **Story Inspiration:** Reanimator, Flatliners, Jason and the Argonauts
 
-**[size=25]Animates: Last of their Kind**[/size]
-
+## Animates: Last of their Kind
 _Once upon a time, there was... 'A king!' my little readers will say right away. No, children, you are wrong. Once upon a time there was a piece of wood..._
 
 Animates are different from the other types of supernaturals because they are not born as a human only to later achieve supernatural powers, but are instead created fully formed and fully grown with their powers already intrinsic to them. An Animate awakens for the first time already an outcast, already both more and less than a human. Animates are almost always rejected by humanity because regardless of how much they try, they are _not_ humans. Every Animate is not only the first of its kind, it is also the _last_ of its kind, every Animate creation event is unique and Animates tragically find that even other created life is intrinsically _distinct_ from them, different from humanity in ways which likewise reveal a difference that is just as unbridgeable.
@@ -389,10 +442,12 @@ Animates are capable of being Extras and Luminaries just as normal humans are. I
 
 All Animates use a Ritual Power Schedule. Their false life leaves them vulnerable to things that were once alive. Though they never were born and never died, they still suffer aggravated damage from wooden weapons as if they were undead. In most cases, Animates are dominated by Master Passion: Loneliness, a condition not unrelated to the fact that each Animate is literally without peers. They have more difficulty making emotional connections then virtually any other creature, and pine for the loss.
 
-[table][mrow]Special Note on Terminology:[row] It is important to note that Frankenstein is the name of the creator, and not the name of the creature. The creature's name was Adam. Similarly, in technical Greek an Android refers only to a _male_ human analog, while a female human analog would be called a _Gynoid_ (seriously). However it is also important to note that most of the people you talk to about this issue don't know this and don't care. Like Jello, Frankenstein is a brand name of such overwhelming market dominance that the stitched corpse creations of other mad scientists are _called_ Frankensteins (rather than calling them gelatin desserts or reanimated homunculi or whatever). Similarly, if you use the word Gynoid in every day conversation people will assume you are talking about some sort of sexually transmitted condition. Honestly, it is better that common terminology is used rather than historically correct terminology in this instance.[/table]
+#### Special Note on Terminology
 
-**[size=20]Frankensteins: The Creature[/size]**
-"_My heart was fashioned to be susceptible of love and sympathy, and when wrenched by misery to vice and hatred, it did not endure the violence of the change without torture such as you cannot even imagine._"
+It is important to note that Frankenstein is the name of the creator, and not the name of the creature. The creature's name was Adam. Similarly, in technical Greek an Android refers only to a _male_ human analog, while a female human analog would be called a _Gynoid_ (seriously). However it is also important to note that most of the people you talk to about this issue don't know this and don't care. Like Jello, Frankenstein is a brand name of such overwhelming market dominance that the stitched corpse creations of other mad scientists are _called_ Frankensteins (rather than calling them gelatin desserts or reanimated homunculi or whatever). Similarly, if you use the word Gynoid in every day conversation people will assume you are talking about some sort of sexually transmitted condition. Honestly, it is better that common terminology is used rather than historically correct terminology in this instance.
+
+### Frankensteins: The Creature
+_"My heart was fashioned to be susceptible of love and sympathy, and when wrenched by misery to vice and hatred, it did not endure the violence of the change without torture such as you cannot even imagine."_
 
 Frankensteins are crafted to be literally new living things. They are essentially people, albeit designed rather than evolved. Unfortunately, the creators of these new creatures almost never take to their assumed role as parent, because the Frankenstein is never truly a baby and never truly a human. Propelled into existence with a grown human's size and facilities, they nonetheless suffer from having missed the opportunities to be juvenile. Like a man who has been inducted as a child soldier or a woman married at first blood, a Frankenstein's life will always have deeply painful emotional issues. They will always be childlike in some aspects of their existence, even if they live to be hundreds of years old.
 
@@ -401,29 +456,33 @@ Each Frankenstein is created out of human flesh in some way. Sometimes it is as 
 Like all Animates, Frankensteins need power. For most Frankensteins, this is _electrical_ power, though there are examples that recharged by standing under waterfalls or exposing themselves to tidal forces. The days of making Pinocchios that have to be tossed into the sea or Osirians who need to camp in rivers to recharge are largely over, and almost all Frankensteins made in the last hundred and fifty years operate on the more exciting and portable system of electricity.
 
 A Frankenstein has an Orphic power source and a Ritual power schedule.
-[list]**Frankenstein Starting Powers**
 
-- Core Discipline: Celerity -
+#### Frankenstein Starting Powers
+
+Core Discipline: Celerity
+
 * Nimble Feet (Basic Celerity)
 * Quickness (Basic Celerity)
 
-- Basic Powers -
+Basic Powers
+
 * Vigor (Basic Clout)
 * Repel (Basic Magnetism)
 * Patience of the Mountains (Basic Fortitude)
 * Supernatural Senses (Basic Discernment)
 
--Advanced Powers -
+Advanced Powers
+
 * Devastation (Advanced Clout)
 * Quicken Sight (Advanced Celerity)
 
-**Distinctive Flaw:** Conspicuous Consumption[/list]
+**Distinctive Flaw:** Conspicuous Consumption
 **Story Inspiration:** Frankenstein, Pinocchio, Edward Scissorhands, Subject Two, Herbert West: Reanimator
 
-**[size=20]Golems: The Servitor[/size]**
-"_Did I request thee, Maker from my clay 
-To mould Me man? Did I solicit thee
-From darkness to promote me?_"
+### Golems: The Servitor
+_"Did I request thee, Maker from my clay<br />
+To mould Me man? Did I solicit thee<br />
+From darkness to promote me?"_
 
 Created strong of body and unending in endurance, the Golem is made to do tasks that humans don't want to. Often these jobs are demeaning or dangerous, and it is no surprise that Golems rarely want to do the things that are asked of them. Golems appear crude and ogrish, having been initially created for physical functionality rather than social niceties. Generally a Golem is as capable of making human emotional connections and decisions as anyone, but their distinctly non-human, even non-_living_ appearance makes that difficult. 
 
@@ -432,56 +491,63 @@ Crafted as a servile, almost machine-like creature, Golems fade into the backgro
 The Golem is powered by the meaning of the words, and they recharge themselves by repeating and emphasizing them over and over again like Tibetan monks. It is not unusual to find a Golem recharging itself by writing and rewriting phrases on a chalk board like Bart Simpson or intoning a mystic song again and again.
 
 A Golem has an Astral power source and a Ritual power schedule.
-[list]**Golem Starting Powers**
 
-- Core Discipline: Veil -
+#### Golem Starting Powers
+
+Core Discipline: Veil
+
 * Hide From Notice (Basic Veil)
 * Mask of a Thousand Faces (Basic Veil)
 
-- Basic Powers -
+Basic Powers
+
 * Fire Walking (Basic Walk of Flame)
 * Vigor (Basic Clout)
 * Patience of the Mountains (Basic Fortitude)
 * Summon Spirit (Basic Necromancy)
 
--Advanced Powers -
+Advanced Powers
+
 * Devastation (Advanced Clout)
 * Lost and Found (Advanced Veil)
 
-**Distinctive Flaw:** Either Anachronism _or_ Naive[/list]
+**Distinctive Flaw:** Either Anachronism _or_ Naive
 **Story Inspiration:** Rabbi Loew, R.U.R., Short Circuit, Talos
 
-**[size=20]Androids: The Lover[/size]**
-"_How fully functional are you?_"
+### Androids: The Lover
+_"How fully functional are you?"_
 
 Androids are made of hard and constructed material rather than the softness of flesh, and they are coldly perfect to behold. Whether man or woman, an android is beautiful beyond what normal humans are capable of. Unfortunately, the metallic perfection of their exterior belies a digital corsity that makes interpersonal relationships unsatisfactory. The emotions of an Android, though strongly felt, are simply too extreme and simple for others to relate to. The love of an Android is as off-putting as the hatred to a normal, nuanced individual. Androids do not, on initial inspection look anything other than human. However there is something distinctly "not right" about them which will creep out any normal human who interacts with them socially for long. They are beyond autistic, their emotions are simply ones and zeros.
 
 Androids can be made of circuitry, gears, or simply polished marble. The key is that at the end of the procedure they are crafted to look more human than a human could possibly be. The insides of an Android actually matter a fair amount for purposes of what they do to recharge themselves. An Android filled with gears needs to patiently wind themselves up (conservation of energy be damned), while an Android made of circuits and wires needs to plug themselves into a wall. Whichever it is, an Android recharging breaks the illusion of a perfect human, as the act of opening themselves to work on their clearly inorganic insides pushes them into the uncanny valley until they close themselves up again.
 
 An Android has an Infernal power source and a Ritual power schedule.
-[list]**Android Starting Powers**
 
-- Core Discipline: Clout -
+#### Android Starting Powers
+
+Core Discipline: Clout
+
 * Vigor (Basic Clout)
 * Clinging (Basic Clout)
 
-- Basic Powers -
+Basic Powers
+
 * Light of Ennui (Basic Descent of Entropy)
 * Attract (Basic Magnetism)
 * Patience of the Mountains (Basic Fortitude)
 * Howling Winds (Basic Chasing the Storm)
 
--Advanced Powers -
+Advanced Powers
+
 * Devastation (Advanced Clout)
 * Contradiction (Advanced Descent of Entropy)
 
-**Distinctive Flaw:** Doomed Romance[/list]
+**Distinctive Flaw:** Doomed Romance
 **Story Inspiration:** Pygmalion, Metropolis, RUR, Weird Science, Ifurita, Do Androids Dream of Electric Sheep?
 
-**[size=25]The Remnants of the Leviathan**[/size]
-
-_Down and deep / dark and dank / below our feet / below they sank
-Under waves and / under ground / no light we have / no hope for sound
+## The Remnants of the Leviathan
+_Down and deep / dark and dank / below our feet / below they sank<br />
+Under waves and / under ground / no light we have / no hope for sound<br />
 Beneath us still / sea and mound / remember will / with silence found_
 
 Long ago, Tiamat was a great and powerful dragon who ruled over the lands and exercised her rights of ownership with great cruelty. She demanded sacrifices from the frightened people of the soil, and she bore many monsters to expand her kingdom. The oppression of Tiamat did not forever last, for eventually a great champion of the human people arose with powerful magic from the sky to battle her. For days they fought, and ultimately it was Marduk and not Tiamat who was victorious.
@@ -494,8 +560,8 @@ Those born to Leviathan broods who are not luminaries will (if they are lucky) n
 
 Leviathans suffer aggravated damage from Iron. Most Leviathans suffer under Master Passion Fear and it is not unusual at all for them to flee from the world and hide themselves deep in the wilderness in fortresses of their own making. Some of these are simply Geinian farmsteads, whose only "real" defense from the outside world is obscurity.
 
-**[size=20]The Deep Ones: Scions of Dagon[/size]**
-"_Those horrible eyes. Unblinking and inhuman, twas like looking at fish more than a man._"
+### The Deep Ones: Scions of Dagon
+_"Those horrible eyes. Unblinking and inhuman, twas like looking at fish more than a man."_
 
 According to legend, Dagon was spawned when Tiamat mated with the Tigris River. He was a powerful and fish-like creature, and his progeny all carry fish traits about their being. Hailing from the oceans, a Deep One gradually becomes scaled and gilled as he ages. His eyes flatten and rarely blink, and the lure of the sea becomes harder to ignore. There are few who can stomach long departures from the coast, for in their mind they can always listen for the strange whispered yet incessant call of the ocean.
 
@@ -504,57 +570,71 @@ Deep Ones can breathe water as easily as air (though they do not _need_ to breat
 Deep Ones are in many ways closer to Tiamat than other Leviathans, and the corruption she caused is manifest in the way they seem to affect the world. Ordinary people who spend long periods of time in the company of Deep Ones will find their sanity frayed at the edges like cloth stretched too tight. A Deep One gripped by Master Passion Fear spreads terror amongst the mortal Extras they converse with, whether they want to or not. Deep Ones dominated by other Master Passions spread different madness by mere presence.
 
 A Deep One has an Astral power source and a Lunar power schedule.
-[table][mrow]The First Deep One?
-[row]The secret histories record the first Deep One by name. He is Dagon, the first and largest of the Deep Ones. Accounts differ as to his appearance, but all attest to his great size and blue scales. While some historians doubt the veracity of the Dagon myth, the majority of those who study the Deep Ones regard it as true. The general opinion is that Dagon is still alive, lurking and dreaming deep beneath the waves. Sometimes one of the progeny will be contacted in their dreams by an Elder that claims to be Dagon, and the general opinion of Deep Ones is that those contacts are real. The requests that the putative Dagon makes are perplexing and do not seem to add up. Opinion is divided as to whether this entity is playing a far deeper game or is simply completely out of touch with reality.
-If the Dagon story is true, he would have been born somewhere between 3 and 5 _thousand_ years BCE. That would make him ancient beyond reckoning even by the standards of Elders.[/table][list]**Deep One Starting Powers**
 
-- Core Discipline: Discernment -
+#### The First Deep One?
+The secret histories record the first Deep One by name. He is Dagon, the first and largest of the Deep Ones. Accounts differ as to his appearance, but all attest to his great size and blue scales. While some historians doubt the veracity of the Dagon myth, the majority of those who study the Deep Ones regard it as true. The general opinion is that Dagon is still alive, lurking and dreaming deep beneath the waves. Sometimes one of the progeny will be contacted in their dreams by an Elder that claims to be Dagon, and the general opinion of Deep Ones is that those contacts are real. The requests that the putative Dagon makes are perplexing and do not seem to add up. Opinion is divided as to whether this entity is playing a far deeper game or is simply completely out of touch with reality.
+
+If the Dagon story is true, he would have been born somewhere between 3 and 5 _thousand_ years BCE. That would make him ancient beyond reckoning even by the standards of Elders.
+
+#### Deep One Starting Powers
+
+Core Discipline: Discernment
+
 * Aura Perception (Basic Discernment)
 * Supernatural Senses (Basic Discernment)
 
-- Basic Powers -
+Basic Powers
+
 * Dream Vision (Basic Veil of Morpheus)
 * Patience of the Mountains (Basic Fortitude)
 * Command (Basic Authority)
 * Rising Mists (Basic Chasing the Storm)
 
--Advanced Powers -
+Advanced Powers
+
 * Telepathy (Advanced Discernment)
 * Conditioning (Advanced Authority)
 
-**Distinctive Flaw:** Infectious Mood[/list]
+**Distinctive Flaw:** Infectious Mood
 **Story Inspiration:** The Shadow Over Innsmouth, The Creature From the Black Lagoon, Mermaid's Scar
 
-**[size=20]The Troglodytes: Progeny of Drakaina[/size]**
-"_Thousands of years we have toiled beneath the Earth. We will not stop just because shiftless Eloi tell us we must._"
+### The Troglodytes: Progeny of Drakaina
+_"Thousands of years we have toiled beneath the Earth. We will not stop just because shiftless Eloi tell us we must."_
 
 The ancient tablets speak of Drakaina, Tiamat's heir by the Euphrates. A terrible worm creature living deep in the soil, her descendants carry always her pallor and disdain for the sun. The eyes of a Troglodyte darken until they are naught but obsidian orbs in their pallid sockets. The fingernails of a Troglodyte grow rapidly and hard, and without constant hygiene they form into claws.
 
 Troglodytes see in darkness perfectly and can even read in the total absence of light. However, their blackened eyes are light sensitive, and bright flashes can easily blind a Troglodyte. The sharpened teeth of a Troglodyte seem destined to devour flesh, and indeed that is precisely how they gain Power Points. A Troglodyte needs to feed upon the flesh of sapient creatures (generally humans, but some Troglodytes say that Mirror Goblins are delicious), though these need not be particularly fresh. The corpse of a human has 15 power points in it, and when they have been consumed, the rest of the corpse is worthless (though possibly still delicious). Many Troglodytes dig up the interred dead for eating purposes, and this activity has earned them the nickname "ghouls".
 
 A Troglodyte has an Orphic power source and a Feeding power schedule.
-[table][mrow]The First Troglodyte?
-[row]The lineage of the Troglodytes goes back to the days of Babylon and likely before. The ancient worm-mother of the Troglodytes is likely a historical person, and some say that she yet lives. The secret histories claim that she burrowed deep beneath the surface world to found herself a new kingdom where the sun would never shine. This land beneath the land is not in contact with any surface dwellers - not even those Troglodytes who continue to see the stars.[/table][list]**Troglodyte Starting Powers**
 
-- Core Discipline: Discernment -
+#### The First Troglodyte?
+
+The lineage of the Troglodytes goes back to the days of Babylon and likely before. The ancient worm-mother of the Troglodytes is likely a historical person, and some say that she yet lives. The secret histories claim that she burrowed deep beneath the surface world to found herself a new kingdom where the sun would never shine. This land beneath the land is not in contact with any surface dwellers - not even those Troglodytes who continue to see the stars.
+
+#### Troglodyte Starting Powers
+
+Core Discipline: Discernment
+
 * Aura Perception (Basic Discernment)
 * Supernatural Senses (Basic Discernment)
 
-- Basic Powers -
+Basic Powers
+
 * Touch of Darkness (Basic Lure of Destruction)
 * Clinging (Basic Clout)
 * Patience of the Mountains (Basic Fortitude)
 * Hide From Notice (Basic Veil)
 
--Advanced Powers -
+Advanced Powers
+
 * Psychometry (Advanced Discernment)
 * Burrowing (Veil / Clout Devotion)
 
-**Distinctive Flaw:** Unattractive[/list]
+**Distinctive Flaw:** Unattractive
 **Story Inspiration:** Mole People, Morlocks, The Hills Have Eyes
 
-**[size=20]The Mi Go: The Larvae of Echidna[/size]**
-"_There can never be good for the bee which is bad for the hive._"
+### The Mi Go: The Larvae of Echidna
+_"There can never be good for the bee which is bad for the hive."_
 
 "Tiamat begat Echidna by the Indus." That is the beginning of the story that the Mi Go tell of their existence. And it is there that the story becomes confused, because the Mi Go _do not know what they are_. This isn't some sort of regular existential angst caused by awakening to their supernatural nature, but a genuine question of philosophy and science. Each Mi Go is a telepathic symbiosis of human and insect, and it is entirely reasonable to question which (if either) is the actual person. Even the eldest and wisest of the Mi Go do not have incontrovertible evidence to determine whether they are a human that has insects growing within their body that they can control, or a colony of insects that lives within a man sized puppet host. Perhaps the truth is somewhere in between.
 
@@ -563,30 +643,34 @@ A Mi Go experiences their first years of life from the perspective of being a hu
 It is at this point that the Mi Go's powers truly become apparent, because during the metamorphosis, the young Mi Go feels not only their own flesh become torn asunder by uncounted scores of tiny mandibles, but also simultaneously see through the eyes of each of the hive's constituent members. From that moment on, "they" are able to see through the eyes of the bugs that grow within the human body _and_ from the eyes of the human body. They do not have a "feeling" of having their thoughts or point of view necessarily within their head, and many of them are convinced that they are solely the hive and have murdered and stolen the memories of the child that they walk around wearing the skin of. Getting insecticides onto a Mi Go has roughly the effects of mace - it's _incredibly_ painful and distracting. The poisoning of the bugs inside their flesh _feels_ like the entirety of their body is on fire.
 
 A Mi Go has an Infernal power source and a Lunar power schedule.
-[table][mrow]The First Mi Go?
-[row]The core question of identity is terribly important to many Mi Go, and finding the original being and asking it "Why" is one of the holy grails of Mi Go thought. According to the secret histories, Echidna flew into the Himalayan Mountains some four _thousand_ years ago and has not been seen or heard from since. Many believe that she (it?) died during that journey. But there are many Mi Go who would kill to see even a corpse representing what form represents their destiny.[/table]
-[list]**Mi Go Starting Powers**
 
-- Core Discipline: Swarm Song -
+#### The First Mi Go?
+The core question of identity is terribly important to many Mi Go, and finding the original being and asking it "Why" is one of the holy grails of Mi Go thought. According to the secret histories, Echidna flew into the Himalayan Mountains some four _thousand_ years ago and has not been seen or heard from since. Many believe that she (it?) died during that journey. But there are many Mi Go who would kill to see even a corpse representing what form represents their destiny.
+
+#### Mi Go Starting Powers
+
+Core Discipline: Swarm Song
+
 * Small Witness (Basic Swarm Song)
 * Body Colony (Basic Swarm Song)
 
-- Basic Powers -
+Basic Powers
+
 * Abyss of the Body (Basic Descent of Entropy)
 * Patience of the Mountains (Basic Fortitude)
 * Attract (Basic Magnetism)
 * Supernatural Senses (Basic Discernment)
 
--Advanced Powers -
+Advanced Powers
+
 * Telepathy (Advanced Discernment)
 * Magnify the Swarm (Advanced Swarm Song)
 
-**Distinctive Flaw:** Flake[/list]
+**Distinctive Flaw:** Flake
 **Story Inspiration:** Vampire Hunter D, Wrath of Khan, Starship Troopers, Whisperer in Darkness
 
-**[size=25]Transhumans: Point of No Return**[/size]
-
-"_Think before you decide, I tell you! Do you want to be left as you are, or do you want your eyes and your soul to be blasted by a sight that would stagger the devil himself?_"
+## Transhumans: Point of No Return
+_"Think before you decide, I tell you! Do you want to be left as you are, or do you want your eyes and your soul to be blasted by a sight that would stagger the devil himself?"_
 
 Knowledge and power do not come without a price, especially in the realm of horror. When one steps upon the path to power it is not long before the realization strikes that the person on that path is not the same person who took the first steps. Sometimes the point of no return is obvious and comes as a flash of insight. At other times it is only in retrospect and solemn reflection that one can see that there's little connection between the humanity of youth and the creature of the present. Transhumans do not have souls in the way that normal people do. 
 
@@ -594,8 +678,8 @@ Transhumans have the easiest time convincing themselves that they are still the 
 
 Transhumans suffer aggravated damage from Iron weapons, the very human achievement that propels them beyond their biological origins also turns on them with cruel finality. Most Transhumans are dominated by Master Passion Despair. 
 
-**[size=20]The Reborn: Second Chances and Second Guesses[/size]**
-"_Put your helmet on. I wouldn't want to scar your pretty face. Again._"
+### The Reborn: Second Chances and Second Guesses
+_"Put your helmet on. I wouldn't want to scar your pretty face. Again."_
 
 Reincarnation totally happens in After Sundown. Not to everyone, not even to most people. But to _some_ people. For whatever reason, _only_ Luminaries can access past lives, and even then past lives only become accessible when they are exposed to great stress in the presence of magic. Why this happens or what the consequences of this are is a matter of intense debate amongst the supernatural communities. It is possible that only Luminaries _have_ past lives, or even that Luminaries are Luminary _because_ they have lived before.
 
@@ -604,29 +688,35 @@ How many lives a particular Reborn remembers is quite variable. Sometimes it is 
 There are prophetic maps available that plot the likely eruptions of new Reborn, and there are more than a few supernatural creatures and organizations of supernatural creatures that take an active interest in such matters. The Makhzen and Marduk Society traditionally find the Reborn to be natural members and go to great lengths to recruit them. Reborn are interesting in that they can be successfully identified with prophetic writings and comparisons to ancient statues and paintings long before they actually develop any powers.
 
 A Reborn has an Orphic power source and a Lunar power schedule.
-[table][mrow]The First Reborn?
-[row]It is apparently true that no Reborn is ever born (much less awakened) during the lifetime of one of their past lives. Furthermore, all past lives are truly _in the past_, and there are no future incarnations remembered by any Reborn. So it stands to reason that at the earliest, the first Reborn had to have been born a couple generations after the first human. The earliest Reborn who is specifically listed in the secret histories is Krishna: a mighty Tamil warrior who lived around 670 BCE and who had at least one previous life as a sage.[/table]
-[list]**Reborn Starting Powers**
 
-- Core Discipline: Celerity -
+#### The First Reborn?
+
+It is apparently true that no Reborn is ever born (much less awakened) during the lifetime of one of their past lives. Furthermore, all past lives are truly _in the past_, and there are no future incarnations remembered by any Reborn. So it stands to reason that at the earliest, the first Reborn had to have been born a couple generations after the first human. The earliest Reborn who is specifically listed in the secret histories is Krishna: a mighty Tamil warrior who lived around 670 BCE and who had at least one previous life as a sage.
+
+#### Reborn Starting Powers
+
+Core Discipline: Celerity
+
 * Quickness (Basic Celerity)
 * Nimble Feet (Basic Celerity)
 
-- Basic Powers -
+Basic Powers
+
 * Supernatural Senses (Basic Discernment)
 * Summon Spirit (Basic Necromancy)
 * Attract (Basic Magnetism)
 * Shadow Casting (Basic Play of Shadows)
 
--Advanced Powers -
+Advanced Powers
+
 * Shifting Sands (Celerity / Magnetism Devotion)
 * Psychometry (Advanced Discernment)
 
-**Distinctive Flaw:** Distinctive Appearance[/list]
+**Distinctive Flaw:** Distinctive Appearance
 **Story Inspiration:** She, The Mummy
 
-**[size=20]The Fallen: Rising from the Ashes[/size]**
-"_There is only one thing worse in the world than to be talked about. And that is to not be talked about._"
+### The Fallen: Rising from the Ashes
+_"There is only one thing worse in the world than to be talked about. And that is to not be talked about."_
 
 Those luminaries whose souls are scoured out to beyond the possibility of recognition by the harsh infernos of Limbo are left ageless shells, they are The Fallen. Sometimes a man can become so by coming into possession of some demonic trinket that slowly or calamitously steals away their existence. But more commonly this is the result of a child being stolen away into the Dark Reflection by mirror goblins to toil away in the edifices of the dark king. These changelings usually are worked to death, and never see home. But sometimes a luminary child will grow hard and strong, and bitter like long steeped tea. And they will someday find way to escape their soot covered prison and return triumphantly to their parents, to be clasped again by loving hands and to walk again amongst mothers and friends. But this is perhaps the cruelest aspect of fairy captivity, for the children so taken are not long sought after for powerful magics are wrought to remove the Fallen from the thoughts of those who care for them. It is an alienating experience for those lucky enough to escape servitude back to the mortal world - while the family they remember like as not still exists, it is rare indeed that this family has any familiarity with them in return.
 
@@ -635,28 +725,34 @@ The Fallen do not have magic power of their own, but their bodies have become at
 The very fact that a Fallen's magic powers do not come back without exposure to more of the evil magic that caused their condition in the first place has led some to speculate that if they were to simply avoid Infernal power long enough that they would regain their human lives. If anyone has succeeded in that, there are no reliable records of it. This is in a sense unsurprising, in that there are very few reliable records of Fallen. Not only are Fallen simply unmemorable to Extras, but even documents pertaining to them just "get lost". And it isn't merely that their rental contracts get accidentally thrown out, though that does happen. Fallen find copies of old yearbooks that simply don't contain any pictures of them.
 
 A Fallen has an Infernal power source and a Ritual power schedule.
-[table][mrow]The First Fallen?
-[row]The King with Three Shadows has only been kidnapping mortal children since "the project" began in the 6th century CE. While the Troll Kingdoms had human slaves a thousand years before that, that practice ended when they were banished to Limbo, and human slaves in the mortal world did not become Fallen. The earliest Fallen in the secret histories is a Central African Queen of the 3rd century BCE who went by "She Who Shall Not Be Named" - likely because the process of becoming Fallen had stripped her of her original name. Supposedly she had a sacred flame that granted immortality. What happened to the Queen, her kingdom, or the presumably Limbo-powered flame is a matter of speculation even amongst those who know the secret histories. The last contact with any of them came with a trading expedition from Egypt in 476 CE.[/table]
-[list]**Fallen Starting Powers**
 
-- Core Discipline: Magnetism -
+#### The First Fallen?
+
+The King with Three Shadows has only been kidnapping mortal children since "the project" began in the 6th century CE. While the Troll Kingdoms had human slaves a thousand years before that, that practice ended when they were banished to Limbo, and human slaves in the mortal world did not become Fallen. The earliest Fallen in the secret histories is a Central African Queen of the 3rd century BCE who went by "She Who Shall Not Be Named" - likely because the process of becoming Fallen had stripped her of her original name. Supposedly she had a sacred flame that granted immortality. What happened to the Queen, her kingdom, or the presumably Limbo-powered flame is a matter of speculation even amongst those who know the secret histories. The last contact with any of them came with a trading expedition from Egypt in 476 CE.
+
+#### Fallen Starting Powers
+
+Core Discipline: Magnetism
+
 * Attract (Basic Magnetism)
 * Repel (Basic Magnetism)
 
-- Basic Powers -
+Basic Powers
+
 * Deny the Gauntlet (Basic Progress of Glass)
 * Mask of a Thousand Faces (Basic Veil)
 * Patience of the Mountains (Basic Fortitude)
 * Learn the Heart's Pain (Basic Names of the Blasphemies)
 
--Advanced Powers -
+Advanced Powers
+
 * Dismissal (Advanced Magnetism)
 * Desire Reflection (Veil / Magnetism Devotion)
 
-**Distinctive Flaw:** Either Minor _or_ Feared By Children[/list]
+**Distinctive Flaw:** Either Minor _or_ Feared By Children
 **Story Inspiration:** Portrait of Dorian Gray, She, Rip Van Winkle
 
-**[size=20]The Icarids: Children of Daedalus[/size]**
+### The Icarids: Children of Daedalus
 "_There are things man was not meant to know. It is interesting that we repeatedly seek to know as much about these as possible._"
 
 Humanity’s greatest survival trait, indeed the one which has ensured our ascent to power, is a willingness and ability to improve upon our environment - the closest environment being our own flesh and bones. The desire to gain greater abilities overwhelms all else sometimes; even personal ethics, self-preservation, and basic sanity. Man is first and foremost a tool using creature, but when he treats himself as a tool, is he still a man?
@@ -666,37 +762,41 @@ The Icarids are born when a Luminary is subject to the (nominally successful) ex
 The drugs or procedures done to bring an Icarid to the point they now are aren't just unwise - they're _lethal_. If you did that to an Extra they'd just die. It is in no small part the strength of the Luminary's dreams that force them onward through certain death and into power and madness. The ritual to regain Power Points involves continuing to do more of the same to themselves. What's better than a lethal dose of mercury-based super serum? _More_ mercury-based super serum. It is not at all weird for an Icarid who has been at it for a while to bleed clear liquid, sand, or even tiny grubs.
 
 An Icarid has an Astral power source and a Ritual power schedule.
-[table][mrow]The First Icarid?
-[row]According to the secret histories, the first identified Icharids were the natural philosopher Daedalus and his son Icarus. They stumbled upon a humoral treatment based on goose bile and hot wax that would allow them to transcend human limitations in approximately 630 BCE. Icarus improved upon the treatment considerably and attained the aptitude of Flight. Icarus' experiments ended in tragedy when he flew over the ocean and a sudden rainstorm left him powerless. When he plunged into the sea, the pitiless waves crashed his nearly mortal body against the unforgiving cliffs until he was dead. In his grief, Daedalus named the process in honor of his son, but he still followed the Tradition of Misdirection, and reported the events somewhat differently to the humans of his time.[/table]
-[list]**Icarid Starting Powers**
 
-- Core Discipline: Veil -
+#### The First Icarid?
+According to the secret histories, the first identified Icharids were the natural philosopher Daedalus and his son Icarus. They stumbled upon a humoral treatment based on goose bile and hot wax that would allow them to transcend human limitations in approximately 630 BCE. Icarus improved upon the treatment considerably and attained the aptitude of Flight. Icarus' experiments ended in tragedy when he flew over the ocean and a sudden rainstorm left him powerless. When he plunged into the sea, the pitiless waves crashed his nearly mortal body against the unforgiving cliffs until he was dead. In his grief, Daedalus named the process in honor of his son, but he still followed the Tradition of Misdirection, and reported the events somewhat differently to the humans of his time.
+
+#### Icarid Starting Powers
+
+Core Discipline: Veil
+
 * Hide From Notice (Basic Veil)
 * Mask of a Thousand Faces (Basic Veil)
 
-- Basic Powers -
+Basic Powers
+
 * Supernatural Senses (Basic Discernment)
 * Curse of Failure (Basic Trail of Tears)
 * Clinging (Basic Clout)
 * Revive the Flesh (Basic Fortitude)
 
--Advanced Powers -
+Advanced Powers
+
 * Dark Night of the Soul (Advanced Trail of Tears)
 * Hide in Plain Sight (Advanced Veil)
 
-**Distinctive Flaw:** Prideful[/list]
+**Distinctive Flaw:** Prideful
 **Story Inspiration:** The Invisible Man, Dr. Jekyll and Mr. Hyde, Norman Osbourne, Karl Ruprecht Kroenen, Bane, Icarus
 
-**[size=25]Zombies**[/size]
-
-"_It is a truth universally acknowledged that a zombie in possession of brains must be in want of more brains._"
+## Zombies
+_"It is a truth universally acknowledged that a zombie in possession of brains must be in want of more brains."_
 
 Zombies are physical bodies without the benefit of life or human spirit who nonetheless move about and hunger for the brains of the living. They are not respected members of the supernatural community, but are instead treated as servitors and disposable soldiers by those with necromantic powers and a social problem by most everyone else. Zombies are not traditionally considered playable, but are instead most likely to appear as tools or independent menaces in an After Sundown campaign.
 
 All Zombies, regardless of strength have an Orphic power source. When an extra becomes a Zombie, they become a Shambler or a Soulless depending upon the circumstances of their transformation. When a Luminary becomes a Zombie, they become a Revenant in all cases. Unlike many unplayable types, a Zombie _is_ made out of a human being and they _are_ templated onto a normal human statline.
 
-**[size=20]Shamblers**[/size]
-"_When the dead rise, civilization will fall._"
+### Shamblers
+_"When the dead rise, civilization will fall."_
 
 Shamblers are the classic "slow zombies" from zombie movies from the eighties. They hunger for brains, but they are basically walking corpses who shamble around - hence the name. Shamblers are _not_ individually particularly dangerous. But they _are_ implacable and they can come in fairly large numbers. Created by Orphic sorcery or by leakage of power from Mictlan, Shamblers will thoughtlessly move toward humans and attempt to eat their brains. The opening up of a major Well to Mictlan is often accompanied by the mass animation of large numbers of corpses as Shamblers, leading to potentially terrifying armies of the things even in the face of the relative incompetence of any solitary Shambler.
 
@@ -704,16 +804,20 @@ A Shambler has no Charisma or Logic score and automatically fails any test it wo
 
 Shamblers do not actually spread zombification, but they are often accompanied by evil magic that will reanimate all the corpses in the area, which will include their victims. The skin of a Shambler is quite resilient and hard, and their fists are Damage 1N weapons. Shamblers have no passions.
 
-A Shambler has an Orphic power source but no power schedule, Potency, or Power attribute.[list]**Shambler Starting Powers**
+A Shambler has an Orphic power source but no power schedule, Potency, or Power attribute.
 
-- Basic Powers -
+#### Shambler Starting Powers
+
+Basic Powers
+
 * Patience of the Mountains (Basic Fortitude)
 
--Advanced Powers -
-* Indomitability (Advanced Fortitude)[/list]
+Advanced Powers
 
-**[size=20]Soulless[/size]**
-"_If you look at the whole life of the planet, we... you know, man, has only been around for a few blinks of an eye. So if the infection wipes us all out, that is a return to normality._"
+* Indomitability (Advanced Fortitude)
+
+### Soulless
+_"If you look at the whole life of the planet, we... you know, man, has only been around for a few blinks of an eye. So if the infection wipes us all out, that is a return to normality."_
 
 The Soulless are the lately fashionable "fast zombies" of more modern cinema such as 28 Days Later and the Dawn of the Dead remake. Clearly distinct from Shamblers by their bright red eyes and relatively speedy disposition, the Soulless are neither plodding nor tireless. Possessed of more humanlike speeds and faculties, the Soulless are individually much more terrifying than a Shambler. But while they are rarely spawned in the tremendous numbers of Shamblers, the fact that they can and do spread their affliction readily to the living means that their numbers can easily grow out of control if not checked by heroic intervention.
 
@@ -721,40 +825,48 @@ A Soulless loses their Charisma but not their Logic. Their Strength is increased
 
 Soulless, like Shamblers, have no special power to transform others into Zombies of any kind, but are often carriers of the Rage Virus which does. If they are sterilized by any method, any victims they take down will stay inert. Every Soulless is dominated by Master Passion Rage and will fly into a Rage Frenzy with basically no provocation at all. Triggers include _seeing humans_.
 
-A Soulless has an Orphic power source and a Lunar power schedule.[list]**Soulless Starting Powers**
+A Soulless has an Orphic power source and a Lunar power schedule.
 
-- Basic Powers -
+#### Soulless Starting Powers
+
+Basic Powers
+
 * Vigor (Basic Clout)
 * Nimble Feet (Basic Celerity)
 * Bite of the Serpent (Basic Lure of Destruction)
-[/list]
 
-**[size=20]Revenants**[/size]
-"_The Living Dead and the dying living are all the same. Cut from the same cloth. But disposing of dead people is a public service, whereas you're in all sorts of trouble if you kill someone while they're still alive._"
 
-The Revenant is the talkative wight from virtually every piece of fiction where a Zombie is a major character. Whether the lovely and sensual She from [u]Cemetery Man[/u], the creepy Shelly Winters from [u]Scary Go Round[/u] or the villainous Dark Ash and Sheila from [u]Army of Darkness[/u], _every_ Luminary who becomes a Zombie by _whatever_ means becomes a Revenant. Revenancy is curable, as can be plainly seen from both [u]Scary Go Round[/u] and [u]Army of Darkness[/u], and it is the only form of Zombieness that is. A Revenant appears much as it did in life, save for pale white skin and darkness around the eyes. Basically they look like someone who is wearing heavy goth makeup, save that there is something _obviously_ unnatural about them that even the most casual observer can plainly see.
+### Revenants
+_"The Living Dead and the dying living are all the same. Cut from the same cloth. But disposing of dead people is a public service, whereas you're in all sorts of trouble if you kill someone while they're still alive."_
+
+The Revenant is the talkative wight from virtually every piece of fiction where a Zombie is a major character. Whether the lovely and sensual She from [Cemetery Man](http://www.imdb.com/title/tt0109592/), the creepy Shelly Winters from [Scary Go Round](http://www.scarygoround.com/sgr/ar.php?date=20020604) or the villainous Dark Ash and Sheila from [Army of Darkness](http://www.imdb.com/title/tt0106308/), _every_ Luminary who becomes a Zombie by _whatever_ means becomes a Revenant. Revenancy is curable, as can be plainly seen from both _Scary Go Round_ and _Army of Darkness_, and it is the only form of Zombieness that is. A Revenant appears much as it did in life, save for pale white skin and darkness around the eyes. Basically they look like someone who is wearing heavy goth makeup, save that there is something _obviously_ unnatural about them that even the most casual observer can plainly see.
 
 Revenants do not necessarily lose their reasoning faculties nor their personal moral compass. However, they _do_ hunger for the brains of the living, and are doomed to gradually weaken and lose power until they devour such. Eating the brain of a human refreshes their Power batteries, but they _don't_ have an unobtrusive or Vow of Silence upholding alternative at their disposal. Sooner or later, they _will_ be compelled to break open a human skull and feast on the morsels inside. It is for this reason that even the usually quite open minded supernatural societies generally want Revenants cured or destroyed - their mere presence endangers the kindred more than most Syndicates are willing to condone.
 
 A Revenant has their Strength, Intuition, and Willpower all increased by 1. Every Revenant is subject to Master Passion Hunger. Every Revenant carries the Z-Virus with their Abyss of the Body.
 
-A Revenant has an Orphic power source and a Feeding power schedule.[list]**Revenant Starting Powers**
+A Revenant has an Orphic power source and a Feeding power schedule.
 
-- Core Discipline: Fortitude -
+#### Revenant Starting Powers
+
+Core Discipline: Fortitude
+
 * Patience of the Mountains (Basic Fortitude)
 * Revive the Flesh (Basic Fortitude)
 
-- Basic Powers -
+Basic Powers
+
 * Compel Spirits (Basic Necromancy)
 * Nimble Feet (Basic Celerity)
 * Abyss of the Body (Basic Descent of Entropy)
 * Supernatural Senses (Basic Discernment)
 * Vigor (Basic Clout)
 
--Advanced Powers -
-* Indomitability (Advanced Fortitude)[/list]
+Advanced Powers
 
-**[size=25]The Fey**[/size]
+* Indomitability (Advanced Fortitude)
+
+## The Fey
 
 "_I'll not rest till I have me gold. Curse this well that me soul shall dwell, till I find me magic that breaks me spell._"
 
@@ -775,12 +887,12 @@ The best media to look through to get a handle on Mirror Goblins is The Maxx, as
 A Mirror Goblin was never human and has a nonstandard attribute array. While they are magical and can develop magical powers, they don't have a Potency rating. Their stats are:
 S: 1/4 A: 2/7 I: 1/6 L: 1/5 W: 1/4 C: 1/6
 
-A Mirror Goblin has an Infernal power source and a Ritual power schedule.[list]**Mirror Goblin Starting Powers**
+A Mirror Goblin has an Infernal power source and a Ritual power schedule.**Mirror Goblin Starting Powers**
 
 - Basic Powers -
 * Quickness (Basic Celerity)
 * Mask of a Thousand Faces (Basic Veil)
-[/list]
+
 
 **[size=20]Spriggans[/size]**
 "_Why there's nothing under this mask but a neck and some tendons!_"
@@ -792,7 +904,7 @@ When a Spriggan performs its power ritual, it covers itself in spoiled food and 
 A Spriggan was never human and has a nonstandard attribute array. Their stats are:
 S: 1/4 A: 1/6 I: 2/7 L: 1/5 W: 1/6 C: 1/6
 
-A Spriggan has an Infernal power source and a Ritual power schedule.[list]**Spriggan Starting Powers**
+A Spriggan has an Infernal power source and a Ritual power schedule.**Spriggan Starting Powers**
 
 - Basic Powers -
 * Clinging (Basic Clout)
@@ -802,7 +914,7 @@ A Spriggan has an Infernal power source and a Ritual power schedule.[list]**Spri
 -Advanced Powers -
 * Giant Size (Advanced Clout)
 * War Form (Celerity / Clout Devotion) 
-[/list]
+
 
 **[size=20]Trolls**[/size]
 "_Skin... Graaaaah.... Tasty.... _"
@@ -816,7 +928,7 @@ Trolls have a fairly multivarious appearance, varying from merely oversized huma
 Trolls have a nonstandard attribute array because they were never humans. Before their Potency modifier and their constant Giant Size, their attribute ranges are:
 S: 5/10 A: 1/5 I: 1/5 L: 1/3 W: 3/8 C: 1/6
 
-A Troll has an Infernal power source and a Continuous power schedule.[list]**Troll Starting Powers**
+A Troll has an Infernal power source and a Continuous power schedule.**Troll Starting Powers**
 
 - Core Discipline: Clout and Fortitude -
 * Vigor (Basic Clout)
@@ -831,7 +943,7 @@ A Troll has an Infernal power source and a Continuous power schedule.[list]**Tro
 -Advanced Powers -
 * Giant Size (Advanced Clout)
 * Devastation (Advanced Clout)
-* Restoration (Advanced Fortitude)[/list]
+* Restoration (Advanced Fortitude)
 **Story Inspiration:** Silent Hill, Billy Goats Gruff, Jack and the Giant
 
 **[size=25]Giant Animals**[/size]
@@ -851,14 +963,14 @@ Magically enhanced monstrous beasts prowl the wilds of the astral plane, and som
 
 A Behemoth's Giant Size is always on, and it is important to note that sometimes they are of a type of creature which is itself _normally_ 3.5 meters or more such as giant anacondas and the like. Giant Size in this case represents a proportional increase for such creatures, meaning a rough doubling in all dimensions and an increase in mass by approximately 10 times. A Behemoth was never human, but it is a real creature, and before considering its Giant Size and Potency, it uses the normal stats of an animal of its type.
 
-A Behemoth has an Astral power source and a Continuous power schedule.[list]**Behemoth Starting Powers**
+A Behemoth has an Astral power source and a Continuous power schedule.**Behemoth Starting Powers**
 
 - Basic Powers -
 * Touch of Darkness (Basic Lure of Destruction)
 * Vigor (Basic Clout)
 
 -Advanced Powers -
-* Giant Size (Advanced Clout)[/list]
+* Giant Size (Advanced Clout)
 **Story Inspiration:** Mighty Joe Young, Lake Placid, Boa vs. Python, Le Pacte de Loups, Them
 
 **[size=20]Swarms[/size]**
@@ -868,7 +980,7 @@ Whether it's the birds in [u]The Birds[/u] or a horde of rats in [u]Willard[/u],
 
 Unfortunately, Swarms have a tendency to respawn within a few days unless something drastic is done.
 
-A Swarm has an Astral power source and a Lunar power schedule.[list]**Swarm Starting Powers**
+A Swarm has an Astral power source and a Lunar power schedule.**Swarm Starting Powers**
 
 - Basic Powers -
 * Revive the Flesh (Basic Fortitude)
@@ -879,7 +991,7 @@ A Swarm has an Astral power source and a Lunar power schedule.[list]**Swarm Star
 -Advanced Powers -
 * Empty Body (Discernment / Fortitude Devotion)
 * Restoration (Advanced Fortitude)
-* The Beckoning (Advanced Call of the Wild)[/list]
+* The Beckoning (Advanced Call of the Wild)
 **Story Inspiration:** The Birds, The Swarm, Willard
 
 **[size=20]Chimera[/size]**
@@ -891,7 +1003,7 @@ A Chimera has the mind of an animal, and the physique of a horrible man-eating m
 S: 8 A: 3 I: 3 L: 1 W: 5 C: 1
 Skills: Artisan 1; Athletics 5; Combat 3; Perception 2; Rigging 3 (Water); Stealth 2; Survival 4
 
-A Chimera has an Astral power source and a Continuous power schedule.[list]**Chimera Starting Powers**
+A Chimera has an Astral power source and a Continuous power schedule.**Chimera Starting Powers**
 
 - Core Discipline: Trail of Tears -
 * Curse of Failure (Trail of Tears)
@@ -906,7 +1018,7 @@ A Chimera has an Astral power source and a Continuous power schedule.[list]**Chi
 -Advanced Powers -
 * Water Prison (Advanced Trail of Tears)
 * Aura of Decay (Advanced Descent of Entropy)
-* Hide in Plain Sight (Advanced Veil)[/list]
+* Hide in Plain Sight (Advanced Veil)
 **Story Inspiration:** Basilisk, Orangopoid, Xenomorph, Spidron
 
 **[size=20]Kaiju[/size]**
@@ -940,14 +1052,14 @@ Wisps are little shadows or colored glows that flit about and scarcely remember 
 
 Wisps primarily interact with an After Sundown chronicle by being utilized by necromancers as spies. Even without being compelled into service, Wisps are often quite willing to be helpful to physical beings that can interact with them. Wisps have a Strength score of 1, regardless of what they had in life.
 
-A Wisp has an Orphic power source and a Lunar power schedule.[list]**Wisp Starting Powers**
+A Wisp has an Orphic power source and a Lunar power schedule.**Wisp Starting Powers**
 
 - Basic Powers -
 * Aura Perception (Basic Discernment)
 * Patience of the Mountains (Basic Fortitude)
 
 -Advanced Powers -
-* Empty Body (Discernment / Fortitude Devotion)[/list]
+* Empty Body (Discernment / Fortitude Devotion)
 **Story Inspiration:** All the spooky background ghostly stuff in movies like Sleepy Hollow.
 
 **[size=20]Wraiths[/size]**
@@ -959,7 +1071,7 @@ Like all Ghosts, a Wraith is only corporeal while within the Gloom, and can only
 
 Some Luminary Wraiths come into being with a lot of extra disciplines, putting them on close to the same footing as a normal player character. Some people might even be tempted to run Wraith chronicles, but that's really very difficult role playing.
 
-A Wraith has an Orphic power source and a Ritual power schedule.[list]**Wraith Starting Powers**
+A Wraith has an Orphic power source and a Ritual power schedule.**Wraith Starting Powers**
 
 - Basic Powers -
 * Aura Perception (Basic Discernment)
@@ -967,7 +1079,7 @@ A Wraith has an Orphic power source and a Ritual power schedule.[list]**Wraith S
 * Vigor (Basic Clout)
 
 -Advanced Powers -
-* Empty Body (Discernment / Fortitude Devotion)[/list]
+* Empty Body (Discernment / Fortitude Devotion)
 **Story Inspiration:** Ghost, Stir of Echoes, Sixth Sense, most ghost stories honestly.
 
 **[size=20]Poltergeists[/size]**
@@ -977,7 +1089,7 @@ Poltergeists are accumulations of untold numbers of wisps that have lost their i
 
 Like all Ghosts, a Poltergeist has an Empty Body unless they are in Mictlan. They also have a Charisma and Logic of zero. They have no specific limits for other attributes, larger storms have more Strength and more Willpower...
 
-A Poltergeist has an Orphic power source and a Lunar power schedule.[list]**Poltergeist Starting Powers**
+A Poltergeist has an Orphic power source and a Lunar power schedule.**Poltergeist Starting Powers**
 
 - Basic Powers -
 * Aura Perception (Basic Discernment)
@@ -987,7 +1099,7 @@ A Poltergeist has an Orphic power source and a Lunar power schedule.[list]**Polt
 -Advanced Powers -
 * Empty Body (Discernment / Fortitude Devotion)
 * Telekinesis (Discernment / Clout Devotion)
-* Devastation (Advanced Clout)[/list]
+* Devastation (Advanced Clout)
 **Story Inspiration:** Poltergeist, It
 
 **[size=25]Demons**[/size]
@@ -1006,7 +1118,7 @@ Akuma need to feed on sapients in order to restore their powers. Left on their o
 While it is _possible_ for an Akuma to gain power nonfatally from a victim, their love of livers and poor discipline ensure that this almost never happens. An Akuma cannot turn their Giant Size off. An Akuma's claws, horns, teeth, or whatever constitute a damage 3 weapon (including their monstrous size). Akuma have a nonstandard attribute array because they were never humans. Before their Potency modifier and their constant Giant Size, their attribute ranges are:
 S: 6/11 A: 1/5 I: 1/3 L: 1/3 W: 2/7 C: 1/4
 
-An Akuma has an Infernal power source and a Feeding power schedule.[list]**Akuma Starting Powers**
+An Akuma has an Infernal power source and a Feeding power schedule.**Akuma Starting Powers**
 
 - Core Discipline: Clout -
 * Vigor (Basic Clout)
@@ -1018,7 +1130,7 @@ An Akuma has an Infernal power source and a Feeding power schedule.[list]**Akuma
 
 -Advanced Powers -
 * Giant Size (Advanced Clout)
-* Devastation (Advanced Clout)[/list]
+* Devastation (Advanced Clout)
 **Story Inspiration:** Where the Wild Things Are, Legend, Urotsukidoji, Aka Oni
 
 **[size=20]Asura[/size]**
@@ -1034,7 +1146,7 @@ Asura easily insinuate themselves in leadership positions in the mortal world be
 
 Some Asura have enough extra disciplines to put them on a roughly equal footing with starting player characters of other supernatural types. While still being totally inhuman, Asura are _by far_ the most player-friendly of the extra-terrestrials. It is still rather difficult roleplaying, because they were never humans, have no aspirations to ever _be_ humans, and were at no points in their un-Earthly lives ever confused on any of those points. But still, with some work, it can be done.
 
-An Asura has an Infernal power source and a Ritual power schedule.[list]**Asura Starting Powers**
+An Asura has an Infernal power source and a Ritual power schedule.**Asura Starting Powers**
 
 - Core Discipline: Magnetism -
 * Attract (Basic Magnetism)
@@ -1048,7 +1160,7 @@ An Asura has an Infernal power source and a Ritual power schedule.[list]**Asura 
 - Advanced Powers -
 * Flight (Clout / Magnetism Devotion)
 * Dismissal (Advanced Magnetism)
-* Summons (Advanced Magnetism)[/list]
+* Summons (Advanced Magnetism)
 **Story Inspiration:** Succubus, Disgaea, Hell Bent
 
 **[size=20]Ifrit[/size]**
@@ -1060,7 +1172,7 @@ An Ifrit can look like anything and they do. But in their truest form they seem 
 
 In order to feed, an Ifrit must be within a meter of someone in wracking agony. They do not have to actually consume any blood or viscera and indeed they generally cannot because they are incorporeal anywhere but the Depths of Limbo. While Ifrit were probably never living mortals, their attributes are normal for their Potency.  It's not entirely clear if Ifrit ever _were_ anything before being magical beings, no one knows of any of them coming into being, and the lowest Potency of any Ifrit seems to be 4.
 
-An Ifrit has an Infernal power source and a Feeding power schedule.[list]**Ifrit Starting Powers**
+An Ifrit has an Infernal power source and a Feeding power schedule.**Ifrit Starting Powers**
 
 - Core Powers: Progress of Glass and Trail of Tears -
 * Distant Reflection (Basic Progress of Glass)
@@ -1085,7 +1197,7 @@ An Ifrit has an Infernal power source and a Feeding power schedule.[list]**Ifrit
 
 - Elder Powers -
 * The Smoking Mirror (Elder Progress of Glass)
-* Object of Envy (Elder Trail of Tears)[/list]
+* Object of Envy (Elder Trail of Tears)
 **Story Inspiration:** Wishmaster
 
 **[size=25]Evil Plants**[/size]
@@ -1104,7 +1216,7 @@ Mantraps can't readily transport themselves across the land, let alone the borde
 The huge woody maw of a Mantrap is a damage 3 weapon. Mantraps have a nonstandard attribute array because they were never humans. Before their Potency modifier their attribute ranges are:
 S: 3/8 A: 1/4 I: 1/6 L: 1/3 W: 2/7 C: 1/4
 
-A Mantrap has an Astral power source and a Feeding power schedule.[list]**Mantrap Starting Powers**
+A Mantrap has an Astral power source and a Feeding power schedule.**Mantrap Starting Powers**
 
 - Core Discipline: Clout -
 * Vigor (Basic Clout)
@@ -1113,7 +1225,7 @@ A Mantrap has an Astral power source and a Feeding power schedule.[list]**Mantra
 - Basic Powers -
 * Revive the Flesh (Basic Fortitude)
 * Hide From Notice (Basic Veil)
-[/list]
+
 
 **[size=20]Triffids[/size]**
 "_I dunno what the hell's in there, but it's weird and pissed off, whatever it is._"
@@ -1125,7 +1237,7 @@ A Triffid has a poison barb on the end of each meter long tendril that extends f
 The vicious barbed tendrils of a Triffid constitute a damage 3 weapon that can deliver the poison of the Triffid's "bite". Triffids have a nonstandard attribute array because they were never humans. Before their Potency modifier their attribute ranges are:
 S: 3/8 A: 1/4 I: 1/6 L: 1/3 W: 2/7 C: 1/4
 
-A Triffid has an Astral power source and a Lunar power schedule.[list]**Triffid Starting Powers**
+A Triffid has an Astral power source and a Lunar power schedule.**Triffid Starting Powers**
 
 - Core Discipline: Coil of Thorns -
 * Bitter Fruit (Basic Coil of Thorns)
@@ -1136,7 +1248,7 @@ A Triffid has an Astral power source and a Lunar power schedule.[list]**Triffid 
 * Revive the Flesh (Basic Fortitude)
 
 -Advanced Powers -
-* Puppetry (Advanced Coil of Thorns)[/list]
+* Puppetry (Advanced Coil of Thorns)
 **Story Inspiration:** The Thing, Night of the Triffids, Dryad, The Creeping Terror
 
 **[size=20]Pods[/size]**
@@ -1148,7 +1260,7 @@ The Pods are psychic hazards that take over people and use them to make more pod
 Each pod is roughly the size of a large watermelon and appears to be a massive green potato. Most pods have some milk white tendrils growing out of what is most probably the bottom. These look similar to the rootlets that grow out of a potato if you leave it in water for a long period of time. There are slight depressions all over the Pod that appear to be its "eyes" - they are able to see things through them and use Authority on victims who look at them. The tendrils of a Pod can only move by growing over the course of minutes and hours, so for any practical purposes they are essentially immobile. Pods have a nonstandard attribute array because they were never humans. Before their Potency modifier their attribute ranges are:
 S: 1/4 A: 0/0 I: 2/7 L: 2/7 W: 2/7 C: 1/6
 
-A Pod has an Astral power source and a Lunar power schedule.[list]**Pod Starting Powers**
+A Pod has an Astral power source and a Lunar power schedule.**Pod Starting Powers**
 
 - Core Discipline: Authority and Discernment -
 * Supernatural Senses (Basic Discernment)
@@ -1166,7 +1278,7 @@ A Pod has an Astral power source and a Lunar power schedule.[list]**Pod Starting
 * Mind Root (Advanced Coil of Thorns)
 
 -Elder Powers -
-* Possession (Elder Authority)[/list]
+* Possession (Elder Authority)
 **Story Inspiration:** Invasion of the Body Snatchers, Pod People
 
 **[size=25]Spawn Monsters**[/size]
