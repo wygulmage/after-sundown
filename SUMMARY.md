@@ -51,7 +51,7 @@
    * [Leviathans](monsters/leviathans.md)
    * [Transhumans](monsters/transhumans.md)
    * [Zombies](monsters/zombies.md)
-   * Fey
+   * [Fey](monsters/fey.md)
    * Giant Animals
    * Ghosts
    * Demons
