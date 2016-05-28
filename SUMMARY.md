@@ -42,7 +42,7 @@
    * [Wounds](danger/wounds.md)
    * Healing and Death
    * [Temporary Conditions](danger/temporary_conditions.md)
-   * Wind and Water
+   * [Wind and Water](danger/wind_and_water.md)
 * Monsters
 * Magic
 * Character Options and Motivation
