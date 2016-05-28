@@ -26,7 +26,7 @@ _This is going to hurt you more than me._
 
 The most common actions in combat are attacking and running away. After all, if _someone_ isn't doing one of those things, it can hardly even be considered a combat.
 
-An attack is usually resolved by spending a Simple Action to make the Attack. The character makes a test against the threshold. If the requisite number of hits are achieved, the attack hits and the target must soak the amount of damage that the attack inflicts. If the attacking character gets more hits than necessary, the net hits are added to the damage of the attack before the target gets to soak. In most cases, a character's dice pool will be their Strength + Combat when making a melee attack and Agility + Combat when making a ranged attack. In the cases when an attack is being made with some kind of sorcery, the dicepool may well be something else entirely and is described in the Power description.
+An attack is usually resolved by spending a Simple Action to make the Attack. The character makes a test against the threshold. If the requisite number of hits are achieved, the attack hits and the target must soak the amount of damage that the attack inflicts. If the attacking character gets more hits than necessary, the net hits are added to the damage of the attack before the target gets to soak. In most cases, a character's dice pool will be their Strength + Combat when making a melee attack and Agility + Combat when making a ranged attack. In the cases when an attack is being made with some kind of sorcery, the dicepool may well be something else entirely and is described in the power's description.
 
 When a character wants to attack something it is more difficult if the target is farther away. The _range_ between the target and the attacking character determines the base threshold. However, just because a character has the _accuracy_ to strike an opponent out to a specific range does not mean that their weapon is physically capable of reaching that far, or of reaching a target at that range with any accuracy. Most weapons have a maximum range beyond which they cannot be expected to work, and most weapons have a range beyond which they become inaccurate (given in parentheses). Melee attacks of course simply have an absolute limit of their reach. If you want them to go any farther than your arm will take them you have to throw them.
 
@@ -219,9 +219,22 @@ When a character has been _recently_ damaged, their ability to act is extremely 
 ## Weaponry and Hazards
 _"Holy crap, that looks dangerous."_
 
+### Weapon Traits
+
+#### Strength
+
+The strength rating listed with weapons is the strength needed to use the weapon effectively in two hands. If the character's actual Strength exceeds that, they may use it without difficulty in one hand, unless it is Large or Huge in which case their strength must exceed that by 2 in order to use it successfully in one hand. If the strength value of the weapon exceeds the character's Strength, the threshold to strike a target is increased by the difference, in addition to needing two hands.
+
+#### Size
+
+* **S**mall weapons can be concealed in a pocket
+* **M**edium weapons can be concealed under a coat
+* **L**arge weapons can be concealed in a car
+* **H**uge weapons do not really fit into cars
+
 ### Ranged Weapons
 
-Most ranged weapons do an amount of damage that is fixed regardless of how strong the user is. The strength listing on the ranged weaponry table indicates the strength required to use the weapon without penalty in two hands. If the character's actual Strength exceeds that, they may use it without difficulty in one hand, unless it is Large in which case their strength must exceed that by 2 in order to use it successfully in one hand. If the strength value of the weapon exceeds the character's Strength, the threshold to strike a target is increased by the difference, in addition to needing two hands.
+Most ranged weapons do an amount of damage that is fixed regardless of how strong the user is.
 
 | Weapon | Damage | Range | Strength | Size |
 |:-------|:------:|:-----:|:--------:|:----:|
@@ -245,13 +258,6 @@ Most ranged weapons do an amount of damage that is fixed regardless of how stron
 F: Weapon does fire damage.<br />
 N: Weapon does Normal Damage.<br />
 
-#### Size
-
-* **S**mall weapons can be concealed in a pocket
-* **M**edium weapons can be concealed under a coat
-* **L**arge weapons can be concealed in a car
-* **H**uge weapons do not really fit into cars
-
 #### Automatic Weapons
 
 A weapon firing on automatic throws out many bullets in a short period of time. This allows it to be used for suppressive fire, to be fired at multiple enemies who are close together, and makes it more likely to hit something. A weapon fired on automatic gains 3 dice on the attack roll, but the spread of bullets makes fine aiming more difficult - the increase in threshold for firing at enemies with cover is doubled (basic cover increases threshold by 2, heavy cover increases threshold by _4_). Also the character can't take the Aim action with an automatic weapon, but they can take the Spray-n-Pray action.
@@ -274,25 +280,24 @@ Weaponry enthusiasts will get mad at you for calling them "silencers" because th
 
 ### Melee Weapons
 
-Melee weaponry differs from ranged weaponry primarily in that it simply goes as far as it will reach and therefore doesn't have a "range" value on the table. Many melee weapons inherently do Normal rather than Lethal damage, and their damage values are followed by an "N." Unlike Ranged Weaponry, which is mostly designed for the purpose, a majority of things that people beat on each other with in hand to hand conflicts are actually improvised weapons - tools and household items that happen to be at hand when a fight breaks out. The rules for using melee weapons in one hand are the same as for ranged weapons: the character needs to have more Strength than the listed value to use it in one hand, and must exceed it by 2 if the weapon is Large. The threshold to strike a target is increased by the amount the weapon's listed Strength value exceeds the character's Strength if it does.
+Melee weaponry differs from ranged weaponry primarily in that it simply goes as far as it will reach and therefore doesn't have a "range" value on the table. Many melee weapons inherently do Normal rather than Lethal damage, and their damage values are followed by an "N". Unlike Ranged Weaponry, which is mostly designed for the purpose, a majority of things that people beat on each other with in hand to hand conflicts are actually improvised weapons - tools and household items that happen to be at hand when a fight breaks out.
 
-| **Weapon** | **Damage** | **Strength** | **size**
-| Fist | 0N | 0 | X
-| Bottle | 1N | 1 | S
-| Chair | 1N | 3 | L
-| Baseball Bat | 2N | 2 | M
-| Knife | 1 | 1 | S
-| Crowbar | 2 | 2 | M
-| Sword | 3 | 2 | M
-| Chainsaw | 3 | 4 | L
-| Axe | 3 | 3 | L
-| Hammer | 2 | 1 | S
-| Great Weapon | 4 | 4 | L
-| Sign Post | 4N | 5 | L
-| Fire Hydrant | 4 | 6 | L
-| Car | 6N | 10 | H
-| Lamp Post | 6N | 9 | H
-[/table]
+| Weapon | Damage | Strength | Size |
+| Fist | 0N | 0 | X |
+| Bottle | 1N | 1 | S |
+| Chair | 1N | 3 | L |
+| Baseball Bat | 2N | 2 | M |
+| Knife | 1 | 1 | S |
+| Crowbar | 2 | 2 | M |
+| Sword | 3 | 2 | M |
+| Chainsaw | 3 | 4 | L |
+| Axe | 3 | 3 | L |
+| Hammer | 2 | 1 | S |
+| Great Weapon | 4 | 4 | L |
+| Sign Post | 4N | 5 | L |
+| Fire Hydrant | 4 | 6 | L |
+| Car | 6N | 10 | H |
+| Lamp Post | 6N | 9 | H |
 
 ### Explosions
 _"Can we make an explosion explode?"_
