@@ -48,7 +48,7 @@
    * [Vampirism](monsters/vampirism.md)
    * [Witchcraft](monsters/witchcraft.md)
    * [Animates](monsters/animates.md)
-   * Leviathans
+   * [Leviathans](monsters/leviathans.md)
    * Transhumans
    * Zombies
    * Fey
