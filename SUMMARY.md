@@ -22,7 +22,7 @@
    * [Political Aspirations](monstrous_society/political_aspirations.md)
 * [Skills](skills.md)
    * [Physical Skills](skills/physical_skills.md)
-   * Social Skills
+   * [Social Skills](skills/social_skills.md)
    * Technical Skills
    * Specializations
    * Background Skills
