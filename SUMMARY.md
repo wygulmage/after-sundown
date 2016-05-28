@@ -32,7 +32,7 @@
    * [Keeping Things Quiet](getting_what_you_need/keeping_things_quiet.md)
    * [Asking Around: Montages](getting_what_you_need/asking_around_montages.md)
    * [Interviewing People](getting_what_you_need/interviewing_people.md)
-   * Persuasive Argumentation
+   * [Persuasive Argumentation](getting_what_you_need/persuasive_argumentation.md)
    * Arguments From Rhetoric
 * Danger
 * Monsters
