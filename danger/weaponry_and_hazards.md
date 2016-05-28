@@ -9,10 +9,10 @@ The strength rating listed with weapons is the strength needed to use the weapon
 
 #### Size
 
-* **S**mall weapons can be concealed in a pocket
-* **M**edium weapons can be concealed under a coat
-* **L**arge weapons can be concealed in a car
-* **H**uge weapons do not really fit into cars
+* Small weapons can be concealed in a pocket
+* Medium weapons can be concealed under a coat
+* Large weapons can be concealed in a car
+* Huge weapons do not really fit into cars
 
 ### Ranged Weapons
 
