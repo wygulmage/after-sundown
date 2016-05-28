@@ -25,7 +25,7 @@
    * [Social Skills](skills/social_skills.md)
    * [Technical Skills](skills/technical_skills.md)
    * [Specializations](skills/specializations.md)
-   * [Background Skills](skills/background_skills.md)
+   * [Background Skills](skills/backgrounds.md)
    * Using Skills
    * Using Attributes Without Skills
 * Getting What You Need
