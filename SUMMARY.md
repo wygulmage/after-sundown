@@ -28,7 +28,7 @@
    * [Backgrounds](skills/backgrounds.md)
    * [Using Skills](skills/using_skills.md)
    * [Using Attributes Without Skills](skills/using_attributes_without_skills.md)
-* Getting What You Need
+* [Getting What You Need](getting_what_you_need.md)
 * Danger
 * Monsters
 * Magic
