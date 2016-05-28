@@ -43,7 +43,7 @@
    * [Healing and Death](danger/healing_and_death.md)
    * [Temporary Conditions](danger/temporary_conditions.md)
    * [Wind and Water](danger/wind_and_water.md)
-* Monsters
+* [Monsters](monsters.md)
 * Magic
 * Character Options and Motivation
 * The World at Night
