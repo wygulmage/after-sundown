@@ -21,13 +21,13 @@
    * [Antagonistic Organizations](monstrous_society/antagonistic_organizations.md)
    * [Political Aspirations](monstrous_society/political_aspirations.md)
 * [Skills](skills.md)
-  * Physical Skills
-  * Social Skills
-  * Technical Skills
-  * Specializations
-  * Background Skills
-  * Using Skills
-  * Using Attributes Without Skills
+   * [Physical Skills](skills/physical_skills.md)
+   * Social Skills
+   * Technical Skills
+   * Specializations
+   * Background Skills
+   * Using Skills
+   * Using Attributes Without Skills
 * Getting What You Need
 * Danger
 * Monsters
