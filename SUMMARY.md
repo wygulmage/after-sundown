@@ -54,7 +54,7 @@
    * [Fey](monsters/fey.md)
    * [Giant Animals](monsters/giant_animals.md)
    * [Ghosts](monsters/ghosts.md)
-   * Demons
+   * [Demons](monsters/demons.md)
    * Evil Plants
    * Spawn Monsters
 * Magic
