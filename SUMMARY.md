@@ -60,7 +60,7 @@
 * [Magic](magic.md)
    * [Universal Disciplines](magic/universal_disciplines.md)
    * [Astral Disciplines](magic/astral_disciplines.md)
-   * Infernal Discplines
+   * [Infernal Discplines](magic/infernal_discplines.md)
    * Orphic Disciplines
    * Devotions
 * Character Options and Motivation
