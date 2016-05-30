@@ -1,5 +1,3 @@
-
-
 # Persona non Grata
 
 _Some things you're better off not knowing about. Some objects, too._
