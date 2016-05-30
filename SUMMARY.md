@@ -88,5 +88,4 @@
    * [Second Person](points_of_view/second_person.md)
    * [Third Person](points_of_view/third_person.md)
    * [The Fourth Wall](points_of_view/the_fourth_wall.md)
-   * Making a Character
 
