@@ -77,5 +77,11 @@
    * [Prague](the_world_at_night/prague.md)
    * [San Francisco](the_world_at_night/san_francisco.md)
 * [Persona non Grata](persona_non_grata.md)
+  * People
+  * Animals
+  * Places
+  * Things
+  * Standardizing Nonstandard Magic
+  * I Fought The Law
 * [Points of View](points_of_view.md)
 
