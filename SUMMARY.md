@@ -73,7 +73,7 @@
    * [Houston](the_world_at_night/houston.md)
    * [Kuala Lumpur](the_world_at_night/kuala_lumpur.md)
    * [New York](the_world_at_night/new_york.md)
-   * Paris
+   * [Paris](the_world_at_night/paris.md)
    * Prague
    * San Francisco
 * [Persona non Grata](persona_non_grata.md)
