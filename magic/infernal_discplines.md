@@ -41,11 +41,11 @@ There are words that should not be spoken. Mostly, these are the names of ancien
 
 | Hits | Knowledge Gained |
 |:----:|:-----------------|
-| **1** | The target's Master Passion, if any (humans usually have no Master Passion) |
-| **2** | The target's Driving Passion |
-| **3** | General details of the target (such as career and name) |
-| **4** | Specific details of the target's hopes and dreams |
-| **5** | Intimate details of the target's life that the target barely even cares about. |
+| 1 | The target's Master Passion, if any (humans usually have no Master Passion) |
+| 2 | The target's Driving Passion |
+| 3 | General details of the target (such as career and name) |
+| 4 | Specific details of the target's hopes and dreams |
+| 5 | Intimate details of the target's life that the target barely even cares about. |
 
 * **Poison Heart** The character fills the target's heart with a litany of lies. By spending a Complex action, the character makes an opposed Charisma + Empathy or Intuition + Larceny test against the target's Willpower and if successful causes the target to feel intense feelings of betrayal and disappointment. If the character knows the target's Master Passion, they can incite a Frenzy. If the character knows the target's Driving Passion, they can make them bitterly sullen and full of the feelings of failure (suffering a morale penalty to skill tests until the end of the scene). And if the names of any of the target's friends and loved ones are known, the target can be made to distrust them. Strength of any frenzies, depressions, or misgivings are the number of net hits. This ability is covert.
 
@@ -71,14 +71,17 @@ The Progress of Glass is a path of Infernal sorcery that deeply investigates the
 * **Rain of Glass** Shards of blackened, jagged glass rain down and tear the flesh from the bones of everyone in the area. A Rain of Glass can be sent out as a cone up to 30 meters in length per Potency, or fly out in all directions to cover a cylinder centered on the character with a radius of 10 meters per Potency. Using this ability costs a power point and takes a Complex Action. It does a base damage of 3, which is increased with the hits on either an Agility + Combat or Logic + Operations check and the damage is resisted like a normal explosion (including the additional protective effects of cover).
 
 #### Elder Powers
-* **Doppelgänger** A reflection is given life and given the task of supplanting the original person. The character makes a Logic + Expression or Intuition + Perception check, spends a Complex Action and seven power points and then the Doppelgänger takes form by spending a Complex Action crawling out of the mirrored surface upon which the reflection was cast. It then sets about attempting to murder the original and then take over their life. The Doppelgänger is wicked and generally under the command of the character's. When a victim has a Doppelgänger created of them, neither they nor the duplicate cast a reflection until one of them is dead. The double has the base attributes of the target, and the degree of mimicry is set by the number of hits:
-[table][row]**Hits** [col] Effects
-[row]**1** [col] Extra, no supernatural powers, memories, or even coherent speech.
-[row]**2** [col] Can speak like the victim.
-[row]**3** [col] Has an Edge stat if the victim does.
-[row]**4** [col] Has the memories of the target.
-[row]**5** [col] Is a starting supernatural of the type of the victim if the victim is supernatural.
-[row]**6** [col] Has a Potency of the victim or the character (whichever is less), has disciplines that the target has.[/table]The Doppelgänger can be suppressed or dispelled before it successfully crawls out of the mirror, but once it does so it is a "real" person (albeit one having no reflection), and cannot be dispelled with sand. Its presence still offends clear water as Infernal sorcery is want to do, but even that effect fades if the Doppelgänger succeeds in slaying its original and gains a reflection of its own.
+* **Doppelgänger** A reflection is given life and given the task of supplanting the original person. The character makes a Logic + Expression or Intuition + Perception check, spends a Complex Action and seven power points and then the Doppelgänger takes form by spending a Complex Action crawling out of the mirrored surface upon which the reflection was cast. It then sets about attempting to murder the original and then take over their life. The Doppelgänger is wicked and generally under the command of the character's. When a victim has a Doppelgänger created of them, neither they nor the duplicate cast a reflection until one of them is dead. The double has the base attributes of the target, and the degree of mimicry is set by the number of hits. The Doppelgänger can be suppressed or dispelled before it successfully crawls out of the mirror, but once it does so it is a "real" person (albeit one having no reflection), and cannot be dispelled with sand. Its presence still offends clear water as Infernal sorcery is want to do, but even that effect fades if the Doppelgänger succeeds in slaying its original and gains a reflection of its own.
+
+| Hits | Effects |
+|:----:|:--------|
+| 1 | Extra, no supernatural powers, memories, or even coherent speech. |
+| 2 | Can speak like the victim. |
+| 3 | Has an Edge stat if the victim does. |
+| 4 | Has the memories of the target. |
+| 5 | Is a starting supernatural of the type of the victim if the victim is supernatural. |
+| 6 | Has a Potency of the victim or the character (whichever is less), has disciplines that the target has. |
+
 * **The Smoking Mirror** The character controls the vertical and the horizontal. The character spends a Complex Action and three power points so they can determine what is seen and heard for the rest of the scene. The area covered is limited to Line of Sight, and extends out to 30 meters per point of Potency. The character makes a Stealth + Intuition or Logic + Operations check and observers can only see through the illusion if they get an equal number of hits on an Intuition + Perception test.
 
 
