@@ -57,7 +57,7 @@
    * [Demons](monsters/demons.md)
    * [Evil Plants](monsters/evil_plants.md)
    * [Spawn Monsters](monsters/spawn_monsters.md)
-* Magic
+* [Magic](magic.md)
 * Character Options and Motivation
 * The World at Night
 * Persona non Grata
