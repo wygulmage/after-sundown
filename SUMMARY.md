@@ -67,7 +67,7 @@
    * Resources and Obligations
    * Motivations & Passions
    * [Advantages and Disadvantages](character_options_and_motivations/advantages_and_disadvantages.md)
-   * Character Advancement
+   * [Character Advancement](character_options_and_motivations/character_advancement.md)
 * [The World at Night](the_world_at_night.md)
 * [Persona non Grata](persona_non_grata.md)
 * [Points of View](points_of_view.md)
