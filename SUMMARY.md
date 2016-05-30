@@ -64,6 +64,11 @@
    * [Orphic Disciplines](magic/orphic_disciplines.md)
    * [Devotions](magic/devotions.md)
 * [Character Options and Motivation](character_options_and_motivation.md)
+  * Resources and Obligations
+  * Motivations & Passions
+  * Advantages and Disadvantages
+  * Character Advancement
+
 * [The World at Night](the_world_at_night.md)
 * [Persona non Grata](persona_non_grata.md)
 * [Points of View](points_of_view.md)
