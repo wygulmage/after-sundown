@@ -77,7 +77,7 @@
    * [Prague](the_world_at_night/prague.md)
    * [San Francisco](the_world_at_night/san_francisco.md)
 * [Persona non Grata](persona_non_grata.md)
-   * People
+   * [People](persona_non_grata/people.md)
    * [Animals](persona_non_grata/animals.md)
    * [Places](persona_non_grata/places.md)
    * [Things](persona_non_grata/things.md)
