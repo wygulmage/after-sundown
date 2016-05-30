@@ -78,7 +78,7 @@
    * [San Francisco](the_world_at_night/san_francisco.md)
 * [Persona non Grata](persona_non_grata.md)
    * People
-   * Animals
+   * [Animals](persona_non_grata/animals.md)
    * [Places](persona_non_grata/places.md)
    * [Things](persona_non_grata/things.md)
    * [Standardizing Nonstandard Magic](persona_non_grata/standardizing_nonstandard_magic.md)
