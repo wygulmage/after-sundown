@@ -71,7 +71,7 @@
 * [The World at Night](the_world_at_night.md)
    * [Mexico City](the_world_at_night/mexico_city.md)
    * [Houston](the_world_at_night/houston.md)
-   * Kuala Lumpur
+   * [Kuala Lumpur](the_world_at_night/kuala_lumpur.md)
    * New York
    * Paris
    * Prague
