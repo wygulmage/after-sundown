@@ -75,7 +75,7 @@
    * [New York](the_world_at_night/new_york.md)
    * [Paris](the_world_at_night/paris.md)
    * [Prague](the_world_at_night/prague.md)
-   * San Francisco
+   * [San Francisco](the_world_at_night/san_francisco.md)
 * [Persona non Grata](persona_non_grata.md)
 * [Points of View](points_of_view.md)
 
