@@ -60,6 +60,7 @@ Necromancy is the incredibly creepy sorcerous path of handling the dead. Necroma
 **Nightcry** The character screams a wail of pain and despair into the deepest portions of Mictlan, and draws a Poltergeist to their position. This requires four power points and a Complex Action. By making a Willpower + Empathy or Logic + Bureaucracy test against the Poltergeist's Willpower, the character can compel it to begin its rain of destruction upon a target of their choice. What else the Poltergeist does from being in the material world is totally up to it.
 
 **Reanimate** The character makes a body into a Shambler or Soulless. A Shambler comes into existence under the control of the necromancer, and a Soulless does not. If the body was once a Luminary, their spirit is drawn back into their body and they become a(n uncontrolled) Revenant. A necromancer can only maintain control of 2 Shamblers per point of Willpower they have. If they make more Shamblers than that, they lose control of some of their Shamblers at random at some inconvenient time in the next day or so. Reanimating the dead is hard (Threshold 3), costs a power point per corpse, and has an expected time of 1 Day (net hits reduce the time normally). It is a Logic + Medicine or Logic + Operations check. Remember that Shamblers don't have the capacity to follow complex orders. Reanimate can only be dispelled before the Zombie has actually risen. After that, the Zombie will have to be dealt with normally.
+
 #### Elder Powers
 
 **Resurrection** The character can return life to someone who is dead. In order to work, the character must have access to the target's ghost and an "appropriate" body. The target's own body is appropriate, as is any other body of the same sex and build. Resurrecting the dead is hard (Threshold 3), and requires a Logic + Medicine or Willpower + Empathy check with an expected time of 1 day (net hits reduce the time normally). Resurrection costs seven power points. Resurrecting a Revenant restores them to humanity.
@@ -67,7 +68,7 @@ Necromancy is the incredibly creepy sorcerous path of handling the dead. Necroma
 **Zombie Mastery** The character has no particular limit for how many Shamblers they can create and retain control of with Reanimate (if they have that ability). In addition, the character can take control of Zombies of any type (Shamblers, Soulless, or even Revenants). This takes a Complex Action and costs a power point. The character makes a Logic + Operations or Willpower + Tactics test and takes command of a number of Zombies equal to the hits. Revenants are allowed to resist with Willpower. Commanded Zombies reel and cease brain eating while shuffling about as if struck until given orders.
 
 ### Play of Shadows
-"_Spooky. Seriously._"
+_"Spooky. Seriously."_
 
 Play of Shadows is a sorcerous discipline that governs and depends upon shadows. Darkness is in no short supply in something called "After Sundown" and areas with no light at all can be thought of as being like some singular giant shadow. Even extremely bright lights cause objects to cast shadows that are really quite noticeable. As such, in a general sort of way, the fact that Play of Shadows requires shadows to function is pretty much a formality. However, if characters are in the process of sky diving or are in the areas of exceptional _ambient_ light, the powers of Play of Shadows can seriously be neutralized. Having Play of Shadows makes a character sneakier and spookier, giving them a +1 bonus to Stealth and Intimidate. This bonus increases to +2 with Advanced, and +3 with Elder Play of Shadows.
 
@@ -76,11 +77,13 @@ Play of Shadows is a sorcerous discipline that governs and depends upon shadows.
 **Eyes of the Night** The character can see and hear out of distant shadows. The character can see in darkness at any time (unlike Supernatural Senses, this use does not render the character susceptible to glare), and by spending a power point they can draw their senses from a pool of darkness  that is within 100 meters per Potency. The character makes an Intuition + Empathy or Intuition + Perception check, with a threshold based on how accurately they can describe the shadow they wish to peer out of. Eyes of the Night are covert.
 
 **Shadow Casting** The character's lighting appears to have been done by professional special effects technicians. They can manipulate shadows and to a lesser extent light as well. This gives a +2 bonus to any attempt to become the center of attention or to escape unnoticed. This bonus increases to +4 with Advanced Play of Shadows and +6 with Elder Play of Shadows. The Shadow Casting can be dispelled as a spell with 3 hits.
+
 #### Advanced Powers
 
 **Cloak of Shadow** The character can wrap light around themselves completely, becoming completely transparent along with everything they are carrying. The character still casts a normal shadow and cannot alter their own shadow while the cloak is in place. Invoking the Cloak of Shadow takes a Complex Action and a Power Point, and requires an Intuition + Empathy or Intuition + Stealth check. The cloak lasts 5 minutes, and net hits increase the timeframe. The cloak works on anything that uses light - including cameras - but has no effect on sounds or smells. The character can dismiss their own Cloak of Shadow at any time as a Simple Action.
 
 **Solid Darkness** The character can spend a power point to fashion steel hard tendrils of solid shadow and use them to grasp, carry and tear. The darkness can extend out to a meter per Potency from its source Shadow, and has Strength equal to the Character's Intuition. The source shadow must be within line of sight of the character and the origin of the shadows can move along continuously shadowed paths at the rate of a careful walk. Solid Darkness is completely silent, and can rather easily grab someone by complete surprise. Directing the tendrils of shadow is a Simple Action. Solid Darkness can be dispelled as if it had 3 hits. Solid Darkness vanishes the next time the sun rises. The Solid Darkness can grab or disarm using its own Strength and the Character's Combat skill.
+
 #### Elder Powers
 
 **Shadow Walk** The character can step into one shadow and come out of another one that they can perceive. The transportation itself is a Simple Action that costs 1 Power to activate. No intervening space is used, and nothing can block the movement. The character may take anything and anyone they or their shadow tendrils can carry. Shadow Walk can be dispelled as if it had 3 hits.
@@ -99,13 +102,15 @@ The character can invest a power point into a sample of their own blood, allowin
 
 **Thaumaturgical Forensics** 
 The character can make accurate pronouncements about biological samples and give weird CSI tirades given access to creepy magical equipment. The character makes a Logic + Medicine or Logic + Research check. The kinds of information gained varies by the number of hits. Examples follow of investigating the origin of a lock of hair and investigating the source of a lethal wound:
-[table][mrow]Hits [mcol]The Hair Sample[mcol]The Wound
-[mrow]1[col] "Human Woman. Blond." [col] "Burns. Nasty Ones."
-[mrow]2[col] "She's still alive." [col] "These fires burned by magic."
-[mrow]3[col]"She's a Luminary." [col] "A Firestarter did this at short range."
-[mrow]4[col] "Her name is Susan." [col] "The Firestarter was a Baali Witch."
-[mrow]5[col] "She is currently in Dresden." [col] "His name was Karlov."
-[mrow]6[col] "She is thinking about betraying her friend Elizabeth." [col] "This was a fight over money."[/table]
+
+| Hits | The Hair Sample | The Wound |
+|:-:|:-------------------|:----------|
+| 1 | "Human Woman. Blond." | "Burns. Nasty Ones." |
+| 2 | "She's still alive." | "These fires burned by magic." |
+| 3 | "She's a Luminary." | "A Firestarter did this at short range." |
+| 4 | "Her name is Susan." | "The Firestarter was a Baali Witch." |
+| 5 | "She is currently in Dresden." | "His name was Karlov." |
+| 6 | "She is thinking about betraying her friend Elizabeth." | "This was a fight over money." |
 
 #### Advanced Powers
 
@@ -114,6 +119,7 @@ The character can bleed like one of the xenomorphs from Aliens. Anyone who is wi
 
 **Theft of Vitae**
 The character draws blood and power directly out of a victim. Little spheres of blood fly out of the victim towards the character, who thence absorbs the droplets in some suitably dramatic fashion such as having them pop into the character's mouth or outstretched hand. The character uses a Complex action and makes an opposed Agility + Larceny or Logic + Medicine test against the target's Strength. Every net hit causes the victim an unsoaked Lethal damage level and if they have any power points they lose one of them per net hit. This power does not cost power points, and indeed the character _gains_ one power point per power point stolen (up to their normal maximum). If the character has a Feeding Power Schedule, they may gain power points even from victims that don't have any.
+
 #### Elder Powers
 
 **Crimson Death** Given a sample of blood from a target, the character an send a lethal curse against them that will brutally murder them no matter how far they have traveled. The character burns the blood sample and spends an hour sending evil thoughts into it and spends six power points. The character makes an opposed Logic + Medicine or Logic + Survival test against the target's Strength. On a success, the victim snaps into a dozen pieces or more, looking momentarily like they were painted upon a broken window pane. Blood gushes from every crack, and they fall into chunks dead as dry bones.
