@@ -81,7 +81,7 @@
    * Animals
    * Places
    * Things
-   * Standardizing Nonstandard Magic
+   * [Standardizing Nonstandard Magic](persona_non_grata/standardizing_nonstandard_magic.md)
    * [I Fought The Law](persona_non_grata/i_fought_the_law.md)
 * [Points of View](points_of_view.md)
 
