@@ -65,7 +65,7 @@
    * [Devotions](magic/devotions.md)
 * [Character Options and Motivation](character_options_and_motivation.md)
    * Resources and Obligations
-   * Motivations & Passions
+   * [Motivations & Passions](character_options_and_motivations/motivations_&_passions.md)
    * [Advantages and Disadvantages](character_options_and_motivations/advantages_and_disadvantages.md)
    * [Character Advancement](character_options_and_motivations/character_advancement.md)
 * [The World at Night](the_world_at_night.md)
