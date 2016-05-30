@@ -64,7 +64,7 @@
    * [Orphic Disciplines](magic/orphic_disciplines.md)
    * [Devotions](magic/devotions.md)
 * [Character Options and Motivation](character_options_and_motivation.md)
-   * Resources and Obligations
+   * [Resources and Obligations](character_options_and_motivations/resources_and_obligations.md)
    * [Motivations & Passions](character_options_and_motivations/motivations_&_passions.md)
    * [Advantages and Disadvantages](character_options_and_motivations/advantages_and_disadvantages.md)
    * [Character Advancement](character_options_and_motivations/character_advancement.md)
