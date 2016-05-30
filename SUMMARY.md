@@ -59,7 +59,7 @@
    * [Spawn Monsters](monsters/spawn_monsters.md)
 * [Magic](magic.md)
    * [Universal Disciplines](magic/universal_disciplines.md)
-   * Astral Disciplines
+   * [Astral Disciplines](magic/astral_disciplines.md)
    * Infernal Discplines
    * Orphic Disciplines
    * Devotions
