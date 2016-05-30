@@ -61,5 +61,5 @@
 * Character Options and Motivation
 * The World at Night
 * Persona non Grata
-* Points of View
+* [Points of View](points_of_view.md)
 
