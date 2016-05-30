@@ -70,7 +70,7 @@
    * [Character Advancement](character_options_and_motivations/character_advancement.md)
 * [The World at Night](the_world_at_night.md)
    * [Mexico City](the_world_at_night/mexico_city.md)
-   * Houston
+   * [Houston](the_world_at_night/houston.md)
    * Kuala Lumpur
    * New York
    * Paris
