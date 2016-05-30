@@ -68,7 +68,6 @@
   * Motivations & Passions
   * Advantages and Disadvantages
   * Character Advancement
-
 * [The World at Night](the_world_at_night.md)
 * [Persona non Grata](persona_non_grata.md)
 * [Points of View](points_of_view.md)
