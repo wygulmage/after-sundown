@@ -65,6 +65,6 @@
    * [Devotions](magic/devotions.md)
 * [Character Options and Motivation](character_options_and_motivation.md)
 * [The World at Night](the_world_at_night.md)
-* Persona non Grata
+* [Persona non Grata](persona_non_grata.md)
 * [Points of View](points_of_view.md)
 
