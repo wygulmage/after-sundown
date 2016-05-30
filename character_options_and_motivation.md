@@ -1,20 +1,19 @@
 # Character Options and Motivations
-
 _You are special, just like everyone else..._
 
-**[size=25]Resources and Obligations
-"_Whoever dies with the most will presumably have the most left when they are resurrected._"
+## Resources and Obligations
+_"Whoever dies with the most will presumably have the most left when they are resurrected."_
 
 Characters in the realm of horror spend more time than you might think running around naked. That's fine and all, and meshes well with a certain kind of story. But much of the time, characters really do have physical objects and social connections at their disposal in addition to their personal abilities and the contents of their mind. In After Sundown, these resources are itemized and written down in order to formalize reserves that a character can draw upon during their adventures. Individual advantages that a character has are assigned a value based on their presumptive potential utility and categorized by what kind of story advantage they grant. Resources can be physical _things_, but they can also be more ephemeral things of value such as friendships or society's recognition of ownership. Characters may also have fetters that tie their hands, demands placed upon them by society either out of need or hostility. These are called Obligations.
 
-[size=20]**Resources
+### Resources
 _That's what I got, what you got?_
 
 Resources are not necessarily fungible nor are they necessarily transferable. While a character's Finance Resources can usually be traded away (that being most of the point), even in those cases they may instead be stocks or property rights that may be difficult to transfer quickly and/or draw attention when title is given away at all. Friendships can almost never be sold away, and minions are not generally happy to have the subject brought up in anything but the crudest of jests.
 
 Depending on the parameters of the campaign, a starting character in After Sundown is normally expected to have a 1-point Resource, a 2-point Resource, and a 3-point Resource (and no, you can't trade those all in for a 6-point Resource, but thanks for asking). With the MC's permission, a character can begin play with additional Resources, so long as they "pay" for these resources by taking Obligations of equal size. That is, a character might have an extra 3-point Science Resource (access to the FBI finger print database perhaps) but also be saddled with a 3-point Stalkers Obligation (presumably the Bureau keeping tabs on their movements). Players may not take two 1-point obligations to pay for a 2-point resource, nor may they take a 2-point Obligation to pay for two different 1-point Resources.
 
-**[size=15]Assets
+#### Assets
 
 Assets are people, or beasts, or supernatural monsters who will act as backup for you in dangerous situations should need arise. Assets become more useful (and thus higher rated) if they are harder core, and also if you can tell them more about your situation without breaking the Vow of Silence.
 
@@ -32,7 +31,7 @@ Assets are people, or beasts, or supernatural monsters who will act as backup fo
 | 6 |  ... a black helicopter NWO strikeforce
 ... a troll general[/table]
 
-**[size=15]Contacts
+#### Contacts
 
 Contacts are people who you can rely upon for information or as sources of goods. Generally speaking, any character actually knows many people, not just one. And some of them will be more "useful" and others less. For the purposes of the chronicle, the character's main contact is not necessarily their best friend, but likely the shadiest or best connected person they know.
 
@@ -50,7 +49,7 @@ Contacts are people who you can rely upon for information or as sources of goods
 | 6 |  ... other people dare not speak the name of
 ... has the president's cell phone number[/table]
 
-**[size=15]Destiny
+#### Destiny
 
 Destiny is access to special magical methods of problem solving. Enchanted lands and objects are all over the place in the realm of horror, and many of the dark and hidden events of the past and future have been written down. Finding these places, objects, and writings of power is a serious goal for many supernatural creatures - and with good reason. Information is power, and well, _power_ is power too. And when this power affects a supernatural world, it becomes useful and relevant to the interests of creatures that _live_ in that world. Sometimes a source of magic will have enough gold or obvious age in it that it might be sold in a pawn shop for Euros. However, in almost all cases the market price of such items is so small in human terms compared to its utility that Witches who find out that someone sold something of Destiny will laugh at them.
 
@@ -68,7 +67,7 @@ Destiny is access to special magical methods of problem solving. Enchanted lands
 | 6 |  ... the burnt copy of the Library of Alexandria from Limbo
 ... Yggdrasil[/table]
 
-**[size=15]Finances
+#### Finances
 
 Finances need not literally be bank accounts in dollars or euros, piles of gold or drugs works pretty well for that. A resource is financial in nature if its primary utility is that it can be traded in the human world for goods and services. Indeed, the characters probably have several different things that are tradable. Rather than itemize the value of their watch and each piece of jewelry, each level of Finances gives an example of something that might be the biggest ticket item they have for trade. So a character whose largest item is their car can still probably scrape together the cash to buy some kit kats or whatever without having to sell it.
 
@@ -86,7 +85,7 @@ Finances need not literally be bank accounts in dollars or euros, piles of gold 
 | 6 |  ... major stock in a mega-corporation 
 ... a minor nation[/table]
 
-**[size=15]Languages
+#### Languages
 
 Speaking (or in the case of ancient languages, sometimes merely _reading_) another language is very much unlike other forms of resources, in that it is something which is almost entirely internal. Yes, if the world passes you by long enough, you won't be able to understand what kids these days are saying - but it's still substantially slower to desert you than other social connections.
 
@@ -98,11 +97,11 @@ Some character concepts will require more than 3 foreign languages. In this case
 
 [table]|Rating|You know...
 | 1 | ...a foreign language fluently
-| 2 | ...two foreign languages
-| 3 | ...three foreign languages
+| 2 | ...four foreign languages
+| 3 | ...nine foreign languages
 [/table]
 
-**[size=15]Science
+#### Science
 
 Science is access to special mundane methods of gaining information and solving problems. The panopticon operates blind in many areas, and the Syndicates of the world work to ensure that it stays that way. Nevertheless, the amount of information available at the hands of humans is shocking in its complexity and completeness. Someone with the right clearance could crack a lot of the world's conspiracies right open if they knew what to look for. This rightfully frightens many supernatural creatures, but having access to even small parts of the panopticon can make a character's research and investigations be much more productive.
 
@@ -120,7 +119,7 @@ Science is access to special mundane methods of gaining information and solving 
 | 6 |  ... Area 51
 ... the probability manipulator[/table]
 
-**[size=15]Secrets
+#### Secrets
 
 Secrets are a lot like finances, but for the supernatural world. Secrets are things that have market value within the World Crime League or the Makhzen but which for whatever reason would be difficult to sell for acceptable value in mortal markets. Like with finances, it is entirely possible that the character has multiple items including enough kittens to make small purchases. The examples are for the most valuable item a character with that level of Secrets might own.
 
@@ -138,13 +137,13 @@ Secrets are a lot like finances, but for the supernatural world. Secrets are thi
 | 6 |  ... the burnt copy of the Fat Man recovered from Limbo
 ... the golden apples of discord[/table]
 
-[size=20]**Obligations
+### Obligations
 
 Some characters have obligations: things that restrict their ability to act freely. Some obligations are things that the character's ethos demands of them, and others are imposed on the character from without. But the effect is really very similar. If the character's little sister is in trouble with the Glow Skulls, forcing the character to come in conflict with the voodoo gangsters; this is very similar in overall effect to a situation in which the Glow Skulls have it in for the character. While the impetus is very different, in either case the character is drawn into conflict with the Glow Skulls "against their will". And if they are captured by the Glow Skulls, it is surmisable that they will not be interrogated by Rudenko.
 
 MCs should give potential obligations that players are considering for their characters the fish eye. After all, while an obligation limits the character's choices, in a very real way it limits the choices of every character in the coterie. The other characters are presumably not going to leave one of their own to take on the Glow Skulls on their own. And once they are drawn into that conflict you're basically looking at the rest of the players getting saddled with obligations that they didn't agree to or get any compensatory resources for.
 
-**[size=15]Addiction
+#### Addiction
 
 Everyone has things they want to do. These are goals, and they are not Obligations. However, some people have things they _have_ to do, even at a cost to themselves. These addictive behaviors can be detrimental to successful completion of other goals. From the simple reality of giving one's self away with cigarette smoke or the glow of the ash all the way to losing one's life savings and whole days of life to the jab of a needle. An Addiction is valued by how much it impacts the character's ability to accomplish _other things_, rather than on specifically what (if anything) will happen to them if they fail to perform their addictive rituals. Note also that the value of the Addiction in game terms is not meaningfully tied to its long-term affects on the character's _health_, but merely to their ability to be goal oriented in the context of the story.
 
@@ -162,7 +161,7 @@ Everyone has things they want to do. These are goals, and they are not Obligatio
 | 6 |  ...burn historically significant artifacts.
  ...strangle another woman. [/table]
 
-**[size=15]Debts
+#### Debts
 
 Debts are an Obligation in the strictest accounting term: they are resources that the character _does not have_ that they nonetheless owe to someone else. Debts as an obligation are not valued based on their monetary value, and indeed it is entirely possible that at no time during the chronicle will the character actually pay off these debts or even necessarily make a good faith effort to start doing that. A Debt is valued based on how intrusive the collection attempts are to the character's life and actions.
 
@@ -180,7 +179,7 @@ Debts are an Obligation in the strictest accounting term: they are resources tha
 | 6 |  ... information about your friends to the Empire.
  ...one child a month to the Oaken Abyss. [/table]
 
-**[size=15]Duty
+#### Duty
 
 Duty is a social requirement to do certain things in certain circumstances. It acts as a very effective constraint upon the character's actions, because it is generally speaking something they agreed to do. It isn't just that the _player_ wanted their character to operate with a social limitation in order to afford nifty resources that could be used in other ways - the _character_ for whatever reason has taken on a commitment that they _intend_ to keep. A Duty is worth more the more it interferes with a character's _other_ goals.
 
@@ -198,7 +197,7 @@ Duty is a social requirement to do certain things in certain circumstances. It a
 | 6 |  ...fight for Prelate Lanston's Martyr Force.
  ...guard the tapestry. [/table]
 
-**[size=15]Enemies
+#### Enemies
 
 Enemies are people (or at least creatures) that actively wish ill upon the character and are willing to act on this by actively interfering with the character's life. Some enemies want to send thugs to the character's residence and beat the crap out of them. Others simply want to ruin the character's career, expose them to the media, steal their number one dime, or in some way do something bad to the character. An enemy doesn't deserve a higher rating just because they want to do something more awful to the character - they deserve a higher rating because through dedication or reach they impose a greater limit on the character's choices. So long as the enemy wishes to do something of sufficient harm that the character will not passively allow it to happen, the rating of the Enemy Obligation is a function entirely of how intrusive they are to the character's story.
 
@@ -216,7 +215,7 @@ Enemies are people (or at least creatures) that actively wish ill upon the chara
 | 6 |  ...whisper in your dreams.
  ...are a pack of vampires who want to eat your frickin heart. [/table]
 
-**[size=15]Stalkers
+#### Stalkers
 
 The character has one or more people who keep track of their movements. Being stalked is creepy at the best of times, but in an abstract sense someone who collects information on the character and then _doesn't do anything with it_ is not a real problem (well, a smaller problem, in that someone else could subsequently come into possession of the data and then do something with it). The value then of Stalkers as an obligation is determined by how many resources they will use in collecting information on the character coupled with how much the character wishes that information to not be kept. In short: how much the character finds their life actually inconvenienced by trying to keep their secrets and having their secrets escape anyway.
 
@@ -234,9 +233,8 @@ The character has one or more people who keep track of their movements. Being st
 | 6 |  ...a vast conspiracy that monitors all electronics.
  ...a cartel of ghosts. [/table]
 
-
-**[size=25]Motivations & Passions
-"_We do what we must, because we can._"
+## Motivations & Passions
+_"We do what we must, because we can."_
 
 It is important at times to realize that After Sundown is a _role playing game_, and as such that the characters being played are in fact _characters_ and not the actual people playing the game. Even though a player will routinely use first person pronouns to describe a character's activities (for example: "_I_ call the dog to _me_" or "_I_ bend down and lick the blood off the floor") the character and the player are different people. The first person pronoun is used as a storytelling and acting device. The use of the first person pronoun helps bring immediacy and sympathy to the characters, but it doesn't actually conflate the character's unique personality traits with those of the player. Conversely, the MC will usually refer to non-player characters in the third person (for example: "The knife cuts deeply into _Her_" or "_Max_ begins to cry"), and may well refer to player characters in the second person (for example: "The sputtering of the lamp plunges _you_ into darkness"). This is done because the MC has a lot of characters they are controlling, and it is incomprehensible if all of them identify themselves as "me". But regardless of what pronouns and sentence constructions are employed, the characters are _not_ the same as the players. They have different abilities and a different fate. The characters can even die and it won't be the end of the world for the players. Most importantly, the characters are characters in a story, and they have different motivations from those of the players.
 
@@ -244,8 +242,8 @@ Every character in the story, like every person in real life, has personal belie
 
 It is unfortunately true that the game world _as a whole_ includes billions of people and most of the background characters will not be given even the barest of motivational sketches. When the characters walk into a 7-11 at 2 in the morning to get slurpees, it's not super important what the guy behind the counter is doing with his life, chances are that his lines in the play will be the barest of pleasantries and he'll get credited as "7-11 Employee". But this is not always the case. Events have a tendency to spiral out of control and develop quickly in a role playing game, and it is entirely possible that the players will, for whatever reason, end up conversing with the 7-11 employee for an extended period of time, bringing his name, his ideals, and his fears to actual importance. For the MC there are two main ways to handle this fact. The first is to simply write a character on the spot, filling in details as they become important. And the second is to have some "templates" - a set of mundane Extras set up in advance that can be slotted into the story whenever some random person in a bank or a crowd becomes important to the story. Random name tables are incredibly useful for this, and the MC should consider getting some.
 
-**[size=20]Losing Control: Frenzy and Despondency
-"_Rar!_"
+### Losing Control: Frenzy and Despondency
+_"Rar!"_
 
 Characters in the realm of horror are often the carriers of some pretty hefty psychological baggage. Burdened by curses and sustained by dark magic, most supernaturals have a pretty tenuous grip on their sanity and even their composure. The beast lurks rather shallowly beneath the surface, and when a supernatural creature transforms into their war form, it does not even do that. 
 
@@ -259,7 +257,7 @@ Each supernatural type has a most common Master Passion (Despair for Transhumans
 
 Frenzy is not completely useless. Whilst in Frenzy, a character's Strength and Willpower are increased by 1. Although they are usually not of much use socially even so.
 
-**[size=15]Master Passion Despair
+#### Master Passion Despair
 "_Shinj [ʃɪndʒ]_[list=1]_-Verb (used without object)
 *to absolutely flip out in existential uncertainty and despair to the point of being unable to accomplish life goals._"
 
@@ -269,14 +267,14 @@ Characters dominated by Master Passion Despair are affected the rest of the time
 
 Triggers for a despair frenzy usually take the form of setbacks of some form or another. Triggers to end a despair frenzy are either things that would cheer them up, or the galvanizing action of seeing something that mattered to them destroyed during their frenzy (often as not _by_ their frenzy). Key skills are Survival, Persuasion, and Operations. Master Passion Despair is the usual drive of Transhumans.
 
-**[size=15]Master Passion Fear
+#### Master Passion Fear
 "_All motivations are merely a subset of fear. A fear of irrelevance._"
 
 A character with Master Passion Fear lives in absolute terror every day of their existence. Harried constantly by the need for a feeling of security that eludes them eternally, they find firsthand that Fear is a cruel and unforgiving mistress. Not a few mastered by fear dig themselves into a figurative (or even literal)  hole and become virtually paralyzed with binding paranoia and a crushing fear of the unknown that limits their movements and holds them fast within some real or imaginary fortress, but this is by no means universal. Fear can be a motivator that is easily mistaken for positive, because while it can easily prevent someone from doing needful things, it can also force the fearful hand into action. When _not_ acting is more feared even than venturing into the unknown, the terrorized act with hurried finality. It is important to note that virtually all player characters are going to subscribe to the panicked urgency school of crippling disquietude rather than the torporous catatonia school of life ruining trepidation.
 
 Those laboring under Master Passion Fear are prone to Frenzy and Despondency, but always one more than the other. Each person's personal nightmares drive them to different irrational extremes. Triggers to enter a Fear Frenzy include both what Lemony Snicket would call the "rational fears" (such as being threatened or wounded) and the "irrational fears" (which are deeply personal jitters that are difficult, even embarrassing, to explain to others). Each fearful character should pick some of the latter, things which quicken the pulse and dominate their nightmares. Triggers to hopefully end despondency come when and where the character can find comfort, whether this is a warm bed, a dark hiding place, or the arms of a compatriot. Key skills are Combat, Tactics, and Sabotage. Master Passion Fear is the most common motivation of Leviathans, which in some way accounts for how many of them leave society of all types and simply hide in the wilderness.
 
-**[size=15]Master Passion Greed
+#### Master Passion Greed
 "_I feed the mouth that bites me._"
 
 A character with Master Passion Greed is dominated by a need to have things. Not _necessarily_ "valuable" things according to disinterested onlookers, and _certainly_ not all things that have value - even to themselves. Greed is at its heart the irrational feeling of the need to acquire, since we don't even _notice_ it (much less condemn it with such a judgmental word as Greed) when people act upon their desires to acquire things that are necessary for their survival or lifestyle. And those characters who are mastered by their greed become fixated on acquiring specific things. At any given time, a character driven by Greed will have something that they "must have" and will take special effort to get it on a regular basis. Actual frenzies may occur when a character gets "very close" to their current goal and suffers a setback. Greed is a fickle mistress, and once a character achieves their goal, it will fall to them to find a new goal and pursue that (although in some cases this may be as simple as "get a lot of money" followed by "get even more money").
@@ -287,7 +285,7 @@ Of all the master passions, Master Passion Greed works best in children's litera
 
 Actual frenzies from Master Passion Greed usually involve a destructiveness brought out by sheer frustration. Having gotten so close to their goal only to be thwarted, the character hurls themselves in a last ditch (often obviously futile) attempt to grab on to their desire. Things in the way are blasted with everything at their disposal and clear dangers and social conventions are completely ignored. Think the end of Indiana Jones and the Last Crusade. Key skills are Stealth, Empathy, and Rigging. Master Passion Greed is the most common motivation of Witches.
 
-**[size=15]Master Passion Hunger
+#### Master Passion Hunger
 "_I want to suck your blood._"
 
 A character with Master Passion Hunger is prone to harsh and painful pangs of emptiness, which slowly eat away at their sense of self when their power reserves are low. These fires of hunger can burn out of control and turn them into desperate, destructive beasts unless or until quenched by sapient flesh, blood, or pain. While this is obviously most commonly an affliction of those who get their power from an actual Feeding schedule or who otherwise prey on sapients, even those who don't rely on power for it can potentially have this passion. It is obviously dangerous in such characters, because unless the character's power schedule is Feeding they will remain low in power reserves (and thus potentially subject to more frenzy) even after chewing on a dude. 
@@ -296,14 +294,14 @@ The hunger manifests continually in a manner that is just barely noticeable, and
 
 Triggers for a hunger frenzy usually take the form of depleted Power. Triggers to end a hunger frenzy are either something which makes them lethargic (including simply being full of other foods), or having drained a victim dry. Key skills are Stealth, Animal Ken, and Medicine. Master Passion Hunger is the usual drive of Vampires.
 
-**[size=15]Master Passion Loneliness
+#### Master Passion Loneliness
 "_We were meant to be together. If I wasn't made for you, why do I exist?!_"
 
 A character with Master Passion Loneliness is prone to excruciating, almost, _paralyzing_, pain. The pain of feeling incomplete, cut off, and alone. These feelings come rapidly when they are actually alone, and even creep up on them when they are surrounded by other people. Alienation is exacerbated by Master Passion Loneliness to the point of clear instability. They end up doing things to draw attention to themselves out of desperation, stunts that often as not actively push others away. Many with Master Passion Loneliness feel that what is missing from their life is a lover, but friendship or even just _acknowledgement_ is a frequently cited lack as well. 
 
 A Loneliness Frenzy usually takes the form of a series of drastic and poorly conceived cries for help and attention. These can be incredibly destructive to things around them and even themselves. Petulant and half hearted attempts on their own life are not uncommon. While the goal is always to focus attention of the character and/or to punish others for abandoning them, the logical connection between their rampage and actually encouraging people to socialize with them can be... hard to explain. Loneliness Frenzies can be triggered by any abandonment, real or imagined. Characters with Master Passion Loneliness are prone to the worst sorts of jealousy on the smallest of provocations, and behave clingy and desperate even when relationships are seemingly normal. Key skills are Larceny, Intimidate, and Artisan. Master Passion Loneliness is the usual state of being for Animates.
 
-**[size=15]Master Passion Rage
+#### Master Passion Rage
 "_You're making me angry. You wouldn't like me when I'm angry._"
 
 A character with Master Passion Rage is short-tempered, and when their temper goes off they completely lose it: attacking their enemies, destroying the scenery, attacking bystanders, and destroying their relationships.  Characters subject to rage frenzy will often lash out at others for perceived slights, both verbally and physically, but it is not until they are pushed into actual frenzy that their true and terrifying potential is unleashed. A raging character uses every power at their disposal to smash everything and everyone they perceive as vexing or hostile. Failing that, they will turn on inanimate objects and even innocent and irrelevant people as their inability to get their hands (or teeth, or balls of fire, or whatever) on something they can readily identify as a threat or a sleight becomes itself a source of anger. A raging rampage is born out of sheer anger, and seeks to remove the source of their anger through the simplest of emotionally-triggered reactions - pure violence.
@@ -312,7 +310,7 @@ Characters with Master Passion Rage are incredibly confrontational. Their "fight
 
 Triggers for a rage frenzy usually take the form of a threat to the character's person or  pride. Anything that would make a human fly into a rage works too. While threats to a person are usually pretty self explanatory (injuries or threats of violence), injuries to the pride are legitimately different for different people. Players are encouraged to have some "sensitive subjects" that piss them off beyond reason. And we _do_ mean beyond reason. Triggers to end a rage frenzy are either things that would calm them, or the galvanizing action of seeing someone they care about hurt at their own hands (often after the wounds are lethal). Key skills are Athletics, Bureaucracy, and Research.. Master Passion Rage is the usual drive of Lycanthropes.
 
-**[size=20]Driving Passions: Getting Places and Doing Things
+### Driving Passions: Getting Places and Doing Things
 "_I'm gonna do it. Just you wait and see._"
 
 While most major events in the realm of horror are soul destroying and oppressive affairs, it is not to be ignored that there are indeed things that motivate people to _accomplish_ things. And while even that silver lining must be tempered with its own dark cloud - that indeed many people in the world are motivated to accomplish things that are despicable - it remains a source of beauty, industry, and human achievement. Or supernatural inhuman achievement as the case may be. These motivations represent the Muse in all of us, and in After Sundown are described as a character's _Driving Passion_.
@@ -323,54 +321,54 @@ A Driving Passion is like the narrative of the character's life as they would wi
 
 It is entirely acceptable for characters to have their Driving Passions defined reactively by the chronicle. A character might become incensed that the president had been kidnapped by ninjas or cultists were trying to destroy the world and get a Driving Passion to put a stop to that nonsense. Most adventure stories revolve around characters doing exactly that. However, the MC should check a proposed Driving Passion to make sure it isn't _stupid_. A character might be able to advance a goal such as "eat a sandwich", but that's not really appropriate in most chronicles because it is too trivial. Of course, if circumstances are such that such a goal requires genuine striving against genuine difficulties (for example: the character is stuck in Limbo and there appears to be no bread), then by all means go for it.
 
-**[size=20]Ethical Taboos: A Line in the Sand
+### Ethical Taboos: A Line in the Sand
 "_I'd do that for a dollar... that I would do for a hundred dollars... that I would not do._"
 
 Every person has a set of personal ethics that govern and proscribe how they behave. It is important to distinguish a person's ethics (what they personally will not do) from their ideology (what they personally want to get done). For example: many people want sewage to get treated, but very few people are willing to actually handle the sewage or be around the sewage processing themselves. These kinds of internal contradictions are practically universal and make for great character conflicts and growth possibilities.
 
 But Ethical Taboos aren't purely debilitating, no matter what Nietzsche tells you. In a world with genuine mind control floating around, having arbitrary, even irrational lines that you won't cross can be extremely useful. After all, whatever things you don't want to do are things that you've spent much of your life figuring out how to live _without doing_, and creatures trying to puppet you around may have no idea what those are, effectively creating minefields of unexpected resistance. Game mechanically, a character whose ethical taboos are brought to the fore increases the threshold to influence them into a course of action by 1 or 2.
 
-**[size=15]Princess Ethics
+#### Princess Ethics
 "_That's horrible and I don't want to look at it._"
 
 Many people do not want to look at or participate in things that are ugly or repellent. While they probably have no moral objections to trash being collected, they have an _ethical_ prohibition against doing it themselves. While perhaps not especially praiseworthy according to most ethical calculi, Princess Ethics are reasonably common. The moral of [u]Beauty and the Beast[/u], [u]The Frog Prince[/u], and [u]Cinderella[/u] are pretty much all that Princess Ethics are to one degree or another bad; but that should not tell you that Princess Ethics are universally thought poorly of in any society. Indeed, many societies frown on people who abandon Princess Ethics, or even _seem_ to. Just the fact that "Untouchables" exist in many cultures should tell you how prevalent this line of thinking really is.
 
-**[size=15]Nonviolence Ethics
+#### Nonviolence Ethics
 "_I can't do that, people could get hurt!_"
 
 Nonviolence is when _you_ don't hurt or kill things by _your_ actions in a direct way that _you_ can see. This is very often quite a different concern from taking actions that reduce the overall amount of hurt in the world, or even reducing the amount of violence in their area or even reducing the amount of violence done on their personal behalf. For example, while a person with Nonviolence Ethics will not swing a hammer into the skull of a pig, they are often perfectly happy to eat a eurodog. A severe conflict for the follower of Nonviolence Ethics is being attacked, since of course most people want to survive.
 
-**[size=15]Politeness Ethics
+#### Politeness Ethics
 "_Of course I don't hate you..._"
 
 Mankind, even supernatural kind continues to persist in no small part because of its ability to get along with itself. And one of the strongest forces making this possible is the capacity for politeness. Each person is expected to defer actions that might offend others. And a lot of people do this pragmatically, not wanting to potentially start shit with random strangers. And a lot of other people find this automatic restriction on their activities is truly part of their being. Insulting others or taking a dump on the table is something they _won't_ do. 
 
-**[size=15]Privacy Ethics
+#### Privacy Ethics
 "_What happens in Vegas, stays in Vegas._"
 
 The world's panopticon is fairly advanced, with more information collected on each person than any other person could read in a lifetime even if they could find it all in the stacks and stacks of documentation tangled up in other people's lives. And yet, a lot of people don't want to share things about themselves with others. This isn't exactly the same thing as shame, and indeed many people who feel this way are not particularly embarrassed about most of their actions, but simply feel that others knowing about them and especially _finding things out_ about them is an insidious attack. Characters with Privacy Ethics won't talk about their personal life except under the most extreme duress.
 
-**[size=15]Frugality Ethics
+#### Frugality Ethics
 _I've got food at home. That hotdog guy is not getting my dollar._
 
 The very nature of expending things is that once that has been done, the thing is expended. This finality is a source of genuine fear for a lot of people. The idea of not being able to use something later can be virtually paralyzing. People with Frugality Ethics are opposed to giving up things, even though by _never_ using an opportunity or good it is in fact _very similar_ to never having had it at all. 
 
-**[size=15]Hacker Ethics
+#### Hacker Ethics
 _I may not like what you say, but I'd be modestly upset if someone stopped you from saying it._
 
 People who have Hacker Ethics don't like being told to shut up and they don't like getting rid of DVDs that they haven't watched yet. In a larger sense, they feel that _information_ has a life of its own and  should be enabled whenever possible. Hacker Ethics provokes people to have a gut reaction of horror to censorship, even if the ideas being censored are ones they are violently opposed to. 
 
-**[size=15]Solidarity Ethics
+#### Solidarity Ethics
 "_I don't care what he done, I ain't no snitch._"
 
 People who have Solidarity Ethics don't want to take actions that betray people. This is not the same as doing their 'duty' or holding up their ends of bargains. So for example, they would be reluctant to turn in one of their friends to the police or even tell another one of their friends that a third friend had wronged them. Passive betrayal, such as merely allowing a third party to harm an ally is not a violation. Solidarity Ethics are quite common among lower classes or persecuted minorities. 
 
-**[size=15]Other Taboos
+#### Other Taboos
 "_Whatever this is, I am not eating it._"
 
 There are so many possibilities for ethical taboos that they are quite likely infinite. And it is encouraged for players and MCs alike to make new and specific ethical frameworks for individual characters. Remember that ethics need not be adaptive or even "good", they are simply things that characters have a mental block against doing. In the real world, some people have taboos against treating people of other ethnicities as equals or treating a woman with respect. These can appear on a character sheet as "Racist Ethics" or "Sexist Ethics" or whatever. And it is important to note that while these may be a character flaw, they are also an important facet of the character's personality. Ethics are a good way to describe the good and the bad about a character, and to flesh them out more fully as a human (or monster).
 
-**[size=20]Ideologies
+### Ideologies
 _It is everyone's goal to have things be more like the way they wish that they were._
 
 When we use the word ideology, we naturally think of the big political, religious, and economic ideologies that have shaped the 20th century and created the world we live in. But while the demands and counter demands of Imperialism, Capitalism, Fascism, Communism, and Fundamentalism have certainly torn the world apart and put it back together in a form that would be both unrecognizable and incomprehensible to the people of even the 1800s, these kinds of big ideas are generally not supported monolithically by nations or even individuals. There are few people indeed that argue for pure fundamentalism in any real way (even the Amish make concessions to modern medicine sometimes), and no one outside the looniest of ideologues argues for actually pure Capitalism or Communism without intrusion by the other as anything but a ludicrous rhetorical strategy.
@@ -382,20 +380,20 @@ A character's Ideology should be ranked, what are the things that people could d
 * **Despise:** hurting women, acting gay, renouncing Christianity, hurting people for extended periods of time, snitching to the cops, making things ugly
 In general, if a character is being influenced towards or by something that they honor in their personal ideology, the threshold to do so is reduced by one. If the character is being influenced towards or by something they despise, the threshold is increased by one. And these changes are naturally reversed if they are being influenced against or to reject things that they honor or despise. 
 
-**[size=15]Changing Ideologies
+### Changing Ideologies
 _That was me then, this is me now._
 
 Ideologies do not stay static over time. Characters can be convinced through persuasive argumentation that things they thought were good were bad, or that things they thought were bad are actually good. People can be quite resistant to change, and often someone who is convinced that something is good will just go ahead and continue hating it _out of habit_. Even if someone agrees on an intellectual level that a group of people is in fact producing more for the economy than they are costing in civil services doesn't mean that they necessarily start liking that group of people, or even stop hating them. Indeed, prejudices run pretty deep and it is entirely frequent for a person to continue parroting arguments _they themselves no longer believe_ rather than abandon ideological positions they've held onto for a long time.
 
 But change _does_ happen. Characters in an After Sundown game are often exposed to tremendously life changing events, and they _do_ change their lives and their goals in response to them. If you've noticed people changing their political affiliations because their son came out as a homosexual or they lost their job due to plant closings, imagine how complete the turnaround can be when a person finds themselves as a member of the living dead who drink human blood to persist from night to night.
 
-**[size=25]Character Advancement
+## Character Advancement
 
 Characters in stories tend to become _better_ as the story progresses. This is part of the character's heroic journey, and also serves to keep the audience interested. After all, once the protagonists have bested one problem, it is much easier to keep the listener's interest if the subsequent problems are _bigger_. Which in turn requires greater abilities on the part of the protagonists to solve. And so on. This can be seen very well in the movies Alien and Aliens. In the first film, the characters were dealing with one unknown monster and spent most of the movie trying to figure out what to do. But in the second movie, there are instead hundreds of the things, and yet the main character has already bested one in battle - the movie focuses on fighting rather than hiding most of the time. And both of those movies are very good. Indeed, Aliens 3 is one of those apocryphal movies like Highlander 2 that probably doesn't even exist. But if it did, its primary flaw would be having rolled back the progress of the second movie and thereby creating a story that the audience didn't give a crap about.
 
 It is easy for advancement to get out of hand. By the time Spawn beat up the lords of each realm of existence and the creator of the universe, the story really no longer held interest. A power fantasy is only interesting as long as there's still tension. While a fast rate of advancement may feel good, remember that it also advances the timeline towards the point where the game will stop being fun. It's a trade off. Advancement that is too fast or too slow is stultifying.
 
-**[size=20]Acquisitive Advancement
+### Acquisitive Advancement
 _In picking up a santa-sack full of antiques I feel that I _learned_ that I now own a santa-sack full of antiques._
 
 Resources and Status as well as Obligations are gained during the course of normal play. Sometimes these are gained together: if during the course of a story a character boosts a car, they can reasonably expect to have gained a Financial Resource (the car), but may well have gained some Enemies or Stalkers as well by the same act. At other times, a character may end up with a new set of Contacts or a sack of gold totally free and clear.
@@ -407,7 +405,7 @@ Obligations even more so, since the character will often not be aware of newly g
 
 Status is frequently gained in the aftermath of a story, making the accounting of it at the end of a session rather natural. However it is also true that a character can be promoted to Bishop right in the middle of the action. And that's fine. However, it is suggested that players not bother to write such career changes down on their character sheet (at least, not in _pen_) until the end of a session. As the saying goes "There's many a slip 'tween the cup and the lip." and status gained quickly can also be lost quickly. A return to the status quo is perhaps nearly as likely as the retention of status until enough time has passed to be sure that no one is coming to challenge the appointment.
 
-**[size=20]Transformative Advancement
+### Transformative Advancement
 _There should be only me!_
 
 Transformative Advancement is when a character gains substantial amounts of power and radically changes what they can do - and even what they _are_. Major life changing breakpoints such as this are very much a staple of the gothic genre. Indeed, every time a Luminary becomes a vampire or lycanthrope, such a transformative juncture has been reached.
@@ -428,7 +426,7 @@ The destruction of powerful elders gives off a flash of power that empowers thos
 
 Similarly, powerful artifacts can be Titanized under certain circumstances, and various tomes and places of power exist that can imbue a character with Elder Powers that would normally take them decades to master. However, it is important to note that characters are not normally going to be "entitled" to gain Potency or learn Elder Powers over the course of the stories. They come as rewards for completing especially difficult chronicles or defeating particularly powerful antagonists.
 
-**[size=20]Karmic Advancement
+### Karmic Advancement
 _What goes around will have gone around._
 
 At the conclusion of chapters, characters may advance _personally_ in addition to having advanced their cause over the course of the chapter. Advancement of this sort is difficult to plan ahead of time. No one really knows what lessons they will learn from the future and supernatural creatures don't always get to decide ahead of time what powers they will develop or when they will do so. And so when a chapter ends and the players are ready to do the accounting at the conclusion the MC may deal out cards for players to bid on. They bid with karma tokens. Tokens are gained by the following means: * Each player may have one or more karma tokens banked from the previous chapter. Any tokens that are not spent are banked automatically.
@@ -533,12 +531,14 @@ There are several different methods for determining advancement deals. Generally
 
 **Minimum Coverage:** In this system, the MC determines ahead of time how many _cards_ the chapter was worth (usually 1 or 2 more than the number of players), and deals out that many cards from the combined deck. There may be several Major Arcana showing or none at all.
 
-**[size=25]Advantages and Disadvantages
+## Advantages and Disadvantages
 _Oh yeah? But can you do this?_
 
 Over and above the fact that different people are stronger or weaker, more or less trained than others, there are things some characters can do that others cannot. These vary from simple "stupid human tricks" to feats that defy explanation even by trained stage magicians. From a game structural perspective, an Advantage is like a Power in that it is an ability that you either have or do not have. However, Advantages are available to humans, even _Extras_, and are substantially less powerful than an actual Power.
 
-**[size=16]Physical Advantages
+Characters may, with MC approval, take a number of Disadvantages during character creation. Each Disadvantage taken will allow the player to take an additional Advantage.
+
+### Physical Advantages
 
 **Ambidexterity:** The character can use either hand without penalty. They can fight with two weapons that can both be used in one hand and gain the increase of 1 damage in the main weapon without suffering a penalty to the attack roll. Normally doing so carries a -2 dicepool penalty to the attack.
 **Direction Sense:** The character knows what direction things are from where they are. They know what direction they are facing and roughly how far they are from places that they have been. This can get disrupted by being moved while they are unconscious, but not by being marched around while blindfolded.
@@ -548,24 +548,20 @@ Over and above the fact that different people are stronger or weaker, more or le
 **Natural Immunity:** There is some poison or disease that the character is completely immune to the harmful effects of.
 **Swarming:** The character is very good at fighting in groups, and does not suffer penalties for fighting in large groups and does not provide penalties to their allies.
 
-**[size=16]Mental Advantages
+### Mental Advantages
 
 **Eidetic Memory:** The character can remember things that they have seen or heard in incredibly accurate and minute detail. This means that, for example, when they see a slasher walking around dressed as a human after they the same guy dressed as a monster, they will almost invariably recognize them as one and the same.
 **Experimenter:** The character can quit any time. Ingesting chemicals over a long period of time will still cause adaptation and eventually physical dependence, but the character is never psychologically or spiritually addicted to anything.
 **Time Sense:** The character knows what time it is. They know how long it has been since the last time you asked what time it is. And they can decide ahead of time how long they will sleep - they not only do not need a clock, they don't need an _alarm_ clock to manage their lives.
 
-**[size=16]Social Advantages
+### Social Advantages
 
 **Attractive:** The character is sexually attractive, and it is especially easy for them to make progress through flirtation. The thresholds for convincing people who are sexually inclined towards the apparent sex and species of the character of things by these means are reduced by 1.
 **Calm Heart:** The character doesn't get offended by insults, even deliberate ones. This means among other things that litanies of curses do not count as a trigger for a Rage Frenzy.
 **Innocence:** Human society has prejudices and for whatever reason, people just don't think the character is guilty of "stuff". Maybe they look small and harmless, maybe they just have an air of extreme respectability. Whatever the reason, people do not _want_ to believe bad things about them. This increases the threshold to convince other people that the character has done something wrong by 1.
 **Loyalty:** The character really likes his friends, or maybe just takes duty to the team very seriously. The threshold to convince them to turn on those they feel loyal to (often including the other characters) is increased by 1. This even applies to magic, and the character effectively gains 1 extra hit to resist Authority and similar effects if they are being made to turn on their allies. In the case of ongoing domination such as Possession, the bonus hit can retroactively cause the character to resist the effect if they are subsequently let loose on their friends.
 
-**[size=20]Disadvantages
-
-Characters may, with MC approval, take a number of Disadvantages during character creation. Each Disadvantage taken will allow the player to take an additional Advantage.
-
-**[size=16]Physical Disadvantages
+### Physical Disadvantages
 
 **Allergy:** The character is allergic to something reasonably common, such as mold, pollen, or cats. While in the presence of their nemesis, the character is _fatigued_.
 **Blatantly Magical:** There is something about the character which is very demonstrably outside the boundaries of human normality. Like possibly little wings on the back or a gaping hole in the chest where churning gears can clearly be seen. While such traits can be covered with clothing or hidden in the dark, it could be a severe problem for the Vow of Silence were such things to be seen by normal people.
@@ -574,7 +570,7 @@ Characters may, with MC approval, take a number of Disadvantages during characte
 **Distinctive Appearance:** The character is easy to describe, possibly because the look wildly different from others, but maybe just because there's something really obvious like a burn mark on their face or a missing eye.
 **Tunnel Vision:** The character can only defend themselves in combat against one opponent at a time.
 
-**[size=16]Mental Disadvantages
+### Mental Disadvantages
 
 **Aimless:** The character's hopes and dreams feel distant and unreal. Advancing their Driving Passion does not allow them to refresh an Edge.
 **Anachronism:** The character is from another time, or possibly just grew up in an Amish community or a savage region of one of the outlands. And they do not know how machines work unless they are specially instructed on them. The character cannot default when operating 21st century devices.
@@ -586,7 +582,7 @@ Characters may, with MC approval, take a number of Disadvantages during characte
 **Prideful:** The character has an extreme aversion to admitting fault. They will cling to a course of action that is obviously not working, and they will allow their sense of pride to get in the way of personal relationships.
 **Temperamental:** The character is prone to outrageous emotional outbursts. The threshold to resist or end a frenzy is increased by 1.
 
-**[size=16]Social Disadvantages
+### Social Disadvantages
 
 **Diplomatic Incident:** Something the character did, or at least something that someone _thinks_ the character did causes them to be unliked by another group that they have to deal with sometimes.
 **Doomed Romance:** Eventually you have to come to terms with the fact that the only common element in all your failed romances is you. The character's love life is a series of train wrecks. For whatever reason, the people they fall in love with turn out to be married, alien impostors, or fated to die grisly deaths.
