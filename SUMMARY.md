@@ -61,7 +61,7 @@
    * [Universal Disciplines](magic/universal_disciplines.md)
    * [Astral Disciplines](magic/astral_disciplines.md)
    * [Infernal Discplines](magic/infernal_discplines.md)
-   * Orphic Disciplines
+   * [Orphic Disciplines](magic/orphic_disciplines.md)
    * Devotions
 * Character Options and Motivation
 * The World at Night
