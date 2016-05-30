@@ -58,6 +58,11 @@
    * [Evil Plants](monsters/evil_plants.md)
    * [Spawn Monsters](monsters/spawn_monsters.md)
 * [Magic](magic.md)
+  * Universal Disciplines
+  * Astral Disciplines
+  * Infernal Discplines
+  * Orphic Disciplines
+  * Devotions
 * Character Options and Motivation
 * The World at Night
 * Persona non Grata
