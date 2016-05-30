@@ -323,7 +323,7 @@ These kinds of subgroups can be pretty small - often appearing in only one city 
 
 So the Sawyer Tribe is a group of closely related Troglodytes who are all fearfully strong. Every one of them has Devastation as one of their Powers. And if a player wished to make a character who was born into the Sawyer Tribe, they would select Devastation as one of their additional Powers upon applying the transformation. On a less hoboriffic note, within the Ulmi there is a core of dedicated immortal necromancers who teach the original Venetian necromancer's secrets of power. This is the Ulmi School, and those luminaries who are trained in it become Khaibit who have Patience of the Mountains. The Sisters of Cacophony is the name given to a lesbian Strigoi who calls herself Cacophony and the exclusively female bloodline she has founded, with each new inductee manifesting with Missing Voice and Death Note.
 
-## I fought the Law...
+## I Fought The Law...
 _Twinkies are the best friend I ever had._
 
 Actions that characters take have consequences. And not just in the direct Aristotelean sense of how when you push on an object it moves. Both directly, and indirectly in the form of reactions and reprisals from others, actions will set other actions in motion. And perhaps no reaction gets as much justifiable consideration as the reactions of Justice and Revenge.
