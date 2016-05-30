@@ -64,7 +64,7 @@
    * [Orphic Disciplines](magic/orphic_disciplines.md)
    * [Devotions](magic/devotions.md)
 * [Character Options and Motivation](character_options_and_motivation.md)
-* The World at Night
+* [The World at Night](the_world_at_night.md)
 * Persona non Grata
 * [Points of View](points_of_view.md)
 
