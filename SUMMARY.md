@@ -85,7 +85,7 @@
    * [I Fought The Law](persona_non_grata/i_fought_the_law.md)
 * [Points of View](points_of_view.md)
    * [First Person](points_of_view/first_person.md)
-   * Second Person
+   * [Second Person](points_of_view/second_person.md)
    * Third Person
    * The Fourth Wall
    * Making a Character
