@@ -32,13 +32,16 @@ Chasing the Storm is the astral sorcery dedicated to understanding and controlli
 #### Basic Powers
 * **Howling Winds** The character can make winds rise or soften and blow in a direction of their choice. The character can spend a complex action to make an Agility + Rigging or Logic + Operations test to increase or decrease the Strength of the winds by the number of hits.
 * **Rising Mists** The character can fill areas with thickening fog that obscures vision and makes things seem really spooky. By spending a Complex Action, the character can fill up their immediate vicinity with mists, extending up to 3 meters per Potency from their person. By spending two power points, they can create an actual weather pattern, with mists creeping in out to a kilometer per Potency from their person. The character makes an Agility + Rigging or Logic + Operations test to decrease visibility through the mists:
-[table][row]**Hits**[col]**Distance to Total Concealment**
-[row]**1**[col] 6 meters
-[row]**2**[col] 3 meters
-[row]**3**[col] 1 meter
-[row]**4**[col] 50 centimeters
-[row]**5**[col] 20 centimeters
-[row]**6**[col] 5 centimeters[/table]
+
+| Hits | Distance to Total Concealment |
+|:----:|:------------------------------|
+| 1 | 6 meters |
+| 2 | 3 meters |
+| 3 | 1 meter |
+| 4 | 50 centimeters |
+| 5 | 20 centimeters |
+| 6 | 5 centimeters |
+
 #### Advanced Powers
 * **Lightning Strike** A cloudy sky can be split by a lightning bolt crashing to Earth. By spending a complex action, the character can direct a lightning bolt to strike an individual or object. The lightning bolt cannot be dodged, its threshold to hit the target at any range is 2, and it is a Damage 5 weapon. It is powered by an Agility + Rigging or Logic + Electronics test. Once unleashed, the bolt of lightning is real electricity, and can be defended against with conductive materials in classic Franklin or Tesla fashion.
 * **Tumultuous Rain** The character can pull clouds into a clear sky and rain from clouds. It takes a base amount of time of an hour to bring rain from a clear sky, and net hits on an Agility + Rigging or Logic + Operations test can reduce the timeframe. The more it is "naturally" clouded, the easier this is, and the character gains a +2 bonus if there are already clouds _somewhere_ in the sky, raising to a +6 bonus if there is already some tiny amount of rain coming down. The weather can be affected out to 5 kilometers per Potency of the character. Once established, a weather pattern persists until natural forces blow it away. This costs 3 power points.
@@ -56,9 +59,9 @@ The Coil of Thorns is the Astral Sorcery dedicated to understanding and manipula
 
 | Hits | Poison | Effect |
 |:----:|:-------|:-------|
-| **1** | Anti-toxin | Reduces the power of toxins by its hits. |
-| **3** | Sleep Drought | Consuming victim falls into a deep sleep. |
-| **5** | Hypnotic | Consuming victim enters a highly suggestible state for an hour. |
+| 1 | Anti-toxin | Reduces the power of toxins by its hits. |
+| 3 | Sleep Drought | Consuming victim falls into a deep sleep. |
+| 5 | Hypnotic | Consuming victim enters a highly suggestible state for an hour. |
 
 * **Grass Rope** The character can have plant matter grow at tremendous speed according to their will and grasp their enemies with wooden fastness. The character spends a Complex Action and makes a Logic + Rigging or Intuition + Survival test, and the leafy strands lash out with a Strength and Agility equal to the number of hits.
 
