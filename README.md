@@ -7,7 +7,7 @@ Cooperative storytelling can be done without any products at all, as with collab
 
 The materials in this book are Public Domain. You can print copies, trade electronic copies with friends, modify the files, or produce derivative work. If you like After Sundown enough, go ahead and "buy" a pdf. But if you'd rather trade it around as a torrent, that is fine too.
 
-(Author: Frank Trollman; Editor: Lokathor; Original Posting: [The Gaming Den](http://tgdmb.com/viewtopic.php?t=52316))
+(Author: Frank Trollman; Editor: Lokathor; Original Posting: [The Gaming Den](http://tgdmb.com/viewtopic.php?t=52316); Markdown source available [on Github](https://github.com/Lokathor/after-sundown))
 
 Compared to the original version, this version has some minor organizational changes in terms of section ordering and such.
 
