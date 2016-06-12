@@ -9,6 +9,6 @@ The materials in this book are Public Domain. You can print copies, trade electr
 
 (Author: Frank Trollman; Editor: Lokathor; Original Posting: [The Gaming Den](http://tgdmb.com/viewtopic.php?t=52316); Markdown source available [on Github](https://github.com/Lokathor/after-sundown))
 
-Compared to the original version, this version has some minor organizational changes in terms of section ordering and such.
+Compared to the original version, this version has some minor organizational changes, with sections being re-ordered a bit within the chapters.
 
 It also renames the magical abilities to simply being "abilities" or "powers", and the groups of abilities are called "disciplines". The original version had you learning "disciplines" and "powers" within the various "Powers". Note the capitalization difference. It was all needlessly confusing because you can't pronounce capitalization when you're talking with people around the table. So now the terms are a little cleaned up is all.
