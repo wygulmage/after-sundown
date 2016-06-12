@@ -11,4 +11,4 @@ The materials in this book are Public Domain. You can print copies, trade electr
 
 Compared to the original version, this version has some minor organizational changes in terms of section ordering and such.
 
-It also renames the magical abilities to simply being "abilities" or "powers", and the groups of abilities are called "disciplines". The original version had you learning "disciplines" and "powers" within the various "Powers", and it was all needlessly confusing because you can't pronounce capitalization when you're talking with people around the table.
+It also renames the magical abilities to simply being "abilities" or "powers", and the groups of abilities are called "disciplines". The original version had you learning "disciplines" and "powers" within the various "Powers". Note the capitalization difference. It was all needlessly confusing because you can't pronounce capitalization when you're talking with people around the table. So now the terms are a little cleaned up is all.
