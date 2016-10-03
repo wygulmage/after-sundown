@@ -15,14 +15,14 @@ A Terminal Wound is much like an Incapacitating Wound in that it fills up all of
 
 | Net Damage | Wound Name | Wound Boxes |
 |:----------:|:-----------|:------------|
-| 0 | **P**etty Wounds | 1 Box |
-| 1 | **O**rdinary Wounds | 3 Boxes |
-| 2 | **S**erious Wounds | 6 Boxes |
-| 3 | **I**ncapacitating Wounds | All 10 Boxes |
-| 4 | **T**erminal Wounds | All 10 Boxes\* |
+| 1 | **P**etty Wounds | 1 Box |
+| 2 | **O**rdinary Wounds | 3 Boxes |
+| 3 | **S**erious Wounds | 6 Boxes |
+| 4 | **I**ncapacitating Wounds | All 10 Boxes |
 | 5 | **T**erminal Wounds | All 10 Boxes\* |
 | 6 | **T**erminal Wounds | All 10 Boxes\* |
-| 7+ | **D**eath | NA |
+| 7 | **T**erminal Wounds | All 10 Boxes\* |
+| 8+ | **D**eath | NA |
 
 \* Also, you are probably going to die.
 
