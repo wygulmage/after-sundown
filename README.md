@@ -9,6 +9,8 @@ The materials in this book are Public Domain. You can print copies, trade electr
 
 (Author: Frank Trollman; Editor: Lokathor; Original Posting: [The Gaming Den](http://tgdmb.com/viewtopic.php?t=52316); Markdown source available [on Github](https://github.com/Lokathor/after-sundown))
 
-Compared to the original version, this version has some minor organizational changes, with sections being re-ordered a bit within the chapters.
+Compared to the original version, this version has some minor organizational changes, with sections being re-ordered a bit within the chapters. There are typographical cleanups as well from time to time.
+
+Of primary note is that the "Wound Table", in the Danger chapter, which gives the number of boxes to fill in for various levels of net damage, has been given a blanket +1 threhold per level. This "errata" made it into Frank's PDF, but the forum post wasn't ever updated.
 
 It also renames the magical abilities to simply being "abilities" or "powers", and the groups of abilities are called "disciplines". The original version had you learning "disciplines" and "powers" within the various "Powers". Note the capitalization difference. It was all needlessly confusing because you can't pronounce capitalization when you're talking with people around the table. So now the terms are a little cleaned up is all.
