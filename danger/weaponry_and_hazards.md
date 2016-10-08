@@ -20,19 +20,19 @@ Ranged weapons are used with Agility + Combat. Each weapon is accurate out to a 
 
 | Weapon | Damage | Range | Strength | Size |
 |:-------|:------:|:-----:|:--------:|:----:|
-| Light Pistol | 2 | (N) S | 1 | S |
-| Heavy Pistol | 3 | (N) W | 2 | S |
-| Machine Pistol | 2A | (N) S | 2 | S |
+| Light Pistol | 3 | (N) S | 1 | S |
+| Heavy Pistol | 4 | (N) W | 2 | S |
+| Machine Pistol | 3A | (N) S | 2 | S |
 | Flare Gun | 1F | (N) W | 2 | S |
-| Submachine Gun | 2A| (S) W | 2 | M |
-| Shotgun | 4 | (N) S | 3 | M |
-| Crossbow | 2 | (S) W | 2 | L |
-| Rifle | 4 | (W) E | 3 | L |
-| Assault Rifle | 3A | (S) E | 3 | L |
-| Auto-Shotgun | 4A | (N) S | 4 | L |
+| Submachine Gun | 3A| (S) W | 2 | M |
+| Shotgun | 5 | (N) S | 3 | M |
+| Crossbow | 3 | (S) W | 2 | L |
+| Rifle | 5 | (W) E | 3 | L |
+| Assault Rifle | 4A | (S) E | 3 | L |
+| Auto-Shotgun | 5A | (N) S | 4 | L |
 | Machinegun | 6A | (W) R | 5 | L |
 | Sniper Rifle | 6 | (E) R | 5 | L |
-| Flame Thrower | 3FA | W<sup>C</sup> | 5 | L |
+| Flame Thrower | 4FA | W<sup>C</sup> | 5 | L |
 | Cannon | 7 | (W) R | 8 | H |
 
 A: Weapon fires in automatic mode.<br />
