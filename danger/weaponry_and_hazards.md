@@ -18,22 +18,22 @@ The strength rating listed with weapons is the strength needed to use the weapon
 
 Ranged weapons are used with Agility + Combat. Each weapon is accurate out to a given range (in parenthesis) and also has a maximum range beyond which the weapon won't work at all. If the target is beyond your weapon's accurate range, increase the Threshold to hit by 1.
 
-| Weapon | Damage | Range | Strength | Size |
+| Weapon | Damage | Range (Max) | Strength | Size |
 |:-------|:------:|:-----:|:--------:|:----:|
-| Light Pistol | 3 | (N) S | 1 | S |
-| Heavy Pistol | 4 | (N) W | 2 | S |
-| Machine Pistol | 3A | (N) S | 2 | S |
-| Flare Gun | 1F | (N) W | 2 | S |
-| Submachine Gun | 3A| (S) W | 2 | M |
-| Shotgun | 5 | (N) S | 3 | M |
-| Crossbow | 3 | (S) W | 2 | L |
-| Rifle | 5 | (W) E | 3 | L |
-| Assault Rifle | 4A | (S) E | 3 | L |
-| Auto-Shotgun | 5A | (N) S | 4 | L |
-| Machinegun | 6A | (W) R | 5 | L |
-| Sniper Rifle | 6 | (E) R | 5 | L |
-| Flame Thrower | 4FA | W<sup>C</sup> | 5 | L |
-| Cannon | 7 | (W) R | 8 | H |
+| Light Pistol | 3 | N (S) | 1 | S |
+| Heavy Pistol | 4 | N (W) | 2 | S |
+| Machine Pistol | 3A | S (N) | 2 | S |
+| Flare Gun | 1F | N (W) | 2 | S |
+| Submachine Gun | 3A| S (W) | 2 | M |
+| Shotgun | 5 | N (S) | 3 | M |
+| Crossbow | 3 | S (W) | 2 | L |
+| Rifle | 5 | W (E) | 3 | L |
+| Assault Rifle | 4A | S (E) | 3 | L |
+| Auto-Shotgun | 5A | N (S) | 4 | L |
+| Machinegun | 6A | W (R) | 5 | L |
+| Sniper Rifle | 6 | E (R) | 5 | L |
+| Flame Thrower | 4FA | A (W<sup>C</sup>) | 5 | L |
+| Cannon | 7 | W (R) | 8 | H |
 
 A: Weapon fires in automatic mode.<br />
 C: Weapon ignores most cover.<br />
