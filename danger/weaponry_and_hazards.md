@@ -67,17 +67,17 @@ Melee weaponry differs from ranged weaponry primarily in that it simply goes as 
 |:-------|:------:|:--------:|:----:|
 | Fist | 0N | 0 | X |
 | Bottle | 1N | 1 | S |
-| Knife | 1 | 1 | S |
-| Hammer | 2 | 1 | S |
+| Knife | 2 | 1 | S |
+| Hammer | 3 | 1 | S |
 | Baseball Bat | 2N | 2 | M |
-| Sword | 3 | 2 | M |
-| Crowbar | 2 | 2 | M |
-| Chair | 1N | 3 | L |
-| Axe | 3 | 3 | L |
-| Chainsaw | 3 | 4 | L |
-| Great Weapon | 4 | 4 | L |
-| Sign Post | 4N | 5 | L |
-| Fire Hydrant | 4 | 6 | L |
+| Sword | 4| 2 | M |
+| Crowbar | 3 | 2 | M |
+| Chair | 2N | 3 | L |
+| Axe | 4 | 3 | L |
+| Chainsaw | 4 | 4 | L |
+| Great Weapon | 5 | 4 | L |
+| Sign Post | 5N | 5 | L |
+| Fire Hydrant | 5 | 6 | L |
 | Lamp Post | 6N | 9 | H |
 | Car | 6N | 10 | H |
 
