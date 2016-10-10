@@ -142,7 +142,7 @@ Karma tokens should be physical objects of sufficient mass to be effectively sli
 #### Key
 
 | Card | Full Name |
-|:----:|:----------|
+|:-----|:----------|
 | Swords P | Page (or Jack) of Swords |
 | Pentacles N | Knight of Pentacles |
 | Cup K | King of Cups |
