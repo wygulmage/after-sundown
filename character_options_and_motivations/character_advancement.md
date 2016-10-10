@@ -30,7 +30,9 @@ Regardless of the type of supernatural creature that the character is becoming (
 * A Master Passion appropriate to the character's transformation story.
 * The 6 Basic and 2 Advanced Powers common to their supernatural type.
 * 1 additional Basic Power.
-* 1 additional Advanced PowerWhether these new aspects of the character are discovered gradually over several chapters or gained all at once in a flash of insight and despair, these changes are automatic and have no impact on any other sources of advancement the character may have coming.
+* 1 additional Advanced Power
+
+Whether these new aspects of the character are discovered gradually over several chapters or gained all at once in a flash of insight and despair, these changes are automatic and have no impact on any other sources of advancement the character may have coming.
 
 Creatures in After Sundown normally gain Potency and learn Elder Powers only very slowly. Many Elders only have a single Elder Ability for each century or three of their persistence - or even less. The King with Three Shadows has a Potency of 10, indicating that his Potency gain per century averages out to like ¼ or so. In the default After Sundown chronicle we can expect the number of centuries to pass to be some number very close to zero. Getting Elder Powrs and increasing Potency the "honest" way is simply not going to happen. Characters in After Sundown _can_ gain these powers over the course of a story, but only by grabbing a hold of asymmetric power of some sort. 
 
@@ -41,8 +43,9 @@ Similarly, powerful artifacts can be Titanized under certain circumstances, and 
 ### Karmic Advancement
 _What goes around will have gone around._
 
-At the conclusion of chapters, characters may advance _personally_ in addition to having advanced their cause over the course of the chapter. Advancement of this sort is difficult to plan ahead of time. No one really knows what lessons they will learn from the future and supernatural creatures don't always get to decide ahead of time what powers they will develop or when they will do so. And so when a chapter ends and the players are ready to do the accounting at the conclusion the MC may deal out cards for players to bid on. They bid with karma tokens. Tokens are gained by the following means: * Each player may have one or more karma tokens banked from the previous chapter. Any tokens that are not spent are banked automatically.
+At the conclusion of chapters, characters may advance _personally_ in addition to having advanced their cause over the course of the chapter. Advancement of this sort is difficult to plan ahead of time. No one really knows what lessons they will learn from the future and supernatural creatures don't always get to decide ahead of time what powers they will develop or when they will do so. And so when a chapter ends and the players are ready to do the accounting at the conclusion the MC may deal out cards for players to bid on. They bid with karma tokens. Tokens are gained by the following means:
 
+* Each player may have one or more karma tokens banked from the previous chapter. Any tokens that are not spent are banked automatically.
 * Every chapter, each player gains two tokens that they can bid for themselves.
 * Every chapter, each player has another token that they can nominate _another_ player to get when they do something awesome. What constitutes something awesome enough to warrant getting a karma token depends upon the style of game being run When it comes time for bidding, the MC deals out a number of Tarot cards and one of the players can choose one to begin bidding on by bidding a number of tokens for it. Then it is auctioned off, with each player in turn being offered the opportunity to bid more tokens or pass. When everyone has passed, the player with the highest bid spends that many tokens and adjusts their character sheet as dictated by the card gained. Then the player to the left of the one who got the last card nominates another available card by bidding on it or passes the opportunity to the player to _their_ left. This continues until all cards have been sold, none of the players wish to bid on any remaining cards, or no one has any more tokens (no card can be "sold" for less than 1 token).
 
@@ -52,62 +55,62 @@ Karma tokens should be physical objects of sufficient mass to be effectively sli
 
 | Card | Advancement |
 |:----:|:------------|
-| †2 | A specialization in a Physical Skill |
-| †3 | A new Physical skill at rating 1 |
-| †4 | +1 to Perception |
-| †5 | +1 to Stealth |
-| †6 | +1 to Athletics |
-| †7 | +1 to Drive |
-| †8 | +1 to a Physical skill you used this chapter |
-| †9 | +1 to a Physical skill of your choice |
-| †10 | +1 to a Physical skill of your choice |
-| †P | A specialization in any skill |
-| †N | A new skill at Rating 1 |
-| †Q | +1 to any skill |
-| †K | +1 to any skill |
-| †A | +1 to any skill or a new skill at rating 1 |
-| ¤2 | A specialization in a Technical Skill |
-| ¤3 | A new Technical skill at rating 1 |
-| ¤4 | +1 to Electronics |
-| ¤5 | +1 to Artisan |
-| ¤6 | +1 to Rigging |
-| ¤7 | +1 to Research |
-| ¤8 | +1 to a Technical skill you used this chapter |
-| ¤9 | +1 to a Technical skill of your choice |
-| ¤10 | +1 to a Technical skill of your choice |
-| ¤P | A specialization in any skill |
-| ¤N | A new skill at Rating 1 |
-| ¤Q | +1 to any skill |
-| ¤K | +1 to any skill |
-| ¤A | +1 to any skill or a new skill at rating 1 |
-| þ2 | A specialization in a Social skill |
-| þ3 | A new Social skill at rating 1 |
-| þ4 | +1 to Bureaucracy |
-| þ5 | +1 to Empathy |
-| þ6 | +1 to Expression |
-| þ7 | +1 to Persuasion |
-| þ8 | +1 to a Social skill you used this chapter |
-| þ9 | +1 to a Social skill of your choice |
-| þ10 | +1 to a Social skill of your choice |
-| þP | A specialization in any skill |
-| þN | A new skill at Rating 1 |
-| þQ | +1 to any skill |
-| þK :| +1 to any skill |
-| þA | +1 to any skill or a new skill at rating 1 |
-| ¶2 | Two new Backgrounds at rating 1 |
-| ¶3 | A new Background at rating 2 |
-| ¶4 | +2 to a Background you used this chapter |
-| ¶5 | +2 to a Background you used this chapter |
-| ¶6 | +1 to a Background you used this chapter and another Background |
-| ¶7 | +1 to two Backgrounds of your choice |
-| ¶8 | +2 to a Background of your choice |
-| ¶9 | +2 to a Background of your choice |
-| ¶10 | Gain a Positive Quality |
-| ¶P | Gain a Positive Quality |
-| ¶N | Gain a Positive Quality |
-| ¶Q | Learn a Language |
-| ¶K | Learn a Language |
-| ¶A | +1 to any skill or a new skill at rating 1 |
+| Swords 2 | A specialization in a Physical Skill |
+| Swords 3 | A new Physical skill at rating 1 |
+| Swords 4 | +1 to Perception |
+| Swords 5 | +1 to Stealth |
+| Swords 6 | +1 to Athletics |
+| Swords 7 | +1 to Drive |
+| Swords 8 | +1 to a Physical skill you used this chapter |
+| Swords 9 | +1 to a Physical skill of your choice |
+| Swords 10 | +1 to a Physical skill of your choice |
+| Swords P | A specialization in any skill |
+| Swords N | A new skill at Rating 1 |
+| Swords Q | +1 to any skill |
+| Swords K | +1 to any skill |
+| Swords A | +1 to any skill or a new skill at rating 1 |
+| Pentacles 2 | A specialization in a Technical Skill |
+| Pentacles 3 | A new Technical skill at rating 1 |
+| Pentacles 4 | +1 to Electronics |
+| Pentacles 5 | +1 to Artisan |
+| Pentacles 6 | +1 to Rigging |
+| Pentacles 7 | +1 to Research |
+| Pentacles 8 | +1 to a Technical skill you used this chapter |
+| Pentacles 9 | +1 to a Technical skill of your choice |
+| Pentacles 10 | +1 to a Technical skill of your choice |
+| Pentacles P | A specialization in any skill |
+| Pentacles N | A new skill at Rating 1 |
+| Pentacles Q | +1 to any skill |
+| Pentacles K | +1 to any skill |
+| Pentacles A | +1 to any skill or a new skill at rating 1 |
+| Cup 2 | A specialization in a Social skill |
+| Cup 3 | A new Social skill at rating 1 |
+| Cup 4 | +1 to Bureaucracy |
+| Cup 5 | +1 to Empathy |
+| Cup 6 | +1 to Expression |
+| Cup 7 | +1 to Persuasion |
+| Cup 8 | +1 to a Social skill you used this chapter |
+| Cup 9 | +1 to a Social skill of your choice |
+| Cup 10 | +1 to a Social skill of your choice |
+| Cup P | A specialization in any skill |
+| Cup N | A new skill at Rating 1 |
+| Cup Q | +1 to any skill |
+| Cup K :| +1 to any skill |
+| Cup A | +1 to any skill or a new skill at rating 1 |
+| Wand 2 | Two new Backgrounds at rating 1 |
+| Wand 3 | A new Background at rating 2 |
+| Wand 4 | +2 to a Background you used this chapter |
+| Wand 5 | +2 to a Background you used this chapter |
+| Wand 6 | +1 to a Background you used this chapter and another Background |
+| Wand 7 | +1 to two Backgrounds of your choice |
+| Wand 8 | +2 to a Background of your choice |
+| Wand 9 | +2 to a Background of your choice |
+| Wand 10 | Gain a Positive Quality |
+| Wand P | Gain a Positive Quality |
+| Wand N | Gain a Positive Quality |
+| Wand Q | Learn a Language |
+| Wand K | Learn a Language |
+| Wand A | +1 to any skill or a new skill at rating 1 |
 
 ####Major Arcana
 
@@ -140,10 +143,10 @@ Karma tokens should be physical objects of sufficient mass to be effectively sli
 
 | Card | Full Name |
 |:----:|:----------|
-| †P | Page (or Jack) of Swords |
-| ¤N | Knight of Pentacles |
-| þK | King of Cups |
-| ¶A | Ace of Wands |
+| Swords P | Page (or Jack) of Swords |
+| Pentacles N | Knight of Pentacles |
+| Cup K | King of Cups |
+| Wand A | Ace of Wands |
 
 #### Dealing
 There are several different methods for determining advancement deals. Generally speaking, a relatively consistent system should be used throughout a chronicle and a campaign. Remember that a Major Arcana is worth about 4 times what a Minor Arcana card is. Bidding is _very_ different when players are spending the same tokens on a +1 to Research and a +1 Logic in the same auction than when they are evaluating only one or the other.
