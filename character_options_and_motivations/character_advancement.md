@@ -54,7 +54,7 @@ Karma tokens should be physical objects of sufficient mass to be effectively sli
 #### Minor Arcana
 
 | Card | Advancement |
-|:----:|:------------|
+|:-----|:------------|
 | Swords 2 | A specialization in a Physical Skill |
 | Swords 3 | A new Physical skill at rating 1 |
 | Swords 4 | +1 to Perception |
