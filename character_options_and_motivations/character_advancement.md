@@ -5,7 +5,7 @@ Characters in stories tend to become _better_ as the story progresses. This is p
 It is easy for advancement to get out of hand. By the time Spawn beat up the lords of each realm of existence and the creator of the universe, the story really no longer held interest. A power fantasy is only interesting as long as there's still tension. While a fast rate of advancement may feel good, remember that it also advances the timeline towards the point where the game will stop being fun. It's a trade off. Advancement that is too fast or too slow is stultifying.
 
 ### Acquisitive Advancement
-_In picking up a santa-sack full of antiques I feel that I _learned_ that I now own a santa-sack full of antiques._
+_In picking up a santa-sack full of antiques, I feel that I **learned** that I now own a santa-sack full of antiques._
 
 Resources and Status as well as Obligations are gained during the course of normal play. Sometimes these are gained together: if during the course of a story a character boosts a car, they can reasonably expect to have gained a Financial Resource (the car), but may well have gained some Enemies or Stalkers as well by the same act. At other times, a character may end up with a new set of Contacts or a sack of gold totally free and clear.
 
