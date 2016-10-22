@@ -41,6 +41,7 @@ Advanced Powers
 * Fire Starter (Advanced Walk of Flame)
 
 **Distinctive Flaw:** Disloyal
+
 **Story Inspiration:** [The 1932 Mummy](http://www.imdb.com/title/tt0023245/), [Constantine](http://www.imdb.com/title/tt0360486/), [Devil's Advocate](http://www.imdb.com/title/tt0118971/), [Faust](http://www.imdb.com/title/tt0223268/)
 
 ### The Dryad Tradition
@@ -78,6 +79,7 @@ Advanced Powers
 * Telepathy (Advanced Discernment)
 
 **Distinctive Flaw:** Aimless
+
 **Story Inspiration:** [The Craft](http://www.imdb.com/title/tt0115963/), Kotetsu, [Poison Ivy](https://en.wikipedia.org/wiki/Poison_Ivy_%28comics%29)
 
 ### The Khaibit Tradition
@@ -115,4 +117,5 @@ Advanced Powers
 * Reanimate (Advanced Necromancy)
 
 **Distinctive Flaw:** Haunted
+
 **Story Inspiration:** [Reanimator](http://www.imdb.com/title/tt0089885/), [Flatliners](http://www.imdb.com/title/tt0099582/), [Jason and the Argonauts](http://www.imdb.com/title/tt0057197/)
