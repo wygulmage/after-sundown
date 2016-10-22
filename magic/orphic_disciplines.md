@@ -1,6 +1,6 @@
 ## Orphic Sorceries
 
-Orphic Sorceries are collections of spells and occult knowledge that draw their arcane power from Mictlan. The Gloom provides power that is dark, timeless, destructive, and really very frightening to the living. And for good reason, it truly does act as a window into one's mortality. The land of the dead calls inexorably to all living creatures, and sooner or later it will claim them all, and when Orphic Sorceries are used, the draw of death becomes even stronger. This effect is not particularly noticeable for large creatures like humans or even dogs - the cells on the outside of your body are in a constant state of death and rebirth anyway, and even the heaviest exposure to the Gloom is unlikely to give you more than a mild frost burn. But for the very tiny and ephemeral creatures whose lives are over in a day anyway, death magic signals the end. A skilled occultist can use a bag of mayflies or the like to spot the moment that death magic is used, and to gauge the strength, distance, and direction towards the source of The Gloom.
+Orphic Sorceries are collections of spells and occult knowledge that draw their arcane power from Mictlan. The Gloom provides power that is dark, timeless, destructive, and really very frightening to the living. And for good reason, it truly does act as a window into one's mortality. The land of the dead calls inexorably to all living creatures, and sooner or later it will claim them all, and when Orphic Sorceries are used, the draw of death becomes even stronger. This effect is not particularly noticeable for large creatures like humans or even dogs - the cells on the outside of your body are in a constant state of death and rebirth anyway, and even the heaviest exposure to the Gloom is unlikely to give you more than a mild frost burn. But for the very tiny and ephemeral creatures whose lives are over in a day anyway, death magic signals the end. A skilled occultist can use a bag of mayflies or the like to spot the moment that death magic is used, and to gauge the strength, distance, and direction towards the source of the Gloom.
 
 Magic of Mictlan is highly antithetical to seeds, and you can counter Orphic Sorceries by throwing grains at them. Rice, wheat, barley, or maize kernels work equally well, but they have to be live grains. Remember that many commercial food products are neutralized with radiation or flash heating to keep them from going bad.
 
@@ -21,7 +21,7 @@ There is something distinctly alluring about the end. Not just that we cannot he
 | Soporific | Victim fatigued | |
 | Toxic | Victim suffers damage | This is the poison that Soulless get |
 
-**Touch of Darkness** The character's physical attacks inflict aggravated damage. The character can also scratch and bite into metal without hurting themselves. Touch of Darkness cannot be dispelled.
+**Touch of Darkness** The character's unarmed physical attacks inflict aggravated damage. The character can also scratch and bite into metal without hurting themselves. Touch of Darkness cannot be dispelled.
 
 #### Advanced Powers
 
@@ -97,10 +97,10 @@ The Path of Blood delves into the intricacies of life and death from a very liqu
 
 #### Basic Powers
 
-**Gift of Health** 
+**Gift of Health**
 The character can invest a power point into a sample of their own blood, allowing them to transfer power points to others - even to characters who cannot normally have power points or who are at their limit of power points. The gift comes at a price, for the character's blood is also horrendously addictive; like freebase cocaine. A character who has Gift of Health and Vigor or Revive the Flesh may use these transferred power points to strengthen or heal the subject. The power transfer of Gift of Health can be dispelled as if it had been created with 3 hits, but the addictive properties of having drunk power in that manner does not go away no matter how many rice grains a character might be struck with.
 
-**Thaumaturgical Forensics** 
+**Thaumaturgical Forensics**
 The character can make accurate pronouncements about biological samples and give weird CSI tirades given access to creepy magical equipment. The character makes a Logic + Medicine or Logic + Research check. The kinds of information gained varies by the number of hits. Examples follow of investigating the origin of a lock of hair and investigating the source of a lethal wound:
 
 | Hits | The Hair Sample | The Wound |
@@ -114,7 +114,7 @@ The character can make accurate pronouncements about biological samples and give
 
 #### Advanced Powers
 
-**Blood of Acid** 
+**Blood of Acid**
 The character can bleed like one of the xenomorphs from Aliens. Anyone who is within melee range when something inflicts damage on the character is subject to being sprayed with black caustic fluid. Little droplets of the stuff sent in such a circumstance are sufficient to constitute a damage 3 attack. If the character is conscious, they can actively attempt to get their blood to go onto a specific person and try to stage it up with a Strength + Survival or Strength + Combat test. The character can also use their blood in more controlled fashions - that stuff will burn through the lock on a fire door in a few minutes. Blood of Acid can be voluntarily suppressed, or dispelled as a sorcery with 3 hits.
 
 **Theft of Vitae**
