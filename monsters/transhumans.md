@@ -42,6 +42,7 @@ Advanced Powers
 * Psychometry (Advanced Discernment)
 
 **Distinctive Flaw:** Distinctive Appearance
+
 **Story Inspiration:** [She](http://www.imdb.com/title/tt0059710/), [The Mummy](http://www.imdb.com/title/tt0120616/)
 
 ### The Fallen: Rising from the Ashes
@@ -79,6 +80,7 @@ Advanced Powers
 * Desire Reflection (Veil / Magnetism Devotion)
 
 **Distinctive Flaw:** Wither Minor _or_ Feared By Children
+
 **Story Inspiration:** [The Picture of Dorian Gray](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray), [She](http://www.imdb.com/title/tt0059710/), [Rip Van Winkle](https://en.wikipedia.org/wiki/Rip_Van_Winkle)
 
 ### The Icarids: Children of Daedalus
@@ -115,4 +117,5 @@ Advanced Powers
 * Hide in Plain Sight (Advanced Veil)
 
 **Distinctive Flaw:** Prideful
+
 **Story Inspiration:** [The Invisible Man](http://www.imdb.com/title/tt0024184/), [Dr. Jekyll and Mr. Hyde](http://www.imdb.com/title/tt0022835/), [Norman Osbourne](https://en.wikipedia.org/wiki/Norman_Osborn), [Karl Ruprecht Kroenen](https://en.wikipedia.org/wiki/Karl_Ruprecht_Kroenen), [Bane](https://en.wikipedia.org/wiki/Bane_%28comics%29), [Icarus](https://en.wikipedia.org/wiki/Icarus)
