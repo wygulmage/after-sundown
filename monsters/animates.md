@@ -42,6 +42,7 @@ Advanced Powers
 * Quicken Sight (Advanced Celerity)
 
 **Distinctive Flaw:** Conspicuous Consumption
+
 **Story Inspiration:** [Frankenstein](http://www.imdb.com/title/tt0021884/), [Pinocchio](http://www.imdb.com/title/tt0032910/), [Edward Scissorhands](http://www.imdb.com/title/tt0099487/), [Subject Two](http://www.imdb.com/title/tt0492912/), [Herbert West: Reanimator](www.imdb.com/title/tt0089885/)
 
 ### Golems: The Servitor
@@ -77,6 +78,7 @@ Advanced Powers
 * Lost and Found (Advanced Veil)
 
 **Distinctive Flaw:** Either Anachronism _or_ Naive
+
 **Story Inspiration:** [Rabbi Loew](https://en.wikipedia.org/wiki/Golem#The_classic_narrative:_The_Golem_of_Prague), [R.U.R.](https://en.wikipedia.org/wiki/R.U.R.), [Short Circuit](http://www.imdb.com/title/tt0091949/), [Talos](https://en.wikipedia.org/wiki/Talos)
 
 ### Androids: The Lover
@@ -108,4 +110,5 @@ Advanced Powers
 * Contradiction (Advanced Descent of Entropy)
 
 **Distinctive Flaw:** Doomed Romance
+
 **Story Inspiration:** [Pygmalion](https://en.wikipedia.org/wiki/Pygmalion_%28mythology%29), [Metropolis](http://www.imdb.com/title/tt0017136/), [R.U.R.](https://en.wikipedia.org/wiki/R.U.R.), [Weird Science](http://www.imdb.com/title/tt0090305/), [Ifurita](http://myanimelist.net/character/6504/Ifurita), [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
