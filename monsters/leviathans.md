@@ -49,6 +49,7 @@ Advanced Powers
 * Conditioning (Advanced Authority)
 
 **Distinctive Flaw:** Infectious Mood
+
 **Story Inspiration:** [The Shadow Over Innsmouth](https://en.wikipedia.org/wiki/The_Shadow_over_Innsmouth), [The Creature From the Black Lagoon](http://www.imdb.com/title/tt0046876/), [Mermaid's Scar](http://myanimelist.net/anime/2017/Mermaids_Scar)
 
 ### The Troglodytes: Progeny of Drakaina
@@ -84,6 +85,7 @@ Advanced Powers
 * Burrowing (Veil / Clout Devotion)
 
 **Distinctive Flaw:** Unattractive
+
 **Story Inspiration:** [The Mole People](http://www.imdb.com/title/tt0049516/), [Morlocks](https://en.wikipedia.org/wiki/Morlock), [The Hills Have Eyes](http://www.imdb.com/title/tt0077681/)
 
 ### The Mi Go: The Larvae of Echidna
@@ -120,4 +122,5 @@ Advanced Powers
 * Magnify the Swarm (Advanced Swarm Song)
 
 **Distinctive Flaw:** Flake
+
 **Story Inspiration:** [Vampire Hunter D](http://www.imdb.com/title/tt0090248/), [Wrath of Khan](http://www.imdb.com/title/tt0084726/), [Starship Troopers](http://www.imdb.com/title/tt0120201/), [Whisperer in Darkness](http://www.imdb.com/title/tt1498878/)
