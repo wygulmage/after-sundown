@@ -31,7 +31,7 @@ Call of the Wild is the sorcerous path of attuning one's self to wild animals, h
 _Ye elves of hills, brooks, standing lakes and groves,<br />
 And ye that on the sands with printless foot<br />
 Do chase the ebbing Neptune and do fly him<br />
-When he comes back. _
+When he comes back._
 
 Chasing the Storm is the astral sorcery dedicated to understanding and controlling the weather. A character with Chasing the Storm knows what the weather should be for a week in advance (which means that they likewise know when weather sorcery is employed), and they gain a +1 dicepool bonus on Survival tests. With Advanced Chasing the Storm, a character knows the upcoming weather a month in advance and gains a +2 bonus. With Elder Chasing the Storm, the character's predictive capabilities extend for a year and a day and they gain a +3 dicepool bonus on Survival.
 
@@ -87,7 +87,7 @@ The Coil of Thorns is the Astral Sorcery dedicated to understanding and manipula
 
 #### Elder Powers
 
-**Abomination** The character can work in a kitchen for an hour and spend seven power points to grow an Evil Plant from inert plant material and evil magic. The product is a harmless if strange looking potted plant that will grow into a horror over the following night. The character makes a Logic + Medicine or Intuition + Survival test to get the process started. Making a Man Trap is threshold 3, making a Triffid is threshold 5, and making a Pod is threshold 7. Creating these abominations bestows no special ability to control them. 
+**Abomination** The character can work in a kitchen for an hour and spend seven power points to grow an Evil Plant from inert plant material and evil magic. The product is a harmless if strange looking potted plant that will grow into a horror over the following night. The character makes a Logic + Medicine or Intuition + Survival test to get the process started. Making a Man Trap is threshold 3, making a Triffid is threshold 5, and making a Pod is threshold 7. Creating these abominations bestows no special ability to control them.
 
 **Seeds of Destruction** Time destroys all things according to mortals, but even amongst supernaturals it is known that the work of your hands will eventually be claimed by the legacy of nature. Using this ability, the character accelerates this process, causing the progression of seasons and flora to rip things to shreds. Roots shatter stone and flesh alike and tiny pieces blow away in pollen laden dust. This is a damage 3 attack that assaults each target in a cone that is up to 100 meters in length per point of Potency. No inanimate object is treated as larger than small, as bigger things are torn apart from every direction and even the inside. Targets are attacked from inside themselves, so the range is considered Adjacent regardless of physical distance. The character must spend a Complex Action and a power point, and uses Logic + Rigging or Intuition + Survival, increasing damage with hits. This power can be used on a much smaller scale without spending a power point, but it only projects 2 meters per point of Potency.
 
